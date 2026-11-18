@@ -1,0 +1,11 @@
+{
+  "listing_outcome": [
+    "insufficient_evidence",
+    "criteria_not_met"
+  ],
+  "listings": [],
+  "triage": "fast_track",
+  "missing_flags": [],
+  "cal": true,
+  "cal_condition": "Osteosarcoma"
+}

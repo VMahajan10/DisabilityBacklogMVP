@@ -1,0 +1,38 @@
+{
+  "case_id": "case03_knee_conflicting",
+  "title": "Borderline: bilateral knee OA, treating source vs consultative exam conflict",
+  "claimant": {
+    "name": "Theresa L. Banerjee-Holt",
+    "dob": "1966-11-05",
+    "alleged_onset_date": "2025-03-01",
+    "filed_date": "2026-07-30",
+    "claim_number": "SYN-26-000103"
+  },
+  "documents": [
+    {
+      "file": "01_ortho_progress_notes.pdf",
+      "title": "Progress Notes - Summit Joint Center",
+      "logical_pages": 3
+    },
+    {
+      "file": "02_imaging_reports.pdf",
+      "title": "Imaging Reports - Lakeview Radiology",
+      "logical_pages": 2
+    },
+    {
+      "file": "03_consultative_exam.pdf",
+      "title": "Consultative Examination Report - Dr. Delacroix",
+      "logical_pages": 3
+    },
+    {
+      "file": "04_treating_source_statement.pdf",
+      "title": "Medical Source Statement - Dr. Lindqvist",
+      "logical_pages": 1
+    },
+    {
+      "file": "05_function_report.pdf",
+      "title": "Function Report - Adult (claimant)",
+      "logical_pages": 2
+    }
+  ]
+}

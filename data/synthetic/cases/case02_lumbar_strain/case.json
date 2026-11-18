@@ -1,0 +1,33 @@
+{
+  "case_id": "case02_lumbar_strain",
+  "title": "Clearly does not meet: lumbar strain, normal neuro exam, improving",
+  "claimant": {
+    "name": "Dana K. Pruitt",
+    "dob": "1988-07-22",
+    "alleged_onset_date": "2026-01-15",
+    "filed_date": "2026-08-25",
+    "claim_number": "SYN-26-000102"
+  },
+  "documents": [
+    {
+      "file": "01_progress_notes_family_med.pdf",
+      "title": "Progress Notes - Oakridge Family Medicine",
+      "logical_pages": 3
+    },
+    {
+      "file": "02_imaging_reports.pdf",
+      "title": "Imaging Reports - Riverton Radiology",
+      "logical_pages": 1
+    },
+    {
+      "file": "03_physical_therapy_notes.pdf",
+      "title": "Physical Therapy Notes - Riverton PT",
+      "logical_pages": 2
+    },
+    {
+      "file": "04_function_report.pdf",
+      "title": "Function Report - Adult (claimant)",
+      "logical_pages": 2
+    }
+  ]
+}

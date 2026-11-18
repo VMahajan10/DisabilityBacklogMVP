@@ -1,0 +1,33 @@
+{
+  "case_id": "case04_missing_evidence",
+  "title": "Missing evidence: cervical complaints, stale imaging, no treating source opinion",
+  "claimant": {
+    "name": "Gerald P. Vance-Moreau",
+    "dob": "1965-02-27",
+    "alleged_onset_date": "2024-06-15",
+    "filed_date": "2026-10-06",
+    "claim_number": "SYN-26-000104"
+  },
+  "documents": [
+    {
+      "file": "01_primary_care_notes.pdf",
+      "title": "Progress Notes - Harbor Community Health",
+      "logical_pages": 3
+    },
+    {
+      "file": "02_imaging_2024.pdf",
+      "title": "Imaging Report - Bayside Diagnostic Imaging",
+      "logical_pages": 1
+    },
+    {
+      "file": "03_urgent_care_visit.pdf",
+      "title": "Urgent Care Visit - Bayside Urgent Care",
+      "logical_pages": 1
+    },
+    {
+      "file": "04_function_report.pdf",
+      "title": "Function Report - Adult (claimant)",
+      "logical_pages": 2
+    }
+  ]
+}

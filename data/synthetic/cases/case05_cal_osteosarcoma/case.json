@@ -1,0 +1,33 @@
+{
+  "case_id": "case05_cal_osteosarcoma",
+  "title": "CAL condition: osteosarcoma of the femur with pulmonary metastases",
+  "claimant": {
+    "name": "Lucia F. Marchetti-Oduya",
+    "dob": "1981-09-30",
+    "alleged_onset_date": "2026-05-20",
+    "filed_date": "2026-10-20",
+    "claim_number": "SYN-26-000105"
+  },
+  "documents": [
+    {
+      "file": "01_oncology_notes.pdf",
+      "title": "Oncology Notes - Northfield Cancer Institute",
+      "logical_pages": 2
+    },
+    {
+      "file": "02_pathology_report.pdf",
+      "title": "Surgical Pathology Report - Northfield",
+      "logical_pages": 1
+    },
+    {
+      "file": "03_imaging_reports.pdf",
+      "title": "Imaging Reports - Northfield Radiology",
+      "logical_pages": 2
+    },
+    {
+      "file": "04_function_report.pdf",
+      "title": "Function Report - Adult (claimant)",
+      "logical_pages": 2
+    }
+  ]
+}

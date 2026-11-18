@@ -1,0 +1,38 @@
+{
+  "case_id": "case01_lumbar_radiculopathy",
+  "title": "Clear-cut: lumbar nerve root compromise with documented walker need",
+  "claimant": {
+    "name": "Marcus T. Hollowell",
+    "dob": "1972-03-14",
+    "alleged_onset_date": "2025-05-02",
+    "filed_date": "2026-09-08",
+    "claim_number": "SYN-26-000101"
+  },
+  "documents": [
+    {
+      "file": "01_progress_notes_riverbend_ortho.pdf",
+      "title": "Progress Notes - Riverbend Orthopedic & Spine",
+      "logical_pages": 4
+    },
+    {
+      "file": "02_imaging_lakeside.pdf",
+      "title": "Imaging Reports - Lakeside Imaging Center",
+      "logical_pages": 2
+    },
+    {
+      "file": "03_physical_therapy_notes.pdf",
+      "title": "Physical Therapy Notes - Midtown Rehab",
+      "logical_pages": 2
+    },
+    {
+      "file": "04_medical_source_statement.pdf",
+      "title": "Medical Source Statement - Dr. Adebayo",
+      "logical_pages": 2
+    },
+    {
+      "file": "05_function_report.pdf",
+      "title": "Function Report - Adult (claimant)",
+      "logical_pages": 2
+    }
+  ]
+}

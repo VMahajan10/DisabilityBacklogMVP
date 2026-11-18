@@ -1,0 +1,16 @@
+{
+  "listing_outcome": [
+    "insufficient_evidence",
+    "criteria_not_met"
+  ],
+  "listings": [
+    "1.15"
+  ],
+  "triage": "standard",
+  "missing_flags": [
+    "no_recent_imaging",
+    "no_treating_source_opinion",
+    "stale_records"
+  ],
+  "cal": false
+}

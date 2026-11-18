@@ -1,0 +1,33 @@
+{
+  "case_id": "case06_tibial_fracture_healing",
+  "title": "Recent tibial plateau fracture after ORIF, healing on schedule (duration not established)",
+  "claimant": {
+    "name": "Owen R. Szymanski-Hale",
+    "dob": "1979-12-08",
+    "alleged_onset_date": "2026-06-28",
+    "filed_date": "2026-09-15",
+    "claim_number": "SYN-26-000106"
+  },
+  "documents": [
+    {
+      "file": "01_ortho_trauma_notes.pdf",
+      "title": "Progress Notes - Eastgate Orthopedic Trauma",
+      "logical_pages": 3
+    },
+    {
+      "file": "02_imaging_reports.pdf",
+      "title": "Imaging Reports - Eastgate Radiology",
+      "logical_pages": 2
+    },
+    {
+      "file": "03_physical_therapy_notes.pdf",
+      "title": "Physical Therapy Notes - Eastgate Rehab",
+      "logical_pages": 1
+    },
+    {
+      "file": "04_function_report.pdf",
+      "title": "Function Report - Adult (claimant)",
+      "logical_pages": 2
+    }
+  ]
+}
