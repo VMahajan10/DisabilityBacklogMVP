@@ -1,0 +1,41 @@
+{
+  "case": "case07_medium_lumbar",
+  "rows": [
+    {
+      "model": "gpt-4.1-mini",
+      "batches": 10,
+      "items": 157,
+      "citations": 232,
+      "verified": 217,
+      "verification_rate": 0.935,
+      "key_recall": "3/3",
+      "key_hits": {
+        "K1_mri": true,
+        "K2_walker": true,
+        "K3_mss": true
+      },
+      "input_tokens": 36150,
+      "output_tokens": 15850,
+      "cost_usd": 0.0398,
+      "seconds": 42.7
+    },
+    {
+      "model": "gpt-4.1",
+      "batches": 10,
+      "items": 175,
+      "citations": 183,
+      "verified": 181,
+      "verification_rate": 0.989,
+      "key_recall": "3/3",
+      "key_hits": {
+        "K1_mri": true,
+        "K2_walker": true,
+        "K3_mss": true
+      },
+      "input_tokens": 36150,
+      "output_tokens": 14271,
+      "cost_usd": 0.1865,
+      "seconds": 18.1
+    }
+  ]
+}

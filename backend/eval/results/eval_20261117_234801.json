@@ -1,0 +1,750 @@
+{
+  "summary": {
+    "run_at": "2026-11-17T23:48:01",
+    "provider": "openai",
+    "model": "gpt-4.1",
+    "fast_model": "gpt-4.1-mini",
+    "embedding_model": "text-embedding-3-small",
+    "cases": 9,
+    "citation_verification_rate": 0.9986,
+    "listing_accuracy": "9/9",
+    "triage_accuracy": "9/9",
+    "cal_accuracy": "9/9",
+    "missing_flag_recall": "9/9",
+    "key_evidence_recall": "9/9",
+    "total_cost_usd": 1.945
+  },
+  "cases": [
+    {
+      "case": "case01_lumbar_radiculopathy",
+      "size": "small",
+      "pages": 12,
+      "ocr_pages": 0,
+      "scanned_planted": 0,
+      "duplicates_found": 0,
+      "duplicates_planted": 0,
+      "duplicate_pairs_matched": 0,
+      "conflicts_flagged": 0,
+      "conflicts_planted": 0,
+      "conflicts_found": 0,
+      "key_evidence": [],
+      "key_recall": "n/a",
+      "citations": 162,
+      "verified": 162,
+      "verification_rate": 1.0,
+      "map_citations": 72,
+      "map_verified": 70,
+      "listing_ok": true,
+      "listing_detail": "1.15=criteria_appear_met",
+      "expected_listing_outcome": [
+        "criteria_appear_met"
+      ],
+      "listings_assessed": [
+        {
+          "code": "1.15",
+          "overall": "criteria_appear_met"
+        },
+        {
+          "code": "1.17",
+          "overall": "insufficient_evidence"
+        },
+        {
+          "code": "1.16",
+          "overall": "criteria_not_met"
+        }
+      ],
+      "listing_evidence_pages": [
+        12,
+        12,
+        12
+      ],
+      "triage": "fast_track",
+      "expected_triage": "fast_track",
+      "triage_ok": true,
+      "cal_ok": true,
+      "cal_match": null,
+      "rule_flags": [],
+      "expected_flags": [],
+      "flags_ok": true,
+      "seconds": 47.1,
+      "seconds_by_stage": {
+        "ingest": 1.1,
+        "summary": 23.1,
+        "listing": 10.8,
+        "missing": 10.0,
+        "triage": 2.1
+      },
+      "tokens_in": 63936,
+      "tokens_out": 13791,
+      "cost_usd": 0.1778,
+      "cost_by_stage": {
+        "ingest": 0.0001,
+        "summary": 0.0346,
+        "listing": 0.1029,
+        "missing": 0.0304,
+        "triage": 0.0099
+      }
+    },
+    {
+      "case": "case02_lumbar_strain",
+      "size": "small",
+      "pages": 8,
+      "ocr_pages": 0,
+      "scanned_planted": 0,
+      "duplicates_found": 0,
+      "duplicates_planted": 0,
+      "duplicate_pairs_matched": 0,
+      "conflicts_flagged": 0,
+      "conflicts_planted": 0,
+      "conflicts_found": 0,
+      "key_evidence": [],
+      "key_recall": "n/a",
+      "citations": 85,
+      "verified": 85,
+      "verification_rate": 1.0,
+      "map_citations": 47,
+      "map_verified": 47,
+      "listing_ok": true,
+      "listing_detail": "1.16=criteria_not_met",
+      "expected_listing_outcome": [
+        "criteria_not_met"
+      ],
+      "listings_assessed": [
+        {
+          "code": "1.16",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.15",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.17",
+          "overall": "criteria_not_met"
+        }
+      ],
+      "listing_evidence_pages": [
+        8,
+        8,
+        8
+      ],
+      "triage": "standard",
+      "expected_triage": "standard",
+      "triage_ok": true,
+      "cal_ok": true,
+      "cal_match": null,
+      "rule_flags": [],
+      "expected_flags": [],
+      "flags_ok": true,
+      "seconds": 38.5,
+      "seconds_by_stage": {
+        "ingest": 0.5,
+        "summary": 20.2,
+        "listing": 9.3,
+        "missing": 6.4,
+        "triage": 2.1
+      },
+      "tokens_in": 49113,
+      "tokens_out": 9989,
+      "cost_usd": 0.1428,
+      "cost_by_stage": {
+        "ingest": 0.0,
+        "summary": 0.0245,
+        "listing": 0.0926,
+        "missing": 0.0192,
+        "triage": 0.0064
+      }
+    },
+    {
+      "case": "case03_knee_conflicting",
+      "size": "small",
+      "pages": 11,
+      "ocr_pages": 0,
+      "scanned_planted": 0,
+      "duplicates_found": 0,
+      "duplicates_planted": 0,
+      "duplicate_pairs_matched": 0,
+      "conflicts_flagged": 2,
+      "conflicts_planted": 0,
+      "conflicts_found": 0,
+      "key_evidence": [],
+      "key_recall": "n/a",
+      "citations": 136,
+      "verified": 136,
+      "verification_rate": 1.0,
+      "map_citations": 59,
+      "map_verified": 59,
+      "listing_ok": true,
+      "listing_detail": "1.18=insufficient_evidence",
+      "expected_listing_outcome": [
+        "insufficient_evidence"
+      ],
+      "listings_assessed": [
+        {
+          "code": "1.18",
+          "overall": "insufficient_evidence"
+        },
+        {
+          "code": "1.17",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.20",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.16",
+          "overall": "criteria_not_met"
+        }
+      ],
+      "listing_evidence_pages": [
+        11,
+        11,
+        11,
+        11
+      ],
+      "triage": "senior_examiner",
+      "expected_triage": "senior_examiner",
+      "triage_ok": true,
+      "cal_ok": true,
+      "cal_match": null,
+      "rule_flags": [],
+      "expected_flags": [],
+      "flags_ok": true,
+      "seconds": 40.0,
+      "seconds_by_stage": {
+        "ingest": 0.6,
+        "summary": 18.8,
+        "listing": 10.0,
+        "missing": 8.4,
+        "triage": 2.0
+      },
+      "tokens_in": 64939,
+      "tokens_out": 12672,
+      "cost_usd": 0.1837,
+      "cost_by_stage": {
+        "ingest": 0.0001,
+        "summary": 0.0301,
+        "listing": 0.1214,
+        "missing": 0.0234,
+        "triage": 0.0088
+      }
+    },
+    {
+      "case": "case04_missing_evidence",
+      "size": "small",
+      "pages": 7,
+      "ocr_pages": 0,
+      "scanned_planted": 0,
+      "duplicates_found": 0,
+      "duplicates_planted": 0,
+      "duplicate_pairs_matched": 0,
+      "conflicts_flagged": 0,
+      "conflicts_planted": 0,
+      "conflicts_found": 0,
+      "key_evidence": [],
+      "key_recall": "n/a",
+      "citations": 94,
+      "verified": 94,
+      "verification_rate": 1.0,
+      "map_citations": 38,
+      "map_verified": 37,
+      "listing_ok": true,
+      "listing_detail": "1.15=criteria_not_met",
+      "expected_listing_outcome": [
+        "insufficient_evidence",
+        "criteria_not_met"
+      ],
+      "listings_assessed": [
+        {
+          "code": "1.15",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.16",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.18",
+          "overall": "criteria_not_met"
+        }
+      ],
+      "listing_evidence_pages": [
+        7,
+        7,
+        7
+      ],
+      "triage": "standard",
+      "expected_triage": "standard",
+      "triage_ok": true,
+      "cal_ok": true,
+      "cal_match": null,
+      "rule_flags": [
+        "no_recent_imaging",
+        "no_treating_source_opinion",
+        "stale_records"
+      ],
+      "expected_flags": [
+        "no_recent_imaging",
+        "no_treating_source_opinion",
+        "stale_records"
+      ],
+      "flags_ok": true,
+      "seconds": 35.0,
+      "seconds_by_stage": {
+        "ingest": 1.2,
+        "summary": 13.6,
+        "listing": 10.2,
+        "missing": 8.2,
+        "triage": 1.7
+      },
+      "tokens_in": 51348,
+      "tokens_out": 10105,
+      "cost_usd": 0.1543,
+      "cost_by_stage": {
+        "ingest": 0.0,
+        "summary": 0.0196,
+        "listing": 0.1051,
+        "missing": 0.0234,
+        "triage": 0.0061
+      }
+    },
+    {
+      "case": "case05_cal_osteosarcoma",
+      "size": "small",
+      "pages": 7,
+      "ocr_pages": 0,
+      "scanned_planted": 0,
+      "duplicates_found": 0,
+      "duplicates_planted": 0,
+      "duplicate_pairs_matched": 0,
+      "conflicts_flagged": 0,
+      "conflicts_planted": 0,
+      "conflicts_found": 0,
+      "key_evidence": [],
+      "key_recall": "n/a",
+      "citations": 62,
+      "verified": 62,
+      "verification_rate": 1.0,
+      "map_citations": 36,
+      "map_verified": 36,
+      "listing_ok": true,
+      "listing_detail": "top 1.22=insufficient_evidence",
+      "expected_listing_outcome": [
+        "insufficient_evidence",
+        "criteria_not_met"
+      ],
+      "listings_assessed": [
+        {
+          "code": "1.22",
+          "overall": "insufficient_evidence"
+        },
+        {
+          "code": "1.20",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.19",
+          "overall": "criteria_not_met"
+        }
+      ],
+      "listing_evidence_pages": [
+        7,
+        7,
+        7
+      ],
+      "triage": "fast_track",
+      "expected_triage": "fast_track",
+      "triage_ok": true,
+      "cal_ok": true,
+      "cal_match": "Osteosarcoma, formerly known as Bone Cancer",
+      "rule_flags": [
+        "no_treating_source_opinion"
+      ],
+      "expected_flags": [],
+      "flags_ok": true,
+      "seconds": 30.2,
+      "seconds_by_stage": {
+        "ingest": 0.5,
+        "summary": 15.8,
+        "listing": 5.9,
+        "missing": 6.0,
+        "triage": 2.0
+      },
+      "tokens_in": 39914,
+      "tokens_out": 7192,
+      "cost_usd": 0.1072,
+      "cost_by_stage": {
+        "ingest": 0.0,
+        "summary": 0.0194,
+        "listing": 0.0636,
+        "missing": 0.0172,
+        "triage": 0.007
+      }
+    },
+    {
+      "case": "case06_tibial_fracture_healing",
+      "size": "small",
+      "pages": 8,
+      "ocr_pages": 0,
+      "scanned_planted": 0,
+      "duplicates_found": 0,
+      "duplicates_planted": 0,
+      "duplicate_pairs_matched": 0,
+      "conflicts_flagged": 0,
+      "conflicts_planted": 0,
+      "conflicts_found": 0,
+      "key_evidence": [],
+      "key_recall": "n/a",
+      "citations": 92,
+      "verified": 91,
+      "verification_rate": 0.9891,
+      "map_citations": 48,
+      "map_verified": 48,
+      "listing_ok": true,
+      "listing_detail": "1.22=criteria_not_met",
+      "expected_listing_outcome": [
+        "criteria_not_met",
+        "insufficient_evidence"
+      ],
+      "listings_assessed": [
+        {
+          "code": "1.22",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.17",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.20",
+          "overall": "criteria_not_met"
+        }
+      ],
+      "listing_evidence_pages": [
+        8,
+        8,
+        8
+      ],
+      "triage": "standard",
+      "expected_triage": "standard",
+      "triage_ok": true,
+      "cal_ok": true,
+      "cal_match": null,
+      "rule_flags": [
+        "no_treating_source_opinion"
+      ],
+      "expected_flags": [],
+      "flags_ok": true,
+      "seconds": 30.5,
+      "seconds_by_stage": {
+        "ingest": 0.6,
+        "summary": 16.5,
+        "listing": 6.1,
+        "missing": 6.0,
+        "triage": 1.3
+      },
+      "tokens_in": 40706,
+      "tokens_out": 7711,
+      "cost_usd": 0.1095,
+      "cost_by_stage": {
+        "ingest": 0.0,
+        "summary": 0.0231,
+        "listing": 0.0641,
+        "missing": 0.0162,
+        "triage": 0.006
+      }
+    },
+    {
+      "case": "case07_medium_lumbar",
+      "size": "medium",
+      "pages": 149,
+      "ocr_pages": 5,
+      "scanned_planted": 5,
+      "duplicates_found": 10,
+      "duplicates_planted": 10,
+      "duplicate_pairs_matched": 8,
+      "conflicts_flagged": 2,
+      "conflicts_planted": 1,
+      "conflicts_found": 1,
+      "key_evidence": [
+        {
+          "id": "K1_mri",
+          "page": 78,
+          "scanned": false,
+          "any": true,
+          "summary": true,
+          "listing": true
+        },
+        {
+          "id": "K2_walker",
+          "page": 92,
+          "scanned": false,
+          "any": true,
+          "summary": true,
+          "listing": true
+        },
+        {
+          "id": "K3_mss",
+          "page": 98,
+          "scanned": false,
+          "any": true,
+          "summary": true,
+          "listing": true
+        }
+      ],
+      "key_recall": "3/3",
+      "citations": 232,
+      "verified": 231,
+      "verification_rate": 0.9957,
+      "map_citations": 202,
+      "map_verified": 174,
+      "listing_ok": true,
+      "listing_detail": "1.15=criteria_appear_met",
+      "expected_listing_outcome": [
+        "criteria_appear_met"
+      ],
+      "listings_assessed": [
+        {
+          "code": "1.15",
+          "overall": "criteria_appear_met"
+        },
+        {
+          "code": "1.17",
+          "overall": "insufficient_evidence"
+        },
+        {
+          "code": "1.16",
+          "overall": "criteria_not_met"
+        }
+      ],
+      "listing_evidence_pages": [
+        17,
+        18,
+        11
+      ],
+      "triage": "fast_track",
+      "expected_triage": "fast_track",
+      "triage_ok": true,
+      "cal_ok": true,
+      "cal_match": null,
+      "rule_flags": [
+        "no_recent_imaging"
+      ],
+      "expected_flags": [],
+      "flags_ok": true,
+      "seconds": 84.1,
+      "seconds_by_stage": {
+        "ingest": 16.8,
+        "summary": 39.9,
+        "listing": 11.4,
+        "missing": 13.6,
+        "triage": 2.4
+      },
+      "tokens_in": 149912,
+      "tokens_out": 25660,
+      "cost_usd": 0.2653,
+      "cost_by_stage": {
+        "ingest": 0.0015,
+        "summary": 0.073,
+        "listing": 0.1248,
+        "missing": 0.0521,
+        "triage": 0.014
+      }
+    },
+    {
+      "case": "case08_large_knee_conflict",
+      "size": "large",
+      "pages": 500,
+      "ocr_pages": 20,
+      "scanned_planted": 20,
+      "duplicates_found": 40,
+      "duplicates_planted": 41,
+      "duplicate_pairs_matched": 37,
+      "conflicts_flagged": 2,
+      "conflicts_planted": 2,
+      "conflicts_found": 1,
+      "key_evidence": [
+        {
+          "id": "K1_xray",
+          "page": 252,
+          "scanned": false,
+          "any": true,
+          "summary": true,
+          "listing": true
+        },
+        {
+          "id": "K2_canes",
+          "page": 419,
+          "scanned": false,
+          "any": true,
+          "summary": true,
+          "listing": true
+        },
+        {
+          "id": "K3_ce",
+          "page": 498,
+          "scanned": false,
+          "any": true,
+          "summary": true,
+          "listing": true
+        }
+      ],
+      "key_recall": "3/3",
+      "citations": 321,
+      "verified": 321,
+      "verification_rate": 1.0,
+      "map_citations": 328,
+      "map_verified": 320,
+      "listing_ok": true,
+      "listing_detail": "1.18=insufficient_evidence",
+      "expected_listing_outcome": [
+        "insufficient_evidence"
+      ],
+      "listings_assessed": [
+        {
+          "code": "1.17",
+          "overall": "insufficient_evidence"
+        },
+        {
+          "code": "1.18",
+          "overall": "insufficient_evidence"
+        },
+        {
+          "code": "1.20",
+          "overall": "criteria_not_met"
+        }
+      ],
+      "listing_evidence_pages": [
+        17,
+        16,
+        17
+      ],
+      "triage": "senior_examiner",
+      "expected_triage": "senior_examiner",
+      "triage_ok": true,
+      "cal_ok": true,
+      "cal_match": null,
+      "rule_flags": [
+        "no_treating_source_opinion"
+      ],
+      "expected_flags": [],
+      "flags_ok": true,
+      "seconds": 119.9,
+      "seconds_by_stage": {
+        "ingest": 39.4,
+        "summary": 52.2,
+        "listing": 9.1,
+        "missing": 16.6,
+        "triage": 2.3
+      },
+      "tokens_in": 267422,
+      "tokens_out": 33112,
+      "cost_usd": 0.2921,
+      "cost_by_stage": {
+        "ingest": 0.0043,
+        "summary": 0.1065,
+        "listing": 0.1009,
+        "missing": 0.0649,
+        "triage": 0.0156
+      }
+    },
+    {
+      "case": "case09_xl_lumbar_ocr",
+      "size": "xl",
+      "pages": 1500,
+      "ocr_pages": 61,
+      "scanned_planted": 61,
+      "duplicates_found": 112,
+      "duplicates_planted": 121,
+      "duplicate_pairs_matched": 109,
+      "conflicts_flagged": 2,
+      "conflicts_planted": 1,
+      "conflicts_found": 0,
+      "key_evidence": [
+        {
+          "id": "K1_mri",
+          "page": 752,
+          "scanned": true,
+          "any": true,
+          "summary": true,
+          "listing": true
+        },
+        {
+          "id": "K2_walker",
+          "page": 992,
+          "scanned": false,
+          "any": true,
+          "summary": true,
+          "listing": true
+        },
+        {
+          "id": "K3_mss",
+          "page": 1021,
+          "scanned": false,
+          "any": true,
+          "summary": true,
+          "listing": false
+        }
+      ],
+      "key_recall": "3/3",
+      "citations": 951,
+      "verified": 950,
+      "verification_rate": 0.9989,
+      "map_citations": 922,
+      "map_verified": 858,
+      "listing_ok": true,
+      "listing_detail": "1.15=criteria_appear_met",
+      "expected_listing_outcome": [
+        "criteria_appear_met"
+      ],
+      "listings_assessed": [
+        {
+          "code": "1.15",
+          "overall": "criteria_appear_met"
+        },
+        {
+          "code": "1.16",
+          "overall": "criteria_not_met"
+        },
+        {
+          "code": "1.17",
+          "overall": "criteria_not_met"
+        }
+      ],
+      "listing_evidence_pages": [
+        26,
+        32,
+        13
+      ],
+      "triage": "fast_track",
+      "expected_triage": "fast_track",
+      "triage_ok": true,
+      "cal_ok": true,
+      "cal_match": null,
+      "rule_flags": [
+        "no_recent_imaging"
+      ],
+      "expected_flags": [],
+      "flags_ok": true,
+      "seconds": 285.7,
+      "seconds_by_stage": {
+        "ingest": 105.5,
+        "summary": 149.3,
+        "listing": 9.5,
+        "missing": 18.2,
+        "triage": 2.7
+      },
+      "tokens_in": 642807,
+      "tokens_out": 81919,
+      "cost_usd": 0.5127,
+      "cost_by_stage": {
+        "ingest": 0.01,
+        "summary": 0.2422,
+        "listing": 0.1494,
+        "missing": 0.0902,
+        "triage": 0.0209
+      }
+    }
+  ]
+}
