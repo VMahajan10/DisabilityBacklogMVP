@@ -12,11 +12,17 @@ export default function SourceViewer({ docs, target, onNavigate }: { docs: Docum
 
   const docId = t?.docId;
   const pageNo = t?.page;
+  const cur = docs.find((d) => d.id === docId);
+  // Refetch when the document finishes processing (it has no pages while intake is running).
+  const docVersion = cur ? `${cur.status}:${cur.page_count}` : "";
+  const processing = cur?.status === "processing";
   useEffect(() => {
-    if (docId == null || pageNo == null) return;
+    if (docId == null || pageNo == null || processing) return;
     setErr(null);
     api.get<PageResp>(`/api/documents/${docId}/pages/${pageNo}`).then(setPage).catch((e) => setErr(String(e.message)));
-  }, [docId, pageNo]);
+  }, [docId, pageNo, docVersion, processing]);
+  const docIndex = docs.findIndex((d) => d.id === docId);
+  const totalPages = docs.reduce((a, d) => a + d.page_count, 0);
 
   useEffect(() => {
     markRef.current?.scrollIntoView({ block: "center", behavior: "smooth" });
@@ -44,6 +50,9 @@ export default function SourceViewer({ docs, target, onNavigate }: { docs: Docum
           <span className="text-sm" aria-live="polite">Page {t.page} of {page?.page_count ?? "…"}</span>
           <button className="rounded border border-gray-500 bg-white px-2 py-1 text-sm disabled:opacity-40" disabled={!page || t.page >= page.page_count} onClick={() => onNavigate({ docId: t.docId, page: t.page + 1 })} aria-label="Next page">›</button>
         </div>
+        <span className="text-xs text-gray-700">
+          Document {docIndex + 1} of {docs.length}{totalPages ? ` · claim file has ${totalPages} pages across all documents` : ""}
+        </span>
         <a className="ml-auto text-sm font-semibold text-[#005ea2] underline" href={`/api/documents/${t.docId}/file#page=${t.page}`} target="_blank" rel="noreferrer">
           Open original PDF page ↗
         </a>
@@ -54,7 +63,8 @@ export default function SourceViewer({ docs, target, onNavigate }: { docs: Docum
         </p>
       )}
       {page?.tags && <TagBar tags={page.tags} onNavigate={onNavigate} />}
-      {err && <p className="p-3 text-sm text-[#b50909]">{err}</p>}
+      {processing && <p className="p-3 text-sm text-gray-800">This document is still being processed. Pages appear when intake finishes.</p>}
+      {err && !processing && <p className="p-3 text-sm text-[#b50909]">{err}</p>}
       <div className="flex-1 overflow-auto bg-white p-4">
         <p className="mb-2 text-xs uppercase tracking-wide text-gray-600">Extracted page text (system of record for citations)</p>
         <pre className="whitespace-pre-wrap font-mono text-[13px] leading-relaxed text-gray-900">
