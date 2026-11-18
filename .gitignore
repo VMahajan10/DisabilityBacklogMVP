@@ -1,0 +1,14 @@
+.env
+backend/.venv/
+backend/storage/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+backend/eval/results/
+.DS_Store
+# Large synthetic PDFs are regenerated deterministically from cached notes: `make synth-large`
+data/synthetic/cases/case07_*/*.pdf
+data/synthetic/cases/case08_*/*.pdf
+data/synthetic/cases/case09_*/*.pdf
