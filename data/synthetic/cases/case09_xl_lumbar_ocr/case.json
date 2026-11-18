@@ -1,0 +1,151 @@
+{
+  "case_id": "case09_xl_lumbar_ocr",
+  "title": "Extra large (~1,500 pages): lumbar S1 compromise, key MRI only on a scanned page",
+  "claimant": {
+    "name": "Winslow T. Abernathy-Quade",
+    "dob": "1967-01-28",
+    "alleged_onset_date": "2024-11-05",
+    "filed_date": "2026-09-20",
+    "claim_number": "SYN-26-000109"
+  },
+  "documents": [
+    {
+      "file": "01_pcp.pdf",
+      "title": "Records - Ridgeview Community Health Center (2022-2026)",
+      "logical_pages": 389,
+      "scanned_pages": [
+        10,
+        13,
+        41,
+        90,
+        97,
+        118,
+        128,
+        146,
+        215,
+        224,
+        238,
+        240,
+        262,
+        277,
+        311,
+        319,
+        320
+      ]
+    },
+    {
+      "file": "02_rx.pdf",
+      "title": "Records - CareRite Pharmacy #1187 (2022-2026)",
+      "logical_pages": 161,
+      "scanned_pages": [
+        1,
+        27,
+        82,
+        84,
+        122,
+        134
+      ]
+    },
+    {
+      "file": "03_uc.pdf",
+      "title": "Records - FirstStop Urgent Care - Eastvale (2022-2026)",
+      "logical_pages": 62,
+      "scanned_pages": [
+        37,
+        40
+      ]
+    },
+    {
+      "file": "04_er.pdf",
+      "title": "Records - Eastvale Regional Medical Center Emergency Department (2022-2026)",
+      "logical_pages": 99,
+      "scanned_pages": [
+        10,
+        35,
+        88,
+        96
+      ]
+    },
+    {
+      "file": "05_img.pdf",
+      "title": "Records - Eastvale Diagnostic Imaging (2022-2026)",
+      "logical_pages": 68,
+      "scanned_pages": [
+        6,
+        41,
+        66
+      ]
+    },
+    {
+      "file": "06_pain.pdf",
+      "title": "Records - Eastvale Interventional Pain Clinic (2022-2026)",
+      "logical_pages": 118,
+      "scanned_pages": []
+    },
+    {
+      "file": "07_ortho.pdf",
+      "title": "Records - Eastvale Orthopedic Spine Institute (2022-2026)",
+      "logical_pages": 125,
+      "scanned_pages": [
+        6,
+        35,
+        54,
+        70,
+        77,
+        92
+      ]
+    },
+    {
+      "file": "08_pt.pdf",
+      "title": "Records - Summit Rehab & Wellness (2022-2026)",
+      "logical_pages": 292,
+      "scanned_pages": [
+        40,
+        69,
+        88,
+        103,
+        125,
+        135,
+        136,
+        166,
+        181,
+        224,
+        231,
+        234,
+        245,
+        246,
+        249,
+        254,
+        284
+      ]
+    },
+    {
+      "file": "09_neuro.pdf",
+      "title": "Records - Valley Neurology Associates (2022-2026)",
+      "logical_pages": 62,
+      "scanned_pages": [
+        34
+      ]
+    },
+    {
+      "file": "10_fax.pdf",
+      "title": "Records received by fax from Eastvale Orthopedic Spine Institute (re-sent set)",
+      "logical_pages": 122,
+      "scanned_pages": [
+        17,
+        19,
+        42,
+        48,
+        75
+      ]
+    },
+    {
+      "file": "11_claimant.pdf",
+      "title": "Function Report - Adult (claimant)",
+      "logical_pages": 2,
+      "scanned_pages": []
+    }
+  ],
+  "total_pages": 1500,
+  "size": "large"
+}

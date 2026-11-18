@@ -1,0 +1,576 @@
+{
+ "pcp-2022-09-15-Medication Follow-up:436d6c405e": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports adherence to prescribed medications for hypertension and hyperlipidemia. Denies chest pain, dyspnea, or palpitations. Reports intermittent low back discomfort related to mechanical strain, no radiation or neurological symptoms. Continues working as a delivery driver without significant limitations.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal, no murmurs. Lungs clear to auscultation. Neurological exam intact with normal strength and sensation in lower extremities. Spine exam reveals mild paraspinal tenderness without deformity or neurological deficits.",
+  "assessment": "1. Hypertension, controlled on current regimen.\n2. Hyperlipidemia, stable.\n3. Obesity, BMI in obese range.\n4. Intermittent mechanical low back pain without neurological involvement.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage lifestyle modifications including diet and exercise for weight management. Monitor blood pressure and lipid panel at next visit. Advise patient to use proper body mechanics during work to minimize back strain. Refer to specialist if back pain worsens or neurological symptoms develop."
+ },
+ "pcp-2022-11-08-Office Visit:c485baf937": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient presents for ongoing management of hypertension, hyperlipidemia, and obesity. Reports intermittent mechanical low back pain without radiation or neurological symptoms. Continues working as a delivery driver without significant limitations. No new complaints or medication side effects noted.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal. Lungs clear. Musculoskeletal exam reveals mild lumbar paraspinal tenderness without deformity. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities.",
+  "assessment": "1. Hypertension, controlled but borderline elevated BP readings. 2. Hyperlipidemia, stable on current therapy. 3. Obesity, BMI in obese range. 4. Intermittent mechanical low back pain without neurological deficits, stable; no new findings.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage lifestyle modifications including diet and exercise for weight management. Monitor blood pressure at home and follow up in 3 months. Address low back pain conservatively; refer to specialist if symptoms worsen or neurological signs develop. Routine labs to be obtained prior to next visit."
+ },
+ "pcp-2022-12-24-Annual Wellness Visit:639ff32f53": {
+  "chief_complaint": "Annual wellness visit for chronic condition management",
+  "subjective": "The patient reports intermittent mechanical low back pain without radiation or neurological symptoms. No new complaints. Continues working as a delivery driver. No chest pain, dyspnea, or other systemic symptoms. Adherence to medications for hypertension and hyperlipidemia confirmed. Diet and exercise efforts ongoing but limited by work schedule.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam regular rate and rhythm, no murmurs. Lungs clear to auscultation. Musculoskeletal exam shows mild lumbar paraspinal tenderness, no deformity, full range of motion. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities.",
+  "assessment": "1. Hypertension, controlled on current regimen. 2. Hyperlipidemia, stable. 3. Obesity, BMI in obese range. 4. Intermittent mechanical low back pain without neurological deficits.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage weight loss through diet and physical activity as tolerated. Monitor blood pressure and lipid panel at next visit. Advise use of proper body mechanics during work to minimize back strain. Refer to specialist if back pain worsens or neurological symptoms develop. Routine preventive care up to date."
+ },
+ "pcp-2023-02-05-Chronic Care Follow-up:b70057e79e": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent low back discomfort, described as mechanical and without radiation. No numbness or weakness noted. Continues to work as a delivery driver. No new complaints. Adherence to medications for hypertension and hyperlipidemia confirmed. Diet and exercise efforts ongoing but limited by work schedule.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32. Musculoskeletal exam reveals mild lumbar paraspinal tenderness without spasm. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities. Cardiovascular and respiratory exams unremarkable.",
+  "assessment": "1. Hypertension, controlled but borderline elevated BP readings. 2. Hyperlipidemia, stable on current regimen. 3. Obesity, BMI 32. 4. Intermittent mechanical low back pain without neurological deficits; no acute findings on exam.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage weight management through diet and physical activity as tolerated. Monitor blood pressure at home and follow up in 3 months. Address low back pain conservatively with activity modification and over-the-counter analgesics as needed. Refer to specialist if symptoms worsen or neurological signs develop."
+ },
+ "pcp-2023-03-16-Medication Follow-up:934c0cb9cd": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports adherence to prescribed antihypertensive and lipid-lowering medications. Denies chest pain, dyspnea, or palpitations. Notes intermittent low back discomfort related to mechanical strain, no radiation or neurological symptoms. Continues working as a delivery driver without significant limitations.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal, no murmurs. Lungs clear to auscultation. Neurological exam intact with normal strength and sensation in lower extremities. Spine exam reveals mild paraspinal tenderness without deformity or restricted range of motion.",
+  "assessment": "Hypertension, controlled on current regimen. Hyperlipidemia, stable. Obesity, ongoing. Intermittent mechanical low back pain without neurological deficits.",
+  "plan": "Continue current antihypertensive and statin therapy. Encourage lifestyle modifications including diet and exercise for weight management. Monitor blood pressure and lipid profile at next visit. Advise use of proper body mechanics during work to minimize back strain. Refer to specialist if back pain worsens or neurological symptoms develop."
+ },
+ "pcp-2023-04-25-Annual Wellness Visit:7ac5a08e3d": {
+  "chief_complaint": "Annual wellness visit for chronic condition management",
+  "subjective": "The patient reports intermittent low back discomfort, described as mechanical in nature, without radiation or neurological symptoms. No new complaints. Continues to work as a delivery driver. No chest pain, dyspnea, or other systemic symptoms. Adherence to medications for hypertension and hyperlipidemia confirmed. Diet and exercise efforts ongoing but limited by work schedule.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32. Physical exam notable for mild lumbar paraspinal tenderness without spasm. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities. Cardiovascular and respiratory exams unremarkable. No edema or jugular venous distension.",
+  "assessment": "1. Hypertension, controlled on current regimen.\n2. Hyperlipidemia, stable.\n3. Obesity, BMI 32.\n4. Intermittent mechanical low back pain without neurological deficits.",
+  "plan": "Continue current antihypertensive and lipid-lowering therapies. Encourage weight management through diet and physical activity as tolerated. Monitor blood pressure and lipid panel at next routine labs. Advise ergonomic modifications at work to minimize back strain. Refer to specialist if back pain worsens or neurological symptoms develop. Schedule follow-up in 6 months or sooner if needed."
+ },
+ "pcp-2023-05-30-Annual Wellness Visit:fd533040a9": {
+  "chief_complaint": "Annual wellness visit for chronic condition management",
+  "subjective": "The patient reports intermittent mechanical low back pain without radiation or neurological symptoms. No new complaints. Continues working as a delivery driver. No chest pain, dyspnea, or other systemic symptoms. Adherence to medications for hypertension and hyperlipidemia. Diet and exercise efforts ongoing but weight remains stable.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal. Lungs clear. Neurological exam intact with no focal deficits. Musculoskeletal exam reveals mild lumbar tenderness without spasm or decreased range of motion. No lower extremity weakness or sensory changes.",
+  "assessment": "1. Hypertension, controlled on current regimen.\n2. Hyperlipidemia, stable.\n3. Obesity.\n4. Intermittent mechanical low back pain without neurological involvement.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage weight management through diet and physical activity. Monitor blood pressure and lipid profile at next visit. Advise patient to use proper body mechanics during work to minimize back strain. Refer to specialist if back pain worsens or neurological symptoms develop. Routine preventive care and screenings up to date."
+ },
+ "pcp-2023-07-14-Office Visit:3b9aa539fb": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports no new complaints. Blood pressure has been variable at home but generally controlled. Denies chest pain, dyspnea, or palpitations. Continues to experience intermittent low back discomfort related to mechanical strain, no radiation or neurological symptoms. Diet and exercise remain inconsistent. No recent medication side effects noted.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 78 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal, lungs clear. Neurological exam intact with no focal deficits. Musculoskeletal exam reveals mild lumbar paraspinal tenderness without spasm. No lower extremity weakness or sensory changes.",
+  "assessment": "1. Hypertension, currently moderately controlled. 2. Hyperlipidemia, stable on current regimen. 3. Obesity, BMI in obese range. 4. Intermittent mechanical low back pain without neurological involvement.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage adherence to diet and exercise plan targeting weight reduction. Monitor blood pressure at home and follow up in 3 months. Refer back to specialist for ongoing management of low back pain as needed. Order routine labs to assess lipid panel and renal function prior to next visit."
+ },
+ "pcp-2023-09-03-Chronic Care Follow-up:88581850fc": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent low back discomfort, described as mechanical in nature, without radiation or neurological symptoms. No new complaints regarding blood pressure or lipid management. Continues working as a delivery driver without significant limitations.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32. Musculoskeletal exam reveals mild lumbar paraspinal tenderness without spasm. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities. Cardiovascular exam unremarkable.",
+  "assessment": "1. Hypertension, controlled but borderline elevated today. 2. Hyperlipidemia, stable on current regimen. 3. Obesity, BMI in obese range. 4. Intermittent mechanical low back pain without neurological deficits, consistent with prior evaluations.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage lifestyle modifications focusing on weight management and physical activity. Monitor blood pressure at home and follow up in 3 months. Address low back pain conservatively; no changes to management at this time. Refer to specialist if symptoms worsen or neurological signs develop."
+ },
+ "pcp-2023-10-22-Office Visit:3f5834f2b0": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent low back discomfort, described as mechanical and non-radiating. No new neurological symptoms noted. Continues to work as a delivery driver without significant limitations. No chest pain, dyspnea, or other acute complaints. Adherence to antihypertensive and lipid-lowering medications confirmed. Diet and exercise efforts ongoing but limited by work schedule.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam regular rate and rhythm, no murmurs. Lungs clear to auscultation bilaterally. Abdomen soft, non-tender. Musculoskeletal exam reveals mild lumbar paraspinal tenderness without spasm. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities.",
+  "assessment": "1. Hypertension, controlled but borderline elevated today. 2. Hyperlipidemia, stable on current regimen. 3. Obesity, BMI in class I range. 4. Intermittent mechanical low back pain without neurological deficits, consistent with prior evaluations.",
+  "plan": "Continue current antihypertensive and statin therapy. Reinforce lifestyle modifications including diet and physical activity. Monitor blood pressure at home and follow up in 3 months. Encourage weight management strategies. For low back pain, continue conservative measures; no changes to medications at this time. Refer to specialist if symptoms worsen or neurological signs develop."
+ },
+ "pcp-2023-12-15-Medication Follow-up:c7bdd68046": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports adherence to prescribed antihypertensive and lipid-lowering medications. Denies chest pain, dyspnea, or palpitations. Notes intermittent low back discomfort related to mechanical strain, no radiation or neurological symptoms. Continues working as a delivery driver without significant limitations.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal, no murmurs. Lungs clear to auscultation. Neurological exam intact with normal strength and sensation in lower extremities. Spine exam reveals mild paraspinal tenderness without deformity or restricted range of motion.",
+  "assessment": "Hypertension, controlled on current regimen. Hyperlipidemia, stable. Obesity, ongoing. Intermittent mechanical low back pain without neurological deficits, consistent with prior evaluations.",
+  "plan": "Continue current antihypertensive and statin therapy. Encourage lifestyle modifications including diet and exercise for weight management. Monitor blood pressure and lipid profile at next routine visit. Advise patient to use proper body mechanics during work to minimize back strain. Refer back to specialist if back pain worsens or neurological symptoms develop."
+ },
+ "pcp-2024-01-21-Office Visit:41f9e23c70": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports no new complaints. Blood pressure has been variable at home but generally controlled. Denies chest pain, dyspnea, or palpitations. Continues to experience intermittent low back discomfort, described as mechanical and mild, without radiation or neurological symptoms. No recent injuries or worsening of back pain. Diet and exercise remain inconsistent. Patient is currently working as a delivery driver.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 78 bpm, RR 16, Temp 98.4\u00b0F, BMI 32.5. Cardiovascular exam normal, no murmurs. Lungs clear to auscultation. Musculoskeletal exam reveals mild lumbar paraspinal tenderness without spasm. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities. No focal deficits noted.",
+  "assessment": "1. Hypertension, currently moderately controlled. 2. Hyperlipidemia, stable on current regimen. 3. Obesity, BMI 32.5. 4. Intermittent mechanical low back pain without neurological involvement.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Reinforce lifestyle modifications including diet and physical activity. Monitor blood pressure at home and maintain log. Encourage weight management strategies. Advise patient to follow up with primary care in 3 months or sooner if symptoms worsen. Refer to specialist for back pain management if symptoms escalate or neurological signs develop."
+ },
+ "pcp-2024-03-06-Medication Follow-up:173b154e51": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports adherence to prescribed medications for hypertension and hyperlipidemia. Denies chest pain, dyspnea, or palpitations. Reports intermittent low back discomfort related to mechanical strain, no radiation or neurological symptoms. Continues working as a delivery driver without significant limitations.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal, no murmurs. Lungs clear to auscultation. Neurological exam intact with normal strength and sensation in lower extremities. Spine exam reveals mild paraspinal tenderness without deformity or neurological deficits.",
+  "assessment": "1. Hypertension, controlled on current regimen.\n2. Hyperlipidemia, stable.\n3. Obesity, BMI 32.2.\n4. Intermittent mechanical low back pain without neurological involvement.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage lifestyle modifications including diet and exercise to address obesity. Monitor blood pressure and lipid panel at next visit. Advise patient to use proper body mechanics during work to minimize back strain. Refer to specialist if back pain worsens or neurological symptoms develop."
+ },
+ "pcp-2024-04-27-Medication Follow-up:9caf66b57f": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports adherence to prescribed antihypertensive and lipid-lowering medications. Denies chest pain, dyspnea, or palpitations. Notes intermittent low back discomfort related to mechanical strain, no radiation or neurological symptoms. Continues working as a delivery driver without significant limitations.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal, no murmurs. Lungs clear to auscultation. Neurological exam intact with normal strength and sensation in lower extremities. No spinal tenderness or deformity noted.",
+  "assessment": "Hypertension, controlled on current regimen. Hyperlipidemia, stable. Obesity, ongoing. Intermittent mechanical low back pain without neurological deficits; no acute findings on exam.",
+  "plan": "Continue current antihypertensive and statin therapy. Encourage lifestyle modifications including diet and exercise for weight management. Monitor blood pressure and lipid profile at next visit. Advise patient to use proper body mechanics during work to minimize back strain. Refer to specialist if back pain worsens or neurological symptoms develop."
+ },
+ "pcp-2024-06-20-Chronic Care Follow-up:d498044d0d": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent low back discomfort, described as mechanical in nature, without radiation or neurological symptoms. No new complaints. Continues to work as a delivery driver. No chest pain, dyspnea, or other systemic symptoms. Adherence to medications confirmed. Diet and exercise remain suboptimal.",
+  "objective": "Vital signs: BP 142/88 mmHg, HR 78 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal, lungs clear. Neurological exam intact with no focal deficits. Musculoskeletal exam reveals mild lumbar paraspinal tenderness without spasm or decreased range of motion.",
+  "assessment": "1. Hypertension, controlled but borderline elevated BP readings. 2. Hyperlipidemia, stable on current therapy. 3. Obesity, BMI in obese range. 4. Intermittent mechanical low back pain without neurological involvement.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage lifestyle modifications focusing on diet and increased physical activity. Monitor blood pressure at home and follow up in 3 months. Address low back pain conservatively; no changes to management at this time. Reinforce preventive care measures and update labs as scheduled."
+ },
+ "pcp-2024-07-26-Office Visit:b212c5b0d7": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports no new complaints. Blood pressure has been variable at home but generally controlled. Denies chest pain, dyspnea, or palpitations. Continues to experience intermittent low back discomfort related to mechanical strain, no radiation or neurological symptoms. Working full-time as a delivery driver without significant limitations.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, RR 16, Temp 98.4\u00b0F, BMI 32.5. Cardiovascular exam normal, lungs clear. Musculoskeletal exam reveals mild lumbar paraspinal tenderness without spasm. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities.",
+  "assessment": "1. Hypertension, controlled but borderline elevated readings. 2. Hyperlipidemia, stable on current regimen. 3. Obesity, BMI 32.5. 4. Intermittent mechanical low back pain without neurological deficit.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage lifestyle modifications including diet and exercise for weight management. Monitor blood pressure at home and follow up in 3 months. Refer to physical therapy for low back pain management as needed; no changes to medications at this time. Routine labs ordered to monitor lipid panel and renal function."
+ },
+ "pcp-2024-09-11-Chronic Care Follow-up:be2c90e6ab": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent low back discomfort, described as mechanical and without radiation. No numbness or weakness noted. Continues to work as a delivery driver. No new symptoms related to hypertension or hyperlipidemia. Adherence to medications confirmed. No recent episodes of chest pain, dyspnea, or dizziness.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.2 kg/m2. Cardiovascular exam normal, no murmurs. Lungs clear to auscultation. Neurological exam intact with normal strength and sensation in lower extremities. Spine exam reveals mild paraspinal tenderness without deformity. No signs of acute distress.",
+  "assessment": "1. Hypertension, controlled but borderline elevated today. 2. Hyperlipidemia, stable on current regimen. 3. Obesity, BMI in obese range. 4. Intermittent mechanical low back pain without neurological deficits.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage lifestyle modifications including diet and exercise to address obesity. Monitor blood pressure at home and follow up in 3 months. Refer to physical therapy for low back pain management as needed; no changes to medications at this time. Routine labs to be drawn prior to next visit."
+ },
+ "pcp-2024-10-21-Medication Follow-up:0115d074d8": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports adherence to prescribed medications for hypertension and hyperlipidemia. Denies chest pain, dyspnea, or palpitations. Reports intermittent low back discomfort related to mechanical strain, no radiation or neurological symptoms. Continues working as a delivery driver without significant limitations.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, BMI 32.5 kg/m2. Cardiovascular exam normal, no murmurs. Lungs clear to auscultation. Neurological exam intact with normal strength and sensation in lower extremities. Spine exam reveals mild paraspinal tenderness without deformity or neurological deficits.",
+  "assessment": "1. Hypertension, controlled on current regimen.\n2. Hyperlipidemia, stable.\n3. Obesity, BMI 32.5.\n4. Intermittent mechanical low back pain without neurological involvement.",
+  "plan": "Continue current antihypertensive and lipid-lowering medications. Encourage lifestyle modifications including diet and exercise for weight management. Monitor blood pressure and lipid panel at next visit. Advise use of over-the-counter analgesics as needed for back discomfort. Refer to specialist if symptoms worsen or neurological signs develop."
+ },
+ "pcp-2024-12-09-Office Visit:6e53f7ccaf": {
+  "chief_complaint": "Follow-up for chronic conditions and right leg pain",
+  "subjective": "The patient reports ongoing right leg pain radiating to the lateral foot since onset on 11/05/2024 after lifting. Pain fluctuates but remains bothersome. Continues gabapentin and physical therapy as prescribed. No new symptoms reported. Blood pressure well controlled. No other complaints.",
+  "objective": "Vital signs stable. Blood pressure within target range. Physical exam shows no new neurological deficits. Right leg tenderness persists laterally without swelling or erythema. Gait steady. No acute distress noted.",
+  "assessment": "Chronic right leg radicular pain with fluctuating symptoms despite current management. Hypertension well controlled. No new issues identified.",
+  "plan": "Continue current gabapentin regimen and physical therapy as directed by specialist. Monitor pain progression and side effects. Routine labs reviewed; no changes needed at this time. Continue blood pressure management. Follow up as scheduled or sooner if symptoms worsen."
+ },
+ "pcp-2025-01-26-Office Visit:a448cfbe36": {
+  "chief_complaint": "Follow-up for chronic conditions and medication refills",
+  "subjective": "The patient reports ongoing right leg pain radiating to the lateral foot since onset on 11/05/2024 after lifting. Pain fluctuates despite epidural injections, gabapentin, and physical therapy. No new symptoms reported. Blood pressure well controlled. No other complaints.",
+  "objective": "Vital signs stable. Blood pressure 128/78 mmHg. Cardiopulmonary exam unremarkable. Musculoskeletal exam deferred to specialist. No new neurological deficits noted. Labs reviewed and within expected ranges for chronic conditions.",
+  "assessment": "Chronic right leg radicular pain with fluctuating symptoms despite current interventions. Hypertension well controlled. No acute issues identified today.",
+  "plan": "Continue current pain management regimen including gabapentin and physical therapy as directed by specialist. Monitor blood pressure and chronic conditions with routine labs. Refill medications as needed. Follow up in primary care as scheduled. Refer any worsening symptoms to specialist promptly."
+ },
+ "pcp-2025-03-07-Office Visit:a84d1348cc": {
+  "chief_complaint": "Follow-up for chronic conditions and right leg pain",
+  "subjective": "The patient reports ongoing right leg pain radiating to the lateral foot since onset on 11/05/2024 after lifting. Pain fluctuates but remains bothersome. Continues gabapentin and physical therapy as prescribed. No new symptoms reported. Blood pressure well controlled. No other complaints.",
+  "objective": "Vital signs stable. Blood pressure 128/78 mmHg. Cardiovascular and respiratory exams unremarkable. Musculoskeletal exam shows mild tenderness along right lateral leg; no swelling or deformity. Neurologic exam reveals decreased sensation over lateral foot consistent with prior findings. Gait steady. No new focal deficits.",
+  "assessment": "Chronic right leg radicular pain with fluctuating symptoms despite ongoing treatment. Hypertension well controlled. No acute issues identified today.",
+  "plan": "Continue current gabapentin regimen and physical therapy as directed by specialist. Monitor symptoms and report any worsening or new neurological signs. Continue routine blood pressure monitoring and management. Labs and preventive care to be updated as per schedule. Follow up in primary care as needed."
+ },
+ "pcp-2025-04-16-Chronic Care Follow-up:4259364a81": {
+  "chief_complaint": "Follow-up for chronic conditions and right leg pain",
+  "subjective": "The patient reports ongoing right leg pain radiating to the lateral foot since onset in early November 2024 after lifting. Pain intensity fluctuates but remains bothersome. Continues gabapentin with some relief. Completed several sessions of physical therapy and received epidural injections with variable benefit. No new neurological symptoms reported. Blood pressure well controlled. No other new complaints.",
+  "objective": "Vital signs stable. Blood pressure within target range. Cardiopulmonary exam unremarkable. Right lower extremity shows no swelling or erythema. Sensation intact to light touch and pinprick. Motor strength 5/5 throughout. Gait steady. No acute distress noted.",
+  "assessment": "Chronic right leg radicular pain with fluctuating symptoms despite multimodal treatment including gabapentin, epidural injections, and physical therapy. Hypertension well controlled. No new issues identified.",
+  "plan": "Continue current gabapentin regimen. Monitor pain symptoms and side effects. Encourage adherence to physical therapy exercises. Follow up with pain specialist as scheduled. Maintain blood pressure control with current antihypertensive medications. Routine labs and preventive care to be updated as per schedule."
+ },
+ "pcp-2025-05-28-Chronic Care Follow-up:283de06e5a": {
+  "chief_complaint": "Follow-up for chronic conditions and right leg pain",
+  "subjective": "The patient reports ongoing right leg pain radiating to the lateral foot since onset in November 2024 after lifting. Pain intensity fluctuates despite epidural injections, gabapentin, and physical therapy. No new symptoms reported. Blood pressure well controlled. No other complaints.",
+  "objective": "Vital signs stable. Blood pressure 128/78 mmHg. Cardiopulmonary exam unremarkable. Right lower extremity shows no swelling or erythema. Sensation intact. Motor strength preserved. Gait steady. No new neurological deficits noted.",
+  "assessment": "Chronic right leg radicular pain with fluctuating symptoms despite current interventions. Hypertension well controlled. No acute issues identified.",
+  "plan": "Continue current pain management regimen including gabapentin and physical therapy as directed by specialist. Monitor blood pressure and maintain current antihypertensive therapy. Labs to be reviewed at next visit. Reinforce adherence to treatment and follow-up with pain specialist as scheduled."
+ },
+ "pcp-2025-07-03-Annual Wellness Visit:dc7bcb5f8b": {
+  "chief_complaint": "Annual wellness visit for chronic condition management and medication refills.",
+  "subjective": "The patient reports ongoing right S1 radiculopathy with persistent weakness and recent falls. Continues to use a walker for ambulation. Describes chronic pain and poor sleep quality. Mood remains low, with feelings of depression. Surgery remains postponed pending cardiac clearance.",
+  "objective": "Vital signs stable. Neurological exam shows decreased strength in right lower extremity consistent with S1 radiculopathy. Gait unsteady, walker in use. No new focal deficits noted. Cardiovascular exam unremarkable. Mood appears subdued but cooperative.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain syndrome with poor sleep and depressive symptoms. Surgical intervention delayed awaiting cardiac evaluation. Cardiovascular status stable at present.",
+  "plan": "Continue current pain management regimen and monitor for changes. Encourage use of walker for safety. Refer to cardiology for clearance prior to surgical intervention. Screen and manage depressive symptoms; consider behavioral health referral if symptoms worsen. Schedule routine labs and follow-up in 3 months or sooner if condition changes."
+ },
+ "pcp-2025-08-10-Office Visit:3841a2f003": {
+  "chief_complaint": "Follow-up for chronic conditions and musculoskeletal symptoms",
+  "subjective": "The patient reports ongoing right-sided leg weakness and numbness consistent with S1 radiculopathy. Falls have occurred recently, and the patient continues to use a walker for ambulation. Pain remains chronic and poorly controlled, interfering with sleep. Mood is low, with feelings of depression. Surgery has been postponed pending cardiac clearance. No new complaints regarding blood pressure or other chronic issues.",
+  "objective": "Vital signs stable. Cardiovascular exam unremarkable. Neurological exam reveals decreased strength in right plantar flexion and diminished sensation in S1 dermatome. Gait unsteady, walker in use. No new skin changes or edema noted. Labs reviewed; no significant changes from prior.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain and sleep disturbance. Depressed mood likely related to chronic illness and functional decline. Surgery delayed awaiting cardiac evaluation. Hypertension and other chronic conditions stable.",
+  "plan": "Continue current pain management regimen and monitor for changes. Encourage safe use of walker to prevent falls. Refer to cardiology for clearance as planned. Monitor mood; consider behavioral health referral if depression worsens. Routine labs and blood pressure monitoring to continue at next visit."
+ },
+ "pcp-2025-09-18-Office Visit:8963408668": {
+  "chief_complaint": "Follow-up for chronic conditions and musculoskeletal symptoms",
+  "subjective": "The patient reports ongoing right leg weakness and occasional falls despite using a walker. Pain remains chronic and interferes with sleep. Mood is low, with feelings of depression persisting. Surgery for radiculopathy is postponed pending cardiac clearance. No new complaints regarding blood pressure or other chronic issues.",
+  "objective": "Vital signs stable. Cardiovascular exam unremarkable. Neurological exam shows decreased strength in right lower extremity consistent with S1 radiculopathy. Walker in use noted. No new skin lesions or signs of infection. Mood appears subdued but cooperative.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain and poor sleep contributing to depressed mood. Surgery delayed awaiting cardiac clearance. Hypertension and other chronic conditions stable at this time.",
+  "plan": "Continue current pain management regimen and walker use. Monitor neurological status closely. Encourage sleep hygiene and consider referral for mental health support. Maintain blood pressure control and routine labs. Await cardiology clearance before surgical intervention."
+ },
+ "pcp-2025-11-08-Chronic Care Follow-up:5aed4da171": {
+  "chief_complaint": "Follow-up for chronic conditions and right lower extremity radiculopathy",
+  "subjective": "The patient reports ongoing right S1 radiculopathy with persistent weakness and occasional falls. Continues to use a walker for ambulation. Complains of chronic pain in the right leg and lower back, which interferes with sleep. Mood described as low, with decreased motivation. No new cardiac symptoms reported. No recent infections or other systemic complaints.",
+  "objective": "Vital signs stable. Cardiovascular exam unremarkable. Neurologic exam reveals decreased strength in right plantar flexion and diminished sensation in S1 dermatome. Reflexes reduced at right ankle. Gait cautious with walker. No new focal deficits noted. Mood appears subdued but cooperative.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention remains delayed pending cardiac clearance. Hypertension and other chronic conditions stable at this time.",
+  "plan": "Continue current pain management regimen and walker use. Monitor neurologic status closely. Encourage sleep hygiene and consider referral for behavioral health support for mood symptoms. Await cardiology clearance before surgical evaluation. Routine labs and blood pressure monitoring to continue at next visit."
+ },
+ "pcp-2025-12-31-Office Visit:4d7824a7cf": {
+  "chief_complaint": "Follow-up for chronic conditions and musculoskeletal symptoms",
+  "subjective": "The patient reports ongoing right lower extremity weakness and occasional falls despite use of walker. Chronic pain persists, interfering with sleep. Mood remains low with feelings of depression. Surgery for radiculopathy postponed pending cardiac clearance. No new complaints regarding blood pressure or other chronic issues.",
+  "objective": "Vital signs stable. Cardiovascular exam unremarkable. Neurologic exam shows decreased strength in right lower extremity consistent with S1 radiculopathy. Walker in use. No new focal deficits noted. Mood appears subdued but cooperative. No signs of acute distress.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain and poor sleep contributing to depressed mood. Surgery delayed awaiting cardiac clearance. Hypertension and other chronic conditions stable at this time.",
+  "plan": "Continue current pain management regimen. Monitor neurologic status closely. Encourage use of walker for safety. Refer to cardiology for clearance prior to surgical intervention. Address mood symptoms with supportive counseling and consider psychiatric referral if no improvement. Routine labs and blood pressure monitoring to continue as scheduled."
+ },
+ "pcp-2026-02-06-Office Visit:65fff7a34b": {
+  "chief_complaint": "Follow-up for chronic conditions and musculoskeletal symptoms",
+  "subjective": "The patient reports ongoing right-sided leg weakness and numbness consistent with S1 radiculopathy. Falls have occurred recently, and the patient continues to use a walker for ambulation. Pain remains chronic and poorly controlled, contributing to disturbed sleep and low mood. Surgery is still postponed pending cardiac clearance. No new complaints regarding blood pressure or other chronic issues.",
+  "objective": "Vital signs stable. Cardiovascular exam unremarkable. Neurological exam shows decreased strength in right lower extremity consistent with prior findings. Walker observed in use. Mood appears subdued. No acute distress noted.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain syndrome with sleep disturbance and depressive symptoms. Hypertension and other chronic conditions stable at this time. Surgical intervention deferred awaiting cardiac evaluation.",
+  "plan": "Continue current pain management regimen and monitor neurological status. Encourage safe use of walker to prevent falls. Coordinate with cardiology for clearance prior to surgical intervention. Monitor blood pressure and labs as per chronic disease protocols. Address mood symptoms with supportive counseling and consider referral if worsening."
+ },
+ "pcp-2026-03-25-Medication Follow-up:c648bd7646": {
+  "chief_complaint": "Medication follow-up and management of chronic conditions",
+  "subjective": "The patient reports ongoing right leg weakness and occasional falls despite using a walker. Chronic pain persists, interfering with sleep. Mood remains low, with feelings of depression. No new symptoms reported. Surgery remains postponed pending cardiac clearance.",
+  "objective": "Vital signs stable. Walker in use as noted. Right lower extremity weakness observed. No new neurological deficits. Mood appears subdued. No acute distress.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain and poor sleep continue. Depressed mood noted. Surgery delayed awaiting cardiac clearance. Hypertension and other chronic conditions stable under current management.",
+  "plan": "Continue current medication regimen for pain and mood. Monitor blood pressure and labs as scheduled. Encourage adherence to walker use for safety. Supportive care for sleep and mood symptoms. Await cardiac clearance before surgical intervention. Follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "pcp-2026-05-02-Chronic Care Follow-up:a4ea7621e9": {
+  "chief_complaint": "Follow-up for chronic conditions and musculoskeletal symptoms",
+  "subjective": "The patient reports ongoing right-sided S1 radiculopathy with persistent weakness and occasional falls. Continues to use a walker for ambulation. Describes chronic pain that interferes with sleep. Mood remains low with feelings of depression. Surgery remains postponed pending cardiac clearance.",
+  "objective": "Vital signs stable. Neurological exam shows decreased strength in right lower extremity consistent with S1 radiculopathy. Gait unsteady, walker in use. No new focal deficits noted. Cardiovascular exam unremarkable. Mood appears subdued but cooperative.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention delayed awaiting cardiac evaluation. Hypertension and other chronic conditions stable at this time.",
+  "plan": "Continue current pain management regimen and walker use. Monitor neurological status closely. Encourage sleep hygiene and consider behavioral health referral for mood symptoms. Await cardiology clearance before surgical planning. Routine labs and blood pressure monitoring to continue at next visit."
+ },
+ "pcp-2026-06-15-Medication Follow-up:221f642c52": {
+  "chief_complaint": "Medication follow-up for chronic conditions and symptom management",
+  "subjective": "The patient reports ongoing right-sided leg weakness and occasional falls despite using a walker. Chronic pain persists, interfering with sleep. Mood remains low with feelings of depression. No new cardiac symptoms noted. No changes in medication side effects.",
+  "objective": "Vital signs stable. Walker in use as reported. Neurological exam shows decreased strength in right lower extremity consistent with prior findings. No new focal deficits. Cardiovascular exam unremarkable. Mood appears subdued but cooperative.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain and poor sleep continue. Depressed mood noted. Surgery remains postponed pending cardiac clearance. Hypertension and other chronic conditions stable under current management.",
+  "plan": "Continue current medication regimen for pain and mood. Monitor blood pressure and labs as scheduled. Encourage use of walker for safety. Refer to cardiology for clearance update. Supportive care for sleep and mood symptoms. Follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "pcp-2026-07-26-Office Visit:17be3a8c25": {
+  "chief_complaint": "Follow-up for chronic conditions and musculoskeletal symptoms",
+  "subjective": "The patient reports ongoing right lower extremity weakness and numbness consistent with S1 radiculopathy. Falls have occurred recently, and the patient continues to use a walker for ambulation. Pain remains chronic and poorly controlled, interfering with sleep. Mood is low, with feelings of depression. Surgery has been postponed pending cardiac clearance. No new complaints regarding blood pressure or other chronic issues.",
+  "objective": "Vital signs stable. Cardiovascular exam unremarkable. Neurological exam reveals decreased strength in right plantar flexion and diminished sensation in S1 dermatome. Gait unsteady, walker in use. No new focal deficits noted. Mood appears subdued but cooperative. Labs reviewed; no significant changes from prior.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain syndrome with sleep disturbance and depressive symptoms. Cardiac status pending clearance for planned surgical intervention. Hypertension and other chronic conditions stable at this time.",
+  "plan": "Continue current pain management regimen and monitor for changes. Encourage use of walker for safety. Refer to cardiology for expedited clearance. Monitor mood and consider behavioral health referral if depression worsens. Routine labs and blood pressure monitoring to continue. Defer musculoskeletal surgical decisions to specialist."
+ },
+ "ortho-2024-10-18-Spine Follow-up:2347690cfc": {
+  "chief_complaint": "Intermittent mechanical low back pain",
+  "subjective": "The patient reports ongoing intermittent low back pain, described as mechanical in nature, without radiation. Pain intensity varies but remains manageable. No numbness, tingling, or weakness reported. Continues working as a delivery driver without significant limitations. No new symptoms noted.",
+  "objective": "Vital signs stable. Physical exam reveals normal lumbar range of motion with mild discomfort on extension. No tenderness to palpation over paraspinal muscles. Neurological exam intact: normal strength, sensation, and reflexes in lower extremities. Gait normal. No signs of radiculopathy or myelopathy.",
+  "assessment": "Intermittent mechanical low back pain in the setting of hypertension, hyperlipidemia, and obesity. No neurological deficits identified. Symptoms consistent with chronic mechanical strain related to occupational activities.",
+  "plan": "Continue conservative management with activity modification and over-the-counter analgesics as needed. Encourage weight management and regular exercise to improve musculoskeletal health. Monitor blood pressure and lipid levels with primary care provider. Follow-up as needed for worsening symptoms or new neurological signs."
+ },
+ "ortho-2024-12-03-Spine Follow-up:46de25c65d": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports persistent right leg pain radiating down to the lateral aspect of the foot since onset on 11/05/2024 after lifting. Pain intensity fluctuates but remains bothersome. The patient has undergone epidural steroid injections and is currently taking gabapentin. Physical therapy has been initiated with some mild improvement noted. No new numbness or weakness reported.",
+  "objective": "Focused musculoskeletal exam reveals tenderness over the right lumbar paraspinal muscles. Straight leg raise test positive on the right at 45 degrees reproducing radicular symptoms. Motor strength 5/5 in bilateral lower extremities. Sensation intact to light touch and pinprick in all dermatomes. Reflexes symmetrical and normal. Gait steady without assistive devices.",
+  "assessment": "Right lumbar radiculopathy with persistent radicular pain to the lateral foot despite epidural injections, gabapentin, and physical therapy. Symptoms remain stable with fluctuating severity.",
+  "plan": "Continue current regimen of gabapentin and physical therapy. Monitor response to epidural injections. Reinforce activity modifications and ergonomic precautions. Follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "ortho-2025-02-01-Spine Follow-up:66a67712d6": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports persistent right leg pain radiating to the lateral aspect of the foot since onset on 11/05/2024 after lifting. Pain intensity fluctuates but remains bothersome. The patient has undergone epidural steroid injections and is currently taking gabapentin. Physical therapy has been ongoing with some improvement noted but symptoms persist.",
+  "objective": "Focused musculoskeletal exam reveals tenderness over the right lumbar paraspinal muscles. Straight leg raise test positive on the right at 45 degrees reproducing leg pain. Motor strength 5/5 in bilateral lower extremities. Sensory exam shows decreased sensation to light touch over the right lateral foot. Reflexes are symmetric and normal. Gait is steady without assistive devices.",
+  "assessment": "Right-sided lumbar radiculopathy with persistent radiating pain to the lateral foot despite epidural injections, gabapentin, and physical therapy. Symptoms show a fluctuating course but no new neurological deficits.",
+  "plan": "Continue current gabapentin regimen and physical therapy focusing on lumbar stabilization and nerve mobilization. Monitor symptom progression closely. Consider repeat evaluation in 4 weeks or sooner if worsening symptoms or new neurological signs develop."
+ },
+ "ortho-2025-03-15-Spine Follow-up:7a1e690ff5": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports persistent right leg pain radiating to the lateral aspect of the foot since onset in early November. Pain intensity fluctuates but remains bothersome. The patient has undergone epidural steroid injections and is currently taking gabapentin. Physical therapy has been ongoing with some improvement noted but symptoms persist.",
+  "objective": "On exam, tenderness noted over right lumbar paraspinal muscles. Straight leg raise test positive on the right at 45 degrees reproducing radicular symptoms. Sensory exam reveals decreased sensation to light touch over the right lateral foot. Motor strength 5/5 in bilateral lower extremities. Reflexes symmetric and normal. Gait steady without assistive devices.",
+  "assessment": "Right lumbar radiculopathy with persistent radicular pain to the right lateral foot despite prior epidural injections and ongoing gabapentin therapy. Physical therapy compliance noted with partial symptomatic relief.",
+  "plan": "Continue gabapentin at current dose. Maintain physical therapy regimen focusing on lumbar stabilization and nerve mobilization. Monitor symptom progression. Consider repeat epidural injection or alternative interventions if no further improvement at next follow-up."
+ },
+ "ortho-2025-05-12-Spine Follow-up:06fead86e7": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports persistent right leg pain radiating to the lateral aspect of the foot since onset on 11/05/2024 after lifting. Pain intensity fluctuates but remains bothersome. The patient has undergone epidural steroid injections and is currently taking gabapentin with some relief. Physical therapy has been ongoing with variable improvement. No new symptoms reported.",
+  "objective": "Focused musculoskeletal exam reveals tenderness over the right lumbar paraspinal muscles. Straight leg raise test positive on the right at 45 degrees reproducing leg pain. Motor strength intact in lower extremities. Sensation diminished to light touch over the right lateral foot. Reflexes symmetrical and normal. Gait steady without assistive devices.",
+  "assessment": "Chronic right-sided radicular pain consistent with lumbar radiculopathy, ongoing despite epidural injections and gabapentin. Symptoms remain stable with fluctuating severity.",
+  "plan": "Continue current gabapentin regimen and physical therapy as tolerated. Monitor symptom progression. Consider repeat evaluation for possible further interventional options if no improvement at next follow-up. Reinforce activity modifications and pain management strategies."
+ },
+ "ortho-2025-06-25-Spine Follow-up:5102c8be5c": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports persistent right leg pain radiating to the lateral foot since onset on 11/05/2024 after lifting. Pain intensity fluctuates but remains bothersome. The patient continues gabapentin and has completed several sessions of physical therapy. Epidural injections provided temporary relief. No new symptoms reported.",
+  "objective": "Focused spine exam reveals tenderness over the right lumbar paraspinal muscles. Straight leg raise test positive on the right at 45 degrees reproducing radicular symptoms. Motor strength 5/5 in bilateral lower extremities. Sensation decreased to light touch over right lateral foot. Reflexes symmetric and normal. Gait steady without assistive devices.",
+  "assessment": "Chronic right-sided lumbar radiculopathy with persistent radicular pain to the lateral foot despite conservative management including epidural injections, gabapentin, and physical therapy.",
+  "plan": "Continue current gabapentin regimen. Recommend ongoing physical therapy focusing on lumbar stabilization and nerve mobilization. Monitor symptom progression. Consider further interventional options if no improvement at next follow-up. Patient advised to avoid heavy lifting and activities exacerbating symptoms."
+ },
+ "ortho-2025-08-09-Spine Follow-up:74b06a4d34": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including increased leg weakness and numbness. There have been multiple recent falls attributed to leg instability. Chronic low back and leg pain persist, interfering with sleep. Mood remains low, with feelings of depression. The patient continues to use a walker for ambulation. Surgery remains postponed pending cardiac clearance.",
+  "objective": "On exam, decreased strength noted in right ankle plantarflexion and toe flexion (4/5). Sensory deficit along right S1 dermatome. Reflexes diminished at right Achilles tendon. Gait unsteady, requiring walker support. No new neurological deficits observed. Vital signs stable. Cardiac status unchanged from prior visit.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory loss. Increased fall risk due to leg weakness and instability. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention delayed awaiting cardiac clearance.",
+  "plan": "Continue current pain management regimen. Reinforce walker use for safety. Monitor neurological status closely. Coordinate with cardiology for expedited clearance. Address mood symptoms with primary care. Schedule follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "ortho-2025-10-07-Spine Follow-up:f01d72a82a": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain with recent falls.",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including increased leg weakness and numbness. There have been multiple recent falls attributed to leg instability. Chronic low back and leg pain persist, interfering with sleep. Mood remains low, with feelings of depression. Surgery remains postponed pending cardiac clearance.",
+  "objective": "On exam, decreased strength noted in right ankle plantarflexion and toe flexion (4/5). Sensory deficit in right S1 dermatome. Reflexes diminished at right Achilles tendon. Gait unsteady; patient continues to use walker for ambulation. No new neurological deficits observed.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory changes. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention delayed due to pending cardiac evaluation.",
+  "plan": "Continue current pain management regimen. Encourage use of walker for safety. Monitor neurological status closely. Coordinate with cardiology for clearance to proceed with surgical decompression. Address mood symptoms with primary care provider. Follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "ortho-2025-11-17-Spine Follow-up:6e034f406a": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including increased leg weakness and numbness. There have been multiple recent falls attributed to leg instability. Chronic low back and leg pain persist, interfering with sleep. Mood remains low, with feelings of frustration due to functional decline. Surgery remains postponed pending cardiac clearance.",
+  "objective": "On exam, decreased strength noted in right ankle plantarflexion and toe flexion (4-/5). Sensory deficit along right S1 dermatome. Reflexes diminished at right Achilles tendon. Gait observed with walker; unsteady with occasional loss of balance. No new motor deficits identified. Tenderness over lower lumbar paraspinal muscles. Vital signs stable.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory changes. Increased fall risk secondary to weakness and instability. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention deferred pending cardiac evaluation.",
+  "plan": "Continue current pain management regimen. Reinforce use of walker for ambulation safety. Monitor neurological status closely. Coordinate with cardiology for clearance. Address sleep hygiene and consider referral for mood support. Follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "ortho-2025-12-28-Spine Follow-up:2b243fabcc": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain with recent falls.",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including increased leg weakness and numbness. Falls have occurred more frequently over the past month. Chronic low back and leg pain persist, interfering with sleep. Mood remains low, with feelings of depression. Surgery remains postponed pending cardiac clearance.",
+  "objective": "On exam, notable right lower extremity weakness, particularly in ankle plantarflexion and toe flexion. Sensory deficit along the S1 dermatome on the right. Reflexes diminished at the right Achilles tendon. Gait unsteady; patient continues to use a walker for ambulation. No new skin changes or signs of infection.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory loss. Increased fall risk noted. Chronic pain and depressive symptoms persist. Surgical intervention delayed due to pending cardiac evaluation.",
+  "plan": "Continue current pain management regimen. Reinforce walker use for safety. Monitor neurological status closely. Coordinate with cardiology for clearance. Address mood symptoms with primary care. Plan surgical intervention once medically cleared."
+ },
+ "ortho-2026-02-14-Spine Follow-up:f45cb2d78a": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including increased leg weakness and numbness. Falls have occurred recently, necessitating use of a walker for ambulation. Chronic low back and leg pain persist, interfering with sleep. Mood remains low, with feelings of depression. Surgery remains postponed pending cardiac clearance.",
+  "objective": "On exam, decreased strength noted in right ankle plantarflexion and toe flexion (4/5). Sensory deficit along right S1 dermatome. Reflexes diminished at right Achilles tendon. Gait unstable, requiring walker support. No new neurological deficits observed. Vital signs stable. Cardiac status unchanged from prior evaluation.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory loss. Increased fall risk due to weakness and instability. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention delayed awaiting cardiac clearance.",
+  "plan": "Continue current pain management regimen. Encourage walker use for safety. Monitor neurological status closely. Coordinate with cardiology for clearance to proceed with surgery. Address mood symptoms with primary care. Follow up in 4 weeks or sooner if symptoms worsen."
+ },
+ "ortho-2026-04-12-Spine Follow-up:9c67e2cac1": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain with recent falls.",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including increased leg weakness and numbness. There have been multiple recent falls attributed to leg instability. Chronic low back and leg pain persist, interfering with sleep. Mood remains low, with feelings of frustration due to functional decline. Surgery remains postponed pending cardiac clearance.",
+  "objective": "On exam, decreased strength noted in right ankle plantarflexion and toe flexion (4-/5). Sensory deficit in right S1 dermatome. Reflexes diminished at right Achilles tendon. Gait unsteady; patient continues to use walker for ambulation. No new neurological deficits observed. Lumbar spine tenderness present.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory loss. Increased fall risk secondary to lower extremity weakness. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention delayed awaiting cardiac evaluation.",
+  "plan": "Continue current pain management regimen. Reinforce use of walker for safety. Monitor neurological status closely. Coordinate with cardiology for expedited clearance. Address sleep hygiene and mood symptoms with primary care. Schedule follow-up after cardiac clearance to reassess surgical candidacy."
+ },
+ "ortho-2026-06-10-Spine Follow-up:b329b6c63f": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain with recent falls.",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including increased leg weakness and numbness. There have been multiple recent falls attributed to leg instability. Chronic low back and leg pain persist, interfering with sleep. Mood remains low, with feelings of frustration due to functional decline. Surgery remains postponed pending cardiac clearance.",
+  "objective": "Vital signs stable. Neurologic exam reveals decreased strength (4/5) in right plantar flexion and diminished sensation in right S1 dermatome. Reflexes reduced at right Achilles tendon. Gait unsteady; patient ambulates with walker. No new motor deficits noted. Spine tenderness present over lower lumbar region.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory changes. Functional decline evidenced by falls and increased reliance on walker. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention delayed awaiting cardiac evaluation.",
+  "plan": "Continue current pain management regimen. Encourage use of walker for safety. Monitor neurologic status closely. Coordinate with cardiology for clearance to proceed with surgical decompression. Address sleep hygiene and consider referral for mood support as needed."
+ },
+ "ortho-2026-07-24-Spine Follow-up:a23b9efff2": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain",
+  "subjective": "The patient reports worsening right leg weakness and numbness consistent with S1 radiculopathy. There have been multiple recent falls attributed to leg instability. Pain remains chronic and poorly controlled, interfering with sleep. Mood is depressed due to ongoing symptoms and functional decline. Surgery remains postponed pending cardiac clearance.",
+  "objective": "On exam, decreased strength noted in right plantar flexion and ankle dorsiflexion. Sensory deficit along right S1 dermatome. Reflexes diminished at right Achilles tendon. Gait unstable; patient continues to use walker for ambulation. No new neurological deficits observed.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory loss. Chronic pain and sleep disturbance persist. Depressed mood likely secondary to chronic illness and functional impairment. Surgical intervention deferred awaiting cardiac evaluation.",
+  "plan": "Continue current pain management regimen. Encourage use of walker for safety. Monitor neurological status closely. Coordinate with cardiology for clearance to proceed with surgical decompression. Address mood symptoms with supportive counseling and consider psychiatric referral if indicated."
+ },
+ "pain-2024-12-21-Procedure Note - Epidural Steroid Injection:0a42fbcc07": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports persistent right leg pain radiating to the lateral aspect of the foot since onset on 11/05/2024 after lifting. Pain intensity fluctuates but remains bothersome despite ongoing gabapentin and physical therapy. No new neurological symptoms reported.",
+  "objective": "Patient alert and oriented. Motor strength intact in lower extremities. Sensation decreased to light touch over right lateral foot. Reflexes symmetrical. No signs of infection or adverse reaction at previous injection sites.",
+  "assessment": "Right lower extremity radicular pain consistent with lumbar nerve root irritation. Symptoms persist despite conservative management including gabapentin and physical therapy. Fluctuating symptom course noted.",
+  "plan": "Performed right lumbar epidural steroid injection under sterile conditions. Continue gabapentin at current dose. Advise continuation of physical therapy. Monitor for response to injection and any adverse effects. Follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "pain-2025-02-27-Procedure Note - Epidural Steroid Injection:6fb0e104d9": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports persistent right leg pain radiating to the lateral foot since onset on 11/05/2024 after lifting. Pain intensity fluctuates but remains bothersome despite ongoing gabapentin and physical therapy. No new neurological symptoms reported.",
+  "objective": "Patient alert and oriented. Right lower extremity shows no motor weakness. Sensation intact except for mild hypoesthesia over lateral foot. Reflexes symmetrical. No signs of infection or adverse reaction at previous injection sites.",
+  "assessment": "Chronic right leg radicular pain consistent with lumbar radiculopathy. Symptoms persist despite conservative management including gabapentin and physical therapy. Fluctuating course noted.",
+  "plan": "Performed right lumbar epidural steroid injection under sterile conditions. Continue gabapentin at current dose. Encourage adherence to physical therapy regimen. Monitor for response to injection and any adverse effects. Follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "pain-2025-04-18-Pain Management Follow-up:70bb638b46": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports ongoing right leg pain radiating to the lateral foot since onset on 11/05/2024 after lifting. Pain intensity fluctuates but remains bothersome. Gabapentin and physical therapy have been continued with variable relief. No new symptoms reported.",
+  "objective": "Vital signs stable. Neurologic exam reveals mild decreased sensation over right lateral foot. Motor strength intact. No new deficits noted. Injection sites from prior epidural steroid injections show no signs of infection or inflammation.",
+  "assessment": "Chronic right leg radicular pain consistent with prior diagnosis. Symptoms persist despite ongoing gabapentin therapy, physical therapy, and prior epidural steroid injections. Fluctuating course noted without progression.",
+  "plan": "Continue current gabapentin regimen and physical therapy. Plan for repeat epidural steroid injection to address persistent radicular symptoms. Monitor response and adjust treatment as needed at follow-up."
+ },
+ "pain-2025-06-19-Procedure Note - Epidural Steroid Injection:12f1f94316": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports persistent right leg pain radiating to the lateral aspect of the foot since onset on 11/05/2024 after lifting. Pain intensity fluctuates but remains bothersome despite ongoing gabapentin and physical therapy. No new neurological symptoms reported.",
+  "objective": "Patient positioned for right lumbar epidural steroid injection. Vital signs stable. No acute distress noted. Neurological exam unchanged from prior visits; sensation intact, motor strength preserved, reflexes symmetrical.",
+  "assessment": "Chronic right lower extremity radicular pain consistent with lumbar radiculopathy. Symptoms persist despite conservative management including gabapentin and physical therapy. Epidural steroid injection administered today for symptom control.",
+  "plan": "Performed right lumbar epidural steroid injection under sterile technique. Continue gabapentin as previously prescribed. Encourage adherence to physical therapy regimen. Follow-up in 4 weeks to assess response to injection and adjust treatment plan accordingly."
+ },
+ "pain-2025-08-27-Procedure Note - Epidural Steroid Injection:2c328fb2c9": {
+  "chief_complaint": "Right S1 radiculopathy with weakness and falls",
+  "subjective": "The patient reports worsening right leg pain radiating along the S1 distribution, accompanied by increased weakness and recent falls. Sleep remains poor due to pain. Mood is depressed. Surgery has been postponed pending cardiac clearance.",
+  "objective": "Patient ambulates with walker. Noted decreased strength in right plantar flexion and diminished right ankle reflex. Sensory deficit along right S1 dermatome. No new neurological deficits observed.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and instability. Chronic pain contributing to poor sleep and depressed mood. Surgical intervention delayed awaiting cardiac evaluation.",
+  "plan": "Performed right S1 epidural steroid injection under fluoroscopic guidance without complications. Continue current pain medications. Monitor neurological status and falls risk. Encourage sleep hygiene and consider psychological support for mood. Follow up after cardiac clearance for surgical planning."
+ },
+ "pain-2025-10-26-Pain Management Follow-up:f2fefd95f2": {
+  "chief_complaint": "Right lower extremity radicular pain and weakness",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including increased leg weakness and multiple recent falls. Pain remains severe and constant, interfering with sleep. Mood is depressed due to chronic pain and functional decline. Surgery remains postponed awaiting cardiac clearance. The patient continues to use a walker for ambulation.",
+  "objective": "Exam reveals decreased strength in right ankle plantarflexion and dorsiflexion. Sensory deficit noted in right S1 dermatome. Reflexes diminished at right Achilles tendon. Gait unsteady, requiring walker support. No new neurological deficits observed.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory changes. Chronic pain syndrome with poor sleep and depressive symptoms. Surgical intervention delayed pending cardiac evaluation.",
+  "plan": "Administer right S1 epidural steroid injection today to address radicular pain. Continue current pain medication regimen with adjustments as needed for symptom control. Monitor for adverse effects. Encourage use of walker for safety. Coordinate with cardiology for expedited clearance. Address mood symptoms with supportive counseling and consider psychiatric referral if depression worsens."
+ },
+ "pain-2025-12-15-Pain Management Follow-up:c637727153": {
+  "chief_complaint": "Right lower extremity radicular pain and weakness",
+  "subjective": "The patient reports worsening right S1 radicular symptoms with increased leg weakness and recent falls. Pain remains severe and constant, interfering with sleep. Mood described as depressed due to chronic pain and functional decline. Surgery postponed pending cardiac clearance.",
+  "objective": "Patient ambulates with walker, demonstrating decreased strength in right ankle dorsiflexion and plantarflexion. Sensory deficit noted in right S1 dermatome. Reflexes diminished on right side. No new neurological deficits observed.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory changes. Chronic pain syndrome complicated by poor sleep and depressive symptoms. Surgical intervention delayed awaiting cardiac evaluation.",
+  "plan": "Continue current pain management regimen. Administer right S1 epidural steroid injection today to address radicular pain. Monitor neurological status closely. Encourage use of walker for safety. Coordinate with cardiology for clearance to proceed with surgery. Address sleep hygiene and consider referral for behavioral health support."
+ },
+ "pain-2026-02-16-Pain Management Follow-up:94cc2a71a9": {
+  "chief_complaint": "Right lower extremity radicular pain and weakness",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including increased leg weakness and multiple recent falls. Pain remains severe and constant, interfering with sleep. Mood is depressed due to chronic pain and functional decline. Surgery is postponed pending cardiac clearance.",
+  "objective": "Patient ambulates with walker. Noted decreased strength in right ankle plantarflexion and diminished right Achilles reflex. Sensory deficit along right S1 dermatome. Gait unsteady with frequent loss of balance. Vital signs stable. No new neurological deficits observed.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory changes. Chronic pain syndrome complicated by poor sleep and depressive symptoms. Surgical intervention delayed awaiting cardiac evaluation.",
+  "plan": "Continue current pain medication regimen with close monitoring. Administer epidural steroid injection targeting right S1 nerve root today to reduce inflammation and pain. Recommend physical therapy focusing on balance and strengthening as tolerated. Monitor mood and sleep; consider referral to behavioral health if symptoms persist. Follow up in 4 weeks or sooner if symptoms worsen."
+ },
+ "pain-2026-04-10-Procedure Note - Epidural Steroid Injection:751461457d": {
+  "chief_complaint": "Right lower extremity radicular pain and weakness",
+  "subjective": "The patient reports worsening right S1 radiculopathy characterized by increased leg pain, weakness, and recent falls. Sleep remains poor due to pain. Mood is depressed. Surgery has been postponed pending cardiac clearance.",
+  "objective": "Patient ambulates with walker. Noted decreased strength in right ankle dorsiflexion and plantarflexion. Sensory deficit along right S1 dermatome. Reflexes diminished at right Achilles. No new neurological deficits observed.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain contributing to poor sleep and depressed mood. Surgical intervention delayed awaiting cardiac evaluation.",
+  "plan": "Performed right S1 epidural steroid injection under fluoroscopic guidance. Continue current pain medications. Monitor neurological status closely. Encourage use of walker for safety. Follow up after cardiac clearance to reassess surgical options."
+ },
+ "pain-2026-06-05-Procedure Note - Epidural Steroid Injection:fef995bfdf": {
+  "chief_complaint": "Right lower extremity radicular pain and weakness",
+  "subjective": "The patient reports worsening right S1 radiculopathy characterized by increased leg pain, weakness, and recent falls. Sleep remains poor due to pain. Mood is depressed. Surgery has been postponed pending cardiac clearance.",
+  "objective": "Physical exam reveals decreased strength in right ankle dorsiflexion and plantarflexion. Sensory deficit noted in right S1 dermatome. Reflexes diminished at right Achilles tendon. Patient ambulates with walker, steady but cautious. No new neurological deficits observed.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain contributing to poor sleep and depressed mood. Surgical intervention delayed awaiting cardiac clearance.",
+  "plan": "Performed right S1 epidural steroid injection under fluoroscopic guidance without complications. Continue current pain medications. Monitor neurological status closely. Encourage use of walker for safety. Follow up in pain clinic to assess response and coordinate further management pending surgical clearance."
+ },
+ "pain-2026-08-01-Procedure Note - Epidural Steroid Injection:8f186bd7b6": {
+  "chief_complaint": "Right lower extremity radicular pain and weakness",
+  "subjective": "The patient reports worsening right S1 radiculopathy characterized by increased leg pain, weakness, and recent falls. Sleep remains poor due to pain. Mood is depressed. Surgery has been postponed pending cardiac clearance.",
+  "objective": "Patient ambulates with walker. Noted decreased strength in right ankle plantarflexion and diminished sensation in S1 dermatome. No new neurological deficits observed. Vital signs stable. No signs of infection at injection site.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and falls. Chronic pain contributing to poor sleep and depressed mood. Surgical intervention delayed due to cardiac concerns.",
+  "plan": "Performed right S1 epidural steroid injection under fluoroscopic guidance without complications. Continue current pain medications. Monitor neurological status closely. Encourage use of walker for safety. Follow up for cardiac clearance and reassessment of surgical candidacy."
+ },
+ "neuro-2025-01-28-Neurology Follow-up:4e28e67a32": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports ongoing right leg pain radiating to the lateral aspect of the foot since onset on 11/05/2024 after lifting. Symptoms have fluctuated despite epidural injections, gabapentin, and physical therapy. Pain intensity varies but remains bothersome. No new weakness or numbness reported. Sleep is occasionally disrupted by discomfort.",
+  "objective": "Neurologic exam reveals intact strength in bilateral lower extremities. Sensation diminished to light touch and pinprick over right lateral foot. Reflexes symmetric and normal. Gait steady without assistive devices. No muscle atrophy or fasciculations noted.",
+  "assessment": "Right lower extremity radicular pain consistent with lumbar nerve root irritation. Symptoms persist with fluctuating severity despite prior interventions including epidural steroid injections, gabapentin, and physical therapy.",
+  "plan": "Continue current gabapentin regimen. Encourage adherence to physical therapy exercises. Monitor symptom progression. Consider further evaluation if symptoms worsen or new neurologic deficits develop. Follow-up in neurology clinic as scheduled."
+ },
+ "neuro-2025-09-22-Neurology Follow-up:da8f234b2e": {
+  "chief_complaint": "Right leg weakness and radicular pain",
+  "subjective": "The patient reports worsening right leg weakness and increased radicular pain in the S1 distribution. Falls have occurred recently, prompting use of a walker for ambulation. Chronic pain persists, interfering with sleep. Mood remains low, consistent with depression. Surgery remains postponed pending cardiac clearance.",
+  "objective": "Neurologic exam reveals decreased strength in right plantar flexion and ankle dorsiflexion. Sensory exam shows diminished sensation in right S1 dermatome. Reflexes decreased at right Achilles tendon. Gait unsteady; patient ambulates with walker. No new focal deficits noted.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and sensory loss. Chronic neuropathic pain contributing to poor sleep and depressed mood. Surgical intervention delayed due to pending cardiac evaluation.",
+  "plan": "Continue current pain management regimen. Monitor neurologic status closely. Encourage use of walker for safety. Coordinate with cardiology for clearance to proceed with surgery. Address mood symptoms with primary care provider. Follow up in neurology clinic in 4 weeks or sooner if symptoms worsen."
+ },
+ "neuro-2026-05-28-Neurology Follow-up:01452a0e6a": {
+  "chief_complaint": "Right leg weakness and radicular pain",
+  "subjective": "The patient reports worsening right leg weakness and persistent radicular pain in the S1 distribution. Falls have occurred recently, prompting use of a walker for ambulation. Sleep remains poor due to pain. Mood is depressed, attributed to chronic symptoms and limited mobility. Surgery has been postponed pending cardiac clearance.",
+  "objective": "Neurologic exam reveals decreased strength in right plantar flexion and ankle dorsiflexion. Sensory exam shows diminished sensation in right S1 dermatome. Reflexes decreased at right Achilles tendon. Gait unsteady; patient ambulates with walker. No new focal deficits noted.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory loss. Chronic pain contributing to sleep disturbance and depressed mood. Surgical intervention delayed awaiting cardiac evaluation.",
+  "plan": "Continue current pain management regimen. Encourage use of walker for safety. Monitor neurologic status closely. Coordinate with cardiology for clearance to proceed with surgery. Address mood symptoms with supportive counseling and consider psychiatric referral if indicated."
+ },
+ "er-2024-11-30-Emergency Department Visit:2f114c6691": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient presents with worsening right leg pain radiating to the lateral foot, ongoing since onset on 11/05/2024 after lifting. Reports intermittent flare-ups despite current treatment including epidural injections, gabapentin, and physical therapy. Denies new trauma or numbness. No bowel or bladder changes.",
+  "objective": "Vital signs stable. Right lower extremity shows no swelling or erythema. Tenderness noted along lateral aspect of right leg. Sensation intact. Motor strength 5/5 in right foot dorsiflexion and plantarflexion. Reflexes symmetrical. Gait cautious but stable. No signs of acute distress.",
+  "assessment": "Right leg radiculopathy with persistent radiating pain to lateral foot, fluctuating despite ongoing conservative management including epidural injections and gabapentin. No signs of acute neurological deficit or infection.",
+  "plan": "Continue current regimen of gabapentin and physical therapy. Monitor pain levels and neurological status closely. Educate patient on activity modification and symptom management. Return to ED if symptoms worsen or new neurological signs develop."
+ },
+ "er-2025-07-11-Emergency Department Visit:218a49e42e": {
+  "chief_complaint": "Right lower extremity weakness and fall",
+  "subjective": "The patient presents after a recent fall at home, reporting increased right leg weakness and persistent radicular pain in the right S1 distribution. Complains of worsening sleep disturbance and low mood. Denies chest pain or shortness of breath. Continues to use walker for ambulation. No new trauma or head injury reported.",
+  "objective": "Vital signs stable. Alert and oriented. Right lower extremity shows decreased strength compared to prior visits, particularly plantar flexion weakness. Sensory exam reveals diminished sensation in right S1 dermatome. No open wounds or acute injuries noted. Gait unsteady but assisted by walker. Cardiac exam unremarkable. No signs of acute distress.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and recent fall. Chronic pain and depressive symptoms persist. Surgery remains delayed pending cardiac clearance.",
+  "plan": "Provide supportive care and monitor neurological status closely. Reinforce fall precautions and walker use. Address pain management and sleep hygiene. Encourage follow-up with neurology and cardiology for ongoing evaluation. No new imaging or interventions initiated at this visit."
+ },
+ "er-2024-10-03-Emergency Department Visit:b08b0f34a3": {
+  "chief_complaint": "Acute low back pain flare",
+  "subjective": "The patient presents with worsening low back pain that started earlier today after lifting a heavy package at work. Pain is described as sharp, localized to the lumbar region, without radiation. No numbness, tingling, or weakness reported. Denies recent trauma, fever, or bowel/bladder changes.",
+  "objective": "Vital signs stable. Physical exam reveals tenderness over the lumbar paraspinal muscles. Range of motion limited due to pain. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities. No signs of acute distress.",
+  "assessment": "Acute exacerbation of mechanical low back pain in the setting of chronic intermittent symptoms. No neurological deficits noted. Hypertension, hyperlipidemia, and obesity remain stable and controlled.",
+  "plan": "Administered analgesics for pain control. Advised rest and avoidance of heavy lifting. Provided education on proper body mechanics. Recommended follow-up with primary care for ongoing management of chronic conditions and back pain. No imaging or specialist referral indicated at this time."
+ },
+ "er-2025-10-22-Emergency Department Visit:1ca2aa3087": {
+  "chief_complaint": "Right leg weakness and fall",
+  "subjective": "The patient presents after a recent fall attributed to worsening right leg weakness. Reports increased difficulty ambulating with walker and persistent right S1 radicular pain. Describes chronic pain as severe, interfering with sleep. Mood remains low with feelings of frustration. No new chest pain or shortness of breath. Denies fever or other systemic symptoms.",
+  "objective": "Vital signs stable. Alert and oriented. Right lower extremity shows decreased strength (3/5) in ankle plantarflexion. Sensory deficit noted in S1 dermatome. Walker in use. No open wounds or acute injury from fall. Cardiopulmonary exam unremarkable. No signs of acute distress.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and recent fall. Chronic pain and poor sleep contributing to depressed mood. No acute traumatic injury identified. Surgery remains delayed pending cardiac clearance.",
+  "plan": "Provide supportive care and pain management. Reinforce safety measures to prevent further falls. Continue current walker use. Monitor neurological status closely. Coordinate with cardiology for expedited clearance. Recommend follow-up with neurosurgery once cleared for surgery. Address mood symptoms in outpatient setting."
+ },
+ "er-2024-09-26-Emergency Department Visit:8661afe0bd": {
+  "chief_complaint": "Acute low back pain flare",
+  "subjective": "The patient presents with worsening low back pain that started earlier today after lifting a heavy package at work. Pain is localized to the lumbar region, described as sharp and intermittent. No radiation to legs, no numbness or weakness reported. Denies recent trauma, fever, or bowel/bladder changes.",
+  "objective": "Vital signs stable. Physical exam reveals tenderness over the lumbar paraspinal muscles. Range of motion limited due to pain. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities. No signs of acute distress or deformity.",
+  "assessment": "Acute exacerbation of mechanical low back pain in the setting of chronic intermittent symptoms. No neurological deficits noted. Hypertension, hyperlipidemia, and obesity remain stable and controlled.",
+  "plan": "Administered NSAIDs for pain control. Advised rest and avoidance of heavy lifting. Provided education on proper body mechanics. Recommended follow-up with primary care for ongoing management of hypertension, hyperlipidemia, and obesity. Return precautions given for worsening pain, neurological symptoms, or systemic signs."
+ },
+ "er-2023-06-12-Emergency Department Visit:cc9db38160": {
+  "chief_complaint": "Acute low back pain flare",
+  "subjective": "The patient presents with worsening low back pain that started earlier today after lifting a heavy package at work. Pain is described as sharp, localized to the lumbar region, without radiation. No numbness, tingling, or weakness reported. Denies recent trauma, fever, or bowel/bladder changes.",
+  "objective": "Vital signs stable. Physical exam reveals tenderness over the lumbar paraspinal muscles. Range of motion limited due to pain. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities. No signs of acute distress.",
+  "assessment": "Acute exacerbation of mechanical low back pain in the setting of chronic intermittent symptoms. No neurological deficits noted.",
+  "plan": "Administered analgesics for pain control. Advised rest and avoidance of heavy lifting. Provided education on proper body mechanics. Recommended follow-up with primary care for ongoing management of hypertension, hyperlipidemia, and obesity. No imaging or specialist referral indicated at this time."
+ },
+ "er-2026-05-30-Emergency Department Visit:3f71c4b119": {
+  "chief_complaint": "Right lower extremity weakness and fall",
+  "subjective": "The patient presents after a recent fall attributed to worsening right leg weakness. Reports increased pain radiating down the right leg consistent with prior S1 radiculopathy. Denies new trauma or head injury. Continues to experience poor sleep and low mood. No chest pain or shortness of breath noted. Uses walker for ambulation due to instability.",
+  "objective": "Vital signs stable. Alert and oriented. Right lower extremity shows decreased strength compared to left, particularly plantar flexion. Sensory exam reveals diminished sensation in S1 dermatome. No open wounds or acute injury from fall. Gait unsteady but assisted by walker. Cardiopulmonary exam unremarkable. No signs of acute distress.",
+  "assessment": "Progressive right S1 radiculopathy with associated weakness and recent fall. Chronic pain and depressive symptoms persist. No acute traumatic injury identified. Surgery remains delayed pending cardiac clearance.",
+  "plan": "Provide supportive care and monitor for any new neurological deficits. Reinforce safety measures to prevent further falls. Continue current pain management and address sleep and mood concerns in outpatient setting. No imaging or new interventions indicated at this time. Follow up with neurosurgery and cardiology as scheduled."
+ },
+ "uc-2024-04-17-Urgent Care Visit:8e38d83305": {
+  "chief_complaint": "Low back pain flare",
+  "subjective": "The patient reports a recent increase in low back pain after a long day of deliveries. Describes pain as dull and aching, localized to the lumbar region without radiation. Denies numbness, tingling, or weakness in lower extremities. No recent trauma or falls. No fever or systemic symptoms.",
+  "objective": "Vital signs stable. Physical exam reveals tenderness over lumbar paraspinal muscles. Range of motion limited by pain but no neurological deficits noted. Straight leg raise negative bilaterally. No signs of acute distress.",
+  "assessment": "Mechanical low back pain flare in the setting of chronic intermittent symptoms. No red flags or neurological compromise identified. Hypertension, hyperlipidemia, and obesity remain stable and controlled.",
+  "plan": "Recommend conservative management with NSAIDs as needed and activity modification. Educated patient on proper body mechanics during work. Advised to follow up with primary care provider for ongoing management of chronic conditions. Return to urgent care if symptoms worsen or new neurological signs develop."
+ },
+ "uc-2023-08-17-Urgent Care Visit:e90afbfce1": {
+  "chief_complaint": "Low back pain flare",
+  "subjective": "The patient reports increased low back pain over the past two days after lifting a heavy package at work. Pain is described as dull and aching, localized to the lumbar region without radiation. No numbness, tingling, or weakness noted. Denies bowel or bladder changes. No recent trauma or falls. No fever or systemic symptoms.",
+  "objective": "Vital signs stable. Patient ambulates with mild discomfort. Lumbar spine tenderness to palpation noted. Range of motion limited by pain. Neurological exam intact: normal strength, sensation, and reflexes in lower extremities. No signs of acute distress.",
+  "assessment": "Mechanical low back pain flare likely related to work activity. No neurological deficits or red flags identified. Hypertension, hyperlipidemia, and obesity remain stable and controlled.",
+  "plan": "Recommend conservative management with NSAIDs as needed and activity modification. Educated patient on proper body mechanics and advised to avoid heavy lifting temporarily. Encourage weight management and adherence to hypertension and lipid control regimens. Follow-up with primary care provider as scheduled or sooner if symptoms worsen or new neurological signs develop."
+ },
+ "uc-2026-07-20-Urgent Care Visit:8a1026f142": {
+  "chief_complaint": "Increased right leg weakness and recent fall",
+  "subjective": "The patient reports worsening right leg weakness over the past week, accompanied by increased numbness and tingling in the right foot. They experienced a fall at home yesterday but denied head injury or loss of consciousness. Chronic low back pain persists with poor sleep and low mood. No new chest pain or shortness of breath. Continues to use walker for ambulation.",
+  "objective": "Vital signs stable. Right lower extremity shows decreased strength (3/5) in ankle dorsiflexion and plantarflexion compared to prior visit. Sensory deficit noted in S1 dermatome on the right. Gait unsteady but assisted by walker. No signs of acute trauma or skin breakdown. Cardiopulmonary exam unremarkable.",
+  "assessment": "Progressive right S1 radiculopathy with worsening motor weakness and recent fall. Chronic pain and depressive symptoms persist. Surgery remains delayed pending cardiac clearance.",
+  "plan": "Advise fall precautions and continued use of walker. Reinforce pain management strategies and sleep hygiene. Monitor mood symptoms; consider referral to mental health if worsening. Follow up with cardiology for clearance. Return to urgent care if symptoms worsen or new neurological deficits develop."
+ },
+ "uc-2024-02-13-Urgent Care Visit:df5cf11238": {
+  "chief_complaint": "Low back pain flare",
+  "subjective": "The patient presents with worsening low back pain over the past 3 days. Pain is described as dull and aching, localized to the lumbar region without radiation. No numbness, tingling, or weakness reported. Denies recent trauma or falls. No fever or systemic symptoms. Continues to work as a delivery driver. Reports difficulty with prolonged sitting and bending.",
+  "objective": "Vital signs stable. No acute distress. Lumbar spine tenderness to palpation noted. Range of motion limited by pain, especially with flexion. Neurological exam intact: normal strength, sensation, and reflexes in lower extremities. No signs of radiculopathy or spinal cord involvement.",
+  "assessment": "Mechanical low back pain flare in the setting of chronic intermittent symptoms. No neurological deficits or red flags identified. Hypertension, hyperlipidemia, and obesity remain stable.",
+  "plan": "Recommend conservative management with NSAIDs as needed for pain control. Advise activity modification to avoid aggravating movements. Educate on proper body mechanics during work. Encourage weight management and regular exercise. Follow up with primary care provider for ongoing chronic condition management. Return sooner if symptoms worsen or neurological signs develop."
+ },
+ "uc-2022-10-31-Urgent Care Visit:797cd37bae": {
+  "chief_complaint": "Acute low back pain flare",
+  "subjective": "The patient reports a sudden increase in low back pain starting earlier today after lifting a heavy package at work. Pain is localized to the lumbar region, described as sharp and intermittent. Denies radiation, numbness, or weakness. No recent trauma or falls. No fever or systemic symptoms.",
+  "objective": "Vital signs stable. Lumbar spine tenderness on palpation without swelling or deformity. Range of motion limited due to pain. Neurological exam intact: normal strength, sensation, and reflexes in lower extremities. Gait steady. No signs of acute distress.",
+  "assessment": "Acute exacerbation of mechanical low back pain in the setting of chronic intermittent symptoms. No neurological deficits noted.",
+  "plan": "Advise rest and avoidance of heavy lifting for several days. Recommend over-the-counter NSAIDs for pain control as tolerated. Educate on proper body mechanics during lifting. Encourage gradual return to activity as tolerated. Follow-up with primary care provider if symptoms worsen or new neurological symptoms develop."
+ },
+ "uc-2022-12-13-Urgent Care Visit:5858e6f480": {
+  "chief_complaint": "Acute low back pain flare",
+  "subjective": "The patient reports a sudden increase in low back pain starting earlier today after lifting a heavy package at work. Pain is localized to the lumbar region, described as sharp and intermittent. No radiation to legs, numbness, or weakness noted. Denies recent trauma or falls. No fever, chills, or other systemic symptoms.",
+  "objective": "Vital signs stable. Inspection of lumbar spine shows no deformity or swelling. Palpation reveals tenderness over paraspinal muscles. Range of motion limited by pain. Neurological exam intact: normal strength, sensation, and reflexes in lower extremities. Gait steady. No signs of acute distress.",
+  "assessment": "Acute exacerbation of mechanical low back pain in the setting of chronic intermittent symptoms. No neurological deficits or red flags identified.",
+  "plan": "Recommend conservative management with NSAIDs and activity modification. Educated patient on proper body mechanics and advised to avoid heavy lifting temporarily. Encourage use of heat or cold therapy as needed. Follow-up with primary care provider if symptoms worsen or persist beyond one week."
+ },
+ "pt-2023-04-01-Physical Therapy Initial Evaluation:ce68c2c6f3": {
+  "chief_complaint": "Intermittent mechanical low back pain",
+  "subjective": "The patient reports intermittent low back pain, described as mechanical in nature, exacerbated by prolonged sitting and driving. Denies radicular symptoms or numbness. Reports history of hypertension, hyperlipidemia, and obesity. Currently working as a delivery driver with frequent bending and lifting.",
+  "objective": "Normal neurological examination of lower extremities. Lumbar range of motion limited by discomfort at end range flexion and extension. Palpation reveals mild paraspinal muscle tenderness. Strength testing within normal limits. Gait steady and symmetrical. Vital signs stable, blood pressure elevated but controlled.",
+  "assessment": "Intermittent mechanical low back pain without neurological deficits in the context of comorbid hypertension, hyperlipidemia, and obesity. Symptoms likely related to occupational demands and body mechanics.",
+  "plan": "Initiate physical therapy focusing on lumbar stabilization exercises, posture education, and ergonomic modifications for work activities. Monitor pain levels and functional status. Encourage weight management and cardiovascular health maintenance in coordination with primary care. Reassess progress in 4 weeks."
+ },
+ "pt-2023-05-09-Physical Therapy Discharge Summary:20d016a100": {
+  "chief_complaint": "Intermittent mechanical low back pain",
+  "subjective": "The patient reports ongoing intermittent low back discomfort, described as mechanical in nature, without radiation or neurological symptoms. Pain intensity varies but remains manageable. The patient continues to work full-time as a delivery driver. No new complaints noted.",
+  "objective": "Physical examination reveals normal neurological findings with intact sensation, strength, and reflexes in lower extremities. Lumbar range of motion is mildly limited due to discomfort. Palpation reveals localized tenderness in the lumbar paraspinal muscles. Vital signs stable; blood pressure and lipid levels monitored by primary care. BMI consistent with obesity.",
+  "assessment": "Intermittent mechanical low back pain without neurological deficits in the context of hypertension, hyperlipidemia, and obesity. Functional status adequate for current occupational demands. No signs of radiculopathy or worsening neurological status.",
+  "plan": "Discharge from physical therapy with education on back care and ergonomics during work activities. Continue home exercise program focusing on lumbar mobility and core strengthening. Recommend ongoing monitoring of cardiovascular risk factors by primary care provider. Patient advised to report any new neurological symptoms promptly."
+ },
+ "pt-2025-01-06-Physical Therapy Initial Evaluation:ad68cebd24": {
+  "chief_complaint": "Right leg pain radiating to lateral foot.",
+  "subjective": "Patient reports onset of right leg pain radiating to lateral foot since 11/05/2024 after lifting incident. Pain described as sharp and intermittent, with fluctuating intensity. Reports partial relief with epidural injections and gabapentin. Currently undergoing physical therapy with variable response. No new symptoms reported.",
+  "objective": "Observation reveals antalgic gait favoring right leg. Palpation elicits tenderness along right lateral leg. Range of motion in right lower extremity mildly limited due to pain. Strength testing shows slight weakness in right ankle dorsiflexion and eversion. Sensory exam reveals decreased sensation over lateral foot. Reflexes symmetrical. No signs of acute distress.",
+  "assessment": "Right lower extremity radicular pain consistent with nerve root irritation following lifting injury. Symptoms persist despite epidural injections and medication. Physical therapy evaluation indicates mild motor weakness and sensory changes correlating with clinical presentation.",
+  "plan": "Initiate tailored physical therapy focusing on pain modulation, strengthening of affected musculature, and functional mobility. Monitor response to treatment and adjust interventions accordingly. Continue current medical management including gabapentin and epidural injections as prescribed. Educate patient on activity modification and symptom management strategies."
+ },
+ "pt-2025-03-09-Physical Therapy Discharge Summary:81aee80517": {
+  "chief_complaint": "Right leg pain radiating to lateral foot",
+  "subjective": "The patient reports persistent right leg pain radiating to the lateral aspect of the foot since onset on 11/05/2024 after lifting. Pain intensity fluctuates but remains bothersome. The patient has undergone epidural injections and is currently taking gabapentin. Physical therapy was initiated with some improvement noted in mobility and pain control.",
+  "objective": "On examination, decreased strength noted in right ankle dorsiflexion and eversion. Sensory testing reveals diminished sensation along the lateral foot. Straight leg raise test positive on the right at 45 degrees. Gait observed to be antalgic with mild limp. Range of motion in right lower extremity mildly limited by pain.",
+  "assessment": "Right lower extremity radicular pain consistent with nerve root irritation following lifting injury. Partial response to epidural injections and gabapentin. Physical therapy yielded modest gains in strength and function but symptoms persist with fluctuating severity.",
+  "plan": "Discharge from physical therapy with home exercise program focusing on strengthening and stretching. Continue current medical management including gabapentin and follow-up with pain management specialist as scheduled. Patient advised to monitor symptoms and report any worsening or new neurological deficits promptly."
+ },
+ "pt-2025-10-01-Physical Therapy Initial Evaluation:e822ec21db": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain with recent falls.",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms including numbness, tingling, and weakness. Falls have occurred twice in the past month. Chronic low back pain persists, rated 6/10, interfering with sleep. Mood described as depressed due to ongoing symptoms and delayed surgery awaiting cardiac clearance.",
+  "objective": "Observed antalgic gait with use of walker. Right ankle dorsiflexion and plantarflexion strength graded 3/5. Sensory deficits noted in right S1 dermatome. Positive straight leg raise on right at 45 degrees. Balance impaired with increased sway on single-leg stance. Lumbar range of motion limited by pain.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory changes. Increased fall risk secondary to lower extremity weakness and balance deficits. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention postponed pending cardiac evaluation.",
+  "plan": "Initiate physical therapy focusing on strengthening right lower extremity muscles, balance training to reduce fall risk, and pain management strategies. Educate patient on safe mobility and fall prevention. Coordinate with cardiology for surgical clearance updates. Monitor mood and sleep quality; consider referral to behavioral health if symptoms persist."
+ },
+ "pt-2025-11-20-Physical Therapy Discharge Summary:69535d0b37": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain with frequent falls.",
+  "subjective": "The patient reports ongoing right S1 radiculopathy characterized by sharp, shooting pain down the posterior leg. Weakness persists, contributing to instability and multiple recent falls. Sleep remains disrupted due to pain. Mood described as low, with feelings of frustration related to delayed surgery awaiting cardiac clearance.",
+  "objective": "Observed decreased strength in right ankle plantarflexion and toe flexion graded 3/5. Sensory deficits noted in S1 dermatome. Gait is unsteady with frequent loss of balance; patient continues to use a walker for ambulation. Pain rated 7/10 at worst. Sleep disturbance and depressive symptoms noted during interview.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory changes. Functional mobility impaired by instability and falls. Chronic pain and poor sleep contribute to depressed mood. Surgical intervention postponed pending cardiac evaluation.",
+  "plan": "Continue physical therapy focusing on strength maintenance, balance training, and fall prevention strategies. Monitor pain and functional status closely. Encourage sleep hygiene and address mood symptoms through interdisciplinary collaboration. Reassess once surgical clearance obtained."
+ },
+ "pt-2026-03-02-Physical Therapy Initial Evaluation:759ccd5c98": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain with recent falls.",
+  "subjective": "The patient reports worsening right S1 radiculopathy symptoms, including numbness and weakness in the right leg. There have been multiple recent falls attributed to leg instability. Chronic low back pain persists, interfering with sleep. Mood is reported as depressed due to ongoing symptoms and functional limitations. Surgery remains postponed pending cardiac clearance.",
+  "objective": "Observed use of walker for ambulation. Right lower extremity strength decreased, particularly in ankle plantarflexion and toe flexion. Sensory deficits noted in S1 dermatome on the right. Gait is cautious with decreased stance time on right leg. Balance testing reveals impaired single-leg stance on right. Pain rated 6/10 at rest, increases with movement. Sleep disturbance evident by patient report.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory loss. Increased fall risk due to instability and weakness. Chronic pain and poor sleep contributing to depressed mood. Surgical intervention delayed due to cardiac clearance requirements.",
+  "plan": "Initiate physical therapy focusing on strengthening right lower extremity muscles, balance training, and fall prevention strategies. Address pain management techniques and sleep hygiene education. Monitor mood and refer to mental health services if symptoms worsen. Coordinate with cardiology for surgical clearance updates."
+ },
+ "pt-2026-04-21-Physical Therapy Discharge Summary:020a43cace": {
+  "chief_complaint": "Right lower extremity weakness and radicular pain with frequent falls.",
+  "subjective": "The patient reports ongoing right S1 radiculopathy characterized by sharp, shooting pain down the posterior leg. Weakness persists, contributing to instability and multiple recent falls. Sleep remains disrupted due to pain. Mood described as low, with feelings of frustration related to delayed surgery awaiting cardiac clearance.",
+  "objective": "Observed decreased strength in right ankle plantarflexion and toe flexion graded 3/5. Sensory deficits noted in right S1 dermatome. Gait is unsteady with frequent loss of balance; patient continues to use a walker for ambulation. Pain rated 7/10 at worst. Sleep disturbance and depressive symptoms noted via patient report.",
+  "assessment": "Progressive right S1 radiculopathy with associated motor weakness and sensory changes. Functional mobility impaired by instability and falls. Chronic pain and poor sleep contribute to depressed mood. Surgical intervention postponed pending cardiac evaluation.",
+  "plan": "Continue physical therapy focusing on strengthening right lower extremity muscles and balance training to reduce fall risk. Pain management strategies reviewed. Encourage sleep hygiene and monitor mood symptoms. Coordinate with medical team regarding cardiac clearance and surgical planning. Follow-up as needed prior to surgery."
+ }
+}

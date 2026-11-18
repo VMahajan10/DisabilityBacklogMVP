@@ -1,0 +1,103 @@
+{
+  "case_id": "case08_large_knee_conflict",
+  "title": "Large (~500 pages): bilateral knee OA, improved-then-worse and treating vs CE conflicts",
+  "claimant": {
+    "name": "Augustin F. Pellegrino-Rhee",
+    "dob": "1964-10-02",
+    "alleged_onset_date": "2025-02-01",
+    "filed_date": "2026-08-05",
+    "claim_number": "SYN-26-000108"
+  },
+  "documents": [
+    {
+      "file": "01_pcp.pdf",
+      "title": "Records - Willowbend Primary Care (2022-2026)",
+      "logical_pages": 112,
+      "scanned_pages": [
+        63
+      ]
+    },
+    {
+      "file": "02_rx.pdf",
+      "title": "Records - Harbor Drug #221 (2022-2026)",
+      "logical_pages": 55,
+      "scanned_pages": [
+        22,
+        30
+      ]
+    },
+    {
+      "file": "03_uc.pdf",
+      "title": "Records - QuickCare Urgent Care - Fairhaven (2022-2026)",
+      "logical_pages": 26,
+      "scanned_pages": [
+        1
+      ]
+    },
+    {
+      "file": "04_er.pdf",
+      "title": "Records - Fairhaven General Hospital Emergency Department (2023-2026)",
+      "logical_pages": 36,
+      "scanned_pages": []
+    },
+    {
+      "file": "05_img.pdf",
+      "title": "Records - Fairhaven Radiology Associates (2022-2026)",
+      "logical_pages": 26,
+      "scanned_pages": [
+        1,
+        15
+      ]
+    },
+    {
+      "file": "06_pt.pdf",
+      "title": "Records - Harborline Rehabilitation (2022-2026)",
+      "logical_pages": 112,
+      "scanned_pages": [
+        5,
+        26,
+        46,
+        51,
+        106,
+        112
+      ]
+    },
+    {
+      "file": "07_ortho.pdf",
+      "title": "Records - Fairhaven Joint & Sports Clinic (2022-2026)",
+      "logical_pages": 60,
+      "scanned_pages": [
+        1,
+        14,
+        43,
+        56
+      ]
+    },
+    {
+      "file": "08_fax.pdf",
+      "title": "Records received by fax from Fairhaven Joint & Sports Clinic (re-sent set)",
+      "logical_pages": 42,
+      "scanned_pages": [
+        2
+      ]
+    },
+    {
+      "file": "09_ce.pdf",
+      "title": "Records - Coastal Disability Evaluations LLC (2023-2026)",
+      "logical_pages": 29,
+      "scanned_pages": [
+        4,
+        7,
+        19
+      ]
+    },
+    {
+      "file": "10_claimant.pdf",
+      "title": "Function Report - Adult (claimant)",
+      "logical_pages": 2,
+      "scanned_pages": []
+    }
+  ],
+  "total_pages": 500,
+  "size": "large"
+}

@@ -1,0 +1,504 @@
+{
+  "listing_outcome": [
+    "insufficient_evidence"
+  ],
+  "listings": [
+    "1.18"
+  ],
+  "triage": "senior_examiner",
+  "cal": false,
+  "missing_flags": [],
+  "expected_conflicts": [
+    {
+      "topic": "walking / assistive device (PT improved vs ortho worse)",
+      "refs": [
+        "C1_pt_improved",
+        "K2_canes"
+      ],
+      "pages": [
+        {
+          "file": "06_pt.pdf",
+          "page": 85,
+          "global_page": 340,
+          "scanned": false
+        },
+        {
+          "file": "07_ortho.pdf",
+          "page": 52,
+          "global_page": 419,
+          "scanned": false
+        }
+      ]
+    },
+    {
+      "topic": "assistive device need (treating vs CE)",
+      "refs": [
+        "K3_ce",
+        "K2_canes"
+      ],
+      "pages": [
+        {
+          "file": "09_ce.pdf",
+          "page": 29,
+          "global_page": 498,
+          "scanned": false
+        },
+        {
+          "file": "07_ortho.pdf",
+          "page": 52,
+          "global_page": 419,
+          "scanned": false
+        }
+      ]
+    }
+  ],
+  "total_pages": 500,
+  "key_evidence": [
+    {
+      "id": "K1_xray",
+      "description": "Weight-bearing X-ray with severe joint space loss",
+      "file": "05_img.pdf",
+      "page": 23,
+      "global_page": 252,
+      "scanned": false
+    },
+    {
+      "id": "K2_canes",
+      "description": "Treating note prescribing bilateral canes",
+      "file": "07_ortho.pdf",
+      "page": 52,
+      "global_page": 419,
+      "scanned": false
+    },
+    {
+      "id": "K3_ce",
+      "description": "Consultative exam: device not necessary",
+      "file": "09_ce.pdf",
+      "page": 29,
+      "global_page": 498,
+      "scanned": false
+    }
+  ],
+  "conflict_pages": {
+    "C1_pt_improved": {
+      "file": "06_pt.pdf",
+      "page": 85,
+      "global_page": 340,
+      "scanned": false
+    }
+  },
+  "planted_duplicates": 41,
+  "duplicate_pairs": [
+    {
+      "copy": [
+        "08_fax.pdf",
+        2
+      ],
+      "original": [
+        "06_pt.pdf",
+        5
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        3
+      ],
+      "original": [
+        "06_pt.pdf",
+        6
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        4
+      ],
+      "original": [
+        "06_pt.pdf",
+        11
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        5
+      ],
+      "original": [
+        "06_pt.pdf",
+        14
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        6
+      ],
+      "original": [
+        "06_pt.pdf",
+        16
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        7
+      ],
+      "original": [
+        "06_pt.pdf",
+        18
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        8
+      ],
+      "original": [
+        "06_pt.pdf",
+        21
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        9
+      ],
+      "original": [
+        "06_pt.pdf",
+        22
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        10
+      ],
+      "original": [
+        "06_pt.pdf",
+        24
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        11
+      ],
+      "original": [
+        "06_pt.pdf",
+        26
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        12
+      ],
+      "original": [
+        "06_pt.pdf",
+        28
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        13
+      ],
+      "original": [
+        "06_pt.pdf",
+        30
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        14
+      ],
+      "original": [
+        "06_pt.pdf",
+        36
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        15
+      ],
+      "original": [
+        "06_pt.pdf",
+        42
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        16
+      ],
+      "original": [
+        "06_pt.pdf",
+        47
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        17
+      ],
+      "original": [
+        "06_pt.pdf",
+        50
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        18
+      ],
+      "original": [
+        "06_pt.pdf",
+        53
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        19
+      ],
+      "original": [
+        "06_pt.pdf",
+        56
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        20
+      ],
+      "original": [
+        "07_ortho.pdf",
+        28
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        21
+      ],
+      "original": [
+        "06_pt.pdf",
+        58
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        22
+      ],
+      "original": [
+        "07_ortho.pdf",
+        30
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        23
+      ],
+      "original": [
+        "06_pt.pdf",
+        60
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        24
+      ],
+      "original": [
+        "06_pt.pdf",
+        61
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        25
+      ],
+      "original": [
+        "07_ortho.pdf",
+        34
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        26
+      ],
+      "original": [
+        "06_pt.pdf",
+        63
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        27
+      ],
+      "original": [
+        "06_pt.pdf",
+        71
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        28
+      ],
+      "original": [
+        "06_pt.pdf",
+        83
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        29
+      ],
+      "original": [
+        "07_ortho.pdf",
+        40
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        30
+      ],
+      "original": [
+        "06_pt.pdf",
+        86
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        31
+      ],
+      "original": [
+        "07_ortho.pdf",
+        42
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        32
+      ],
+      "original": [
+        "05_img.pdf",
+        23
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        33
+      ],
+      "original": [
+        "06_pt.pdf",
+        89
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        34
+      ],
+      "original": [
+        "07_ortho.pdf",
+        45
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        35
+      ],
+      "original": [
+        "06_pt.pdf",
+        92
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        36
+      ],
+      "original": [
+        "06_pt.pdf",
+        94
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        37
+      ],
+      "original": [
+        "07_ortho.pdf",
+        50
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        38
+      ],
+      "original": [
+        "06_pt.pdf",
+        95
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        39
+      ],
+      "original": [
+        "06_pt.pdf",
+        108
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        40
+      ],
+      "original": [
+        "06_pt.pdf",
+        109
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        41
+      ],
+      "original": [
+        "07_ortho.pdf",
+        56
+      ]
+    },
+    {
+      "copy": [
+        "08_fax.pdf",
+        42
+      ],
+      "original": [
+        "06_pt.pdf",
+        112
+      ]
+    }
+  ],
+  "scanned_pages": 20
+}

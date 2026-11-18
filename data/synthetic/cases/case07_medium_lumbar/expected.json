@@ -1,0 +1,173 @@
+{
+  "listing_outcome": [
+    "criteria_appear_met"
+  ],
+  "listings": [
+    "1.15"
+  ],
+  "triage": "fast_track",
+  "cal": false,
+  "missing_flags": [],
+  "expected_conflicts": [
+    {
+      "topic": "symptom trend / walking ability",
+      "refs": [
+        "C1_pt_improved",
+        "K2_walker"
+      ],
+      "pages": [
+        {
+          "file": "06_pt.pdf",
+          "page": 30,
+          "global_page": 128,
+          "scanned": false
+        },
+        {
+          "file": "05_ortho.pdf",
+          "page": 10,
+          "global_page": 92,
+          "scanned": false
+        }
+      ]
+    }
+  ],
+  "total_pages": 149,
+  "key_evidence": [
+    {
+      "id": "K1_mri",
+      "description": "MRI report with nerve root compression",
+      "file": "04_img.pdf",
+      "page": 7,
+      "global_page": 78,
+      "scanned": false
+    },
+    {
+      "id": "K2_walker",
+      "description": "Treating note prescribing walker with documented medical need",
+      "file": "05_ortho.pdf",
+      "page": 10,
+      "global_page": 92,
+      "scanned": false
+    },
+    {
+      "id": "K3_mss",
+      "description": "Treating source statement on walker need and function",
+      "file": "05_ortho.pdf",
+      "page": 16,
+      "global_page": 98,
+      "scanned": false
+    }
+  ],
+  "conflict_pages": {
+    "C1_pt_improved": {
+      "file": "06_pt.pdf",
+      "page": 30,
+      "global_page": 128,
+      "scanned": false
+    }
+  },
+  "planted_duplicates": 10,
+  "duplicate_pairs": [
+    {
+      "copy": [
+        "07_fax.pdf",
+        2
+      ],
+      "original": [
+        "04_img.pdf",
+        4
+      ]
+    },
+    {
+      "copy": [
+        "07_fax.pdf",
+        3
+      ],
+      "original": [
+        "05_ortho.pdf",
+        7
+      ]
+    },
+    {
+      "copy": [
+        "07_fax.pdf",
+        4
+      ],
+      "original": [
+        "04_img.pdf",
+        7
+      ]
+    },
+    {
+      "copy": [
+        "07_fax.pdf",
+        5
+      ],
+      "original": [
+        "05_ortho.pdf",
+        8
+      ]
+    },
+    {
+      "copy": [
+        "07_fax.pdf",
+        6
+      ],
+      "original": [
+        "05_ortho.pdf",
+        9
+      ]
+    },
+    {
+      "copy": [
+        "07_fax.pdf",
+        7
+      ],
+      "original": [
+        "05_ortho.pdf",
+        11
+      ]
+    },
+    {
+      "copy": [
+        "07_fax.pdf",
+        8
+      ],
+      "original": [
+        "05_ortho.pdf",
+        12
+      ]
+    },
+    {
+      "copy": [
+        "07_fax.pdf",
+        9
+      ],
+      "original": [
+        "05_ortho.pdf",
+        13
+      ]
+    },
+    {
+      "copy": [
+        "07_fax.pdf",
+        10
+      ],
+      "original": [
+        "05_ortho.pdf",
+        14
+      ]
+    },
+    {
+      "copy": [
+        "07_fax.pdf",
+        11
+      ],
+      "original": [
+        "05_ortho.pdf",
+        15
+      ]
+    }
+  ],
+  "scanned_pages": 5
+}

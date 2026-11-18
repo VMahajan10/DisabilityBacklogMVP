@@ -1,0 +1,73 @@
+{
+  "case_id": "case07_medium_lumbar",
+  "title": "Medium (~150 pages): lumbar nerve root compromise, key evidence mid-file",
+  "claimant": {
+    "name": "Delphine R. Achterberg-Moss",
+    "dob": "1969-05-19",
+    "alleged_onset_date": "2025-01-20",
+    "filed_date": "2026-09-10",
+    "claim_number": "SYN-26-000107"
+  },
+  "documents": [
+    {
+      "file": "01_pcp.pdf",
+      "title": "Records - Cedar Hollow Family Practice (2023-2026)",
+      "logical_pages": 43,
+      "scanned_pages": [
+        38
+      ]
+    },
+    {
+      "file": "02_er.pdf",
+      "title": "Records - St. Aldric Community Hospital Emergency Department (2023-2026)",
+      "logical_pages": 18,
+      "scanned_pages": [
+        1
+      ]
+    },
+    {
+      "file": "03_rx.pdf",
+      "title": "Records - MainStreet Pharmacy #0412 (2023-2026)",
+      "logical_pages": 10,
+      "scanned_pages": []
+    },
+    {
+      "file": "04_img.pdf",
+      "title": "Records - Clearview Imaging Center (2023-2025)",
+      "logical_pages": 11,
+      "scanned_pages": []
+    },
+    {
+      "file": "05_ortho.pdf",
+      "title": "Records - Northgate Spine & Orthopedics (2023-2026)",
+      "logical_pages": 16,
+      "scanned_pages": [
+        13
+      ]
+    },
+    {
+      "file": "06_pt.pdf",
+      "title": "Records - Brookside Physical Therapy (2023-2026)",
+      "logical_pages": 38,
+      "scanned_pages": [
+        32
+      ]
+    },
+    {
+      "file": "07_fax.pdf",
+      "title": "Records received by fax from Northgate Spine & Orthopedics (re-sent set)",
+      "logical_pages": 11,
+      "scanned_pages": [
+        11
+      ]
+    },
+    {
+      "file": "08_claimant.pdf",
+      "title": "Function Report - Adult (claimant)",
+      "logical_pages": 2,
+      "scanned_pages": []
+    }
+  ],
+  "total_pages": 149,
+  "size": "large"
+}

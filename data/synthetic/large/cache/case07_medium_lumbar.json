@@ -1,0 +1,184 @@
+{
+ "pcp-2023-06-21-Medication Follow-up:c307c7e5bd": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports adherence to antihypertensive medication with no adverse effects. Occasional mild stiffness in the lower back noted, without radiation or neurological symptoms. No new complaints. Diet and exercise efforts ongoing. No episodes of dizziness or chest pain.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, afebrile. Cardiovascular and respiratory exams unremarkable. Neurological exam normal with intact strength and sensation in lower extremities. Mild paraspinal tenderness in lumbar region without spasm. No leg swelling or deformity.",
+  "assessment": "Chronic hypertension, currently controlled on medication. Prediabetes under monitoring. Mild low back stiffness without neurological involvement, stable since last visit.",
+  "plan": "Continue current antihypertensive regimen. Reinforce lifestyle modifications for blood pressure and glucose control. Monitor blood pressure at home and maintain scheduled labs. Advise patient to report any worsening back symptoms or new neurological signs. Follow up in 3 months or sooner if needed."
+ },
+ "pcp-2023-09-13-Medication Follow-up:c232394cb7": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports adherence to antihypertensive medication with no side effects. Occasional mild stiffness in the lower back noted, no radiation or leg symptoms. No new complaints. Diet and exercise efforts ongoing. No episodes of dizziness or chest pain.",
+  "objective": "BP 138/84 mmHg, HR 76 bpm, afebrile. Cardiovascular and respiratory exams unremarkable. Neurological exam normal with intact strength and sensation in lower extremities. Mild lumbar paraspinal tenderness without spasm. No signs of acute distress.",
+  "assessment": "Chronic hypertension, blood pressure reasonably controlled. Prediabetes stable. Mild low back stiffness without neurological involvement, consistent with prior reports. No acute musculoskeletal findings.",
+  "plan": "Continue current antihypertensive regimen. Reinforce lifestyle modifications for blood pressure and glucose control. Monitor blood pressure at home and maintain scheduled labs. Advise patient to continue physical activity as tolerated. Refer musculoskeletal concerns to specialist if symptoms worsen or neurological signs develop. Follow-up in 3 months or sooner if needed."
+ },
+ "pcp-2023-12-14-Office Visit:d2559a3ade": {
+  "chief_complaint": "Routine follow-up for chronic hypertension and prediabetes",
+  "subjective": "The patient reports generally stable blood pressure readings at home. Occasional mild stiffness in the lower back noted, no radiation or leg symptoms. No new complaints. Adherence to medication regimen confirmed. Diet and exercise efforts ongoing but inconsistent.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, afebrile. Physical exam: Cardiovascular and respiratory exams unremarkable. Musculoskeletal: mild lumbar paraspinal tenderness, no deformity or swelling. Neurological exam normal with intact strength, sensation, and reflexes in lower extremities.",
+  "assessment": "Chronic hypertension, currently controlled with medication. Prediabetes, stable. Mild low back stiffness without neurological involvement, consistent with previous reports.",
+  "plan": "Continue current antihypertensive therapy and monitor blood pressure regularly. Reinforce lifestyle modifications for blood sugar control including diet and exercise. No changes to medications at this time. Advise patient to report any worsening back symptoms or new neurological signs. Follow-up in 3 months for routine chronic disease management and labs as scheduled."
+ },
+ "pcp-2024-03-23-Chronic Care Follow-up:2daa135c00": {
+  "chief_complaint": "Routine follow-up for chronic hypertension and prediabetes.",
+  "subjective": "The patient reports generally stable blood pressure readings at home. Occasional mild stiffness in the lower back noted, no radiation or leg symptoms. No new complaints. Adherence to medication regimen confirmed. Diet and exercise efforts ongoing but variable.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, afebrile. Physical exam reveals mild lumbar paraspinal tenderness without spasm. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities. Cardiovascular and respiratory exams unremarkable.",
+  "assessment": "Chronic hypertension, currently controlled with current regimen. Prediabetes, stable. Mild low back stiffness without neurological involvement, consistent with prior reports.",
+  "plan": "Continue current antihypertensive medications and monitor blood pressure regularly. Reinforce lifestyle modifications for blood pressure and glycemic control. Encourage consistent exercise and weight management. No changes to musculoskeletal management; refer to specialist if symptoms worsen or neurological signs develop. Routine labs to be obtained prior to next visit."
+ },
+ "pcp-2024-06-12-Office Visit:2fd954482e": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports stable blood pressure readings at home. Denies headaches, dizziness, chest pain, or palpitations. Notes occasional mild stiffness in the lower back without radiation or numbness. No leg pain or weakness. No new symptoms reported.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, afebrile. Cardiovascular exam normal, no murmurs. Lungs clear to auscultation. Neurological exam intact with normal strength and sensation in lower extremities. Mild paraspinal tenderness noted in lumbar region without spasm. No signs of radiculopathy.",
+  "assessment": "1. Chronic hypertension, controlled. 2. Prediabetes, stable. 3. Mild low back stiffness without neurological involvement.",
+  "plan": "Continue current antihypertensive regimen; monitor blood pressure at home. Encourage lifestyle modifications for prediabetes including diet and exercise. No changes to medications at this time. Advise patient to continue routine follow-up with primary care. Low back stiffness to be monitored; no new interventions needed currently. Refer to specialist if symptoms worsen or neurological signs develop. Routine labs to be drawn prior to next visit."
+ },
+ "pcp-2024-09-02-Medication Follow-up:a79497923e": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports generally stable blood pressure readings at home. Occasional mild stiffness in the lower back noted, no radiation or leg symptoms. No new complaints. Adherence to medications confirmed. No hypoglycemic symptoms. Diet and exercise efforts ongoing.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, afebrile. Physical exam reveals mild lumbar paraspinal tenderness without spasm. Neurological exam intact with normal strength, sensation, and reflexes in lower extremities. Cardiovascular and respiratory exams unremarkable.",
+  "assessment": "1. Chronic hypertension, controlled on current regimen.\n2. Prediabetes, stable.\n3. Mild low back stiffness without neurological deficits, likely mechanical in nature.",
+  "plan": "Continue current antihypertensive and lifestyle modifications. Monitor blood pressure and blood glucose levels regularly. Encourage continued diet and exercise. No changes to medications at this time. Refer to specialist if low back symptoms worsen or neurological signs develop. Routine labs to be obtained prior to next visit."
+ },
+ "pcp-2024-12-08-Office Visit:ce4f5bdb18": {
+  "chief_complaint": "Routine follow-up for chronic hypertension and prediabetes",
+  "subjective": "The patient reports generally stable blood pressure readings at home. Occasional mild stiffness in the lower back noted, no radiation or leg symptoms. No new complaints. Adherence to medications confirmed. Diet and exercise efforts ongoing but variable.",
+  "objective": "Vital signs: BP 138/84 mmHg, HR 76 bpm, afebrile. Physical exam: Cardiovascular and respiratory exams unremarkable. Neurological exam normal with intact strength and sensation in lower extremities. Mild paraspinal tenderness noted in lumbar region without spasm. No signs of acute distress.",
+  "assessment": "Chronic hypertension, currently controlled with medication. Prediabetes, stable. Mild low back stiffness without neurological deficits, consistent with prior reports.",
+  "plan": "Continue current antihypertensive regimen and monitor blood pressure regularly. Reinforce lifestyle modifications for blood sugar control including diet and exercise. No changes to musculoskeletal management; patient to continue with specialist follow-up as needed. Routine labs to be drawn prior to next visit. Schedule follow-up in 3 months or sooner if symptoms worsen."
+ },
+ "pcp-2025-03-01-Office Visit:d4ccc27caa": {
+  "chief_complaint": "Follow-up for chronic conditions and recent left leg symptoms post-lifting injury",
+  "subjective": "The patient reports ongoing left leg pain radiating to the foot since injury on 01/20/2025. Describes numbness and mild weakness in the left foot. Continues to take NSAIDs and gabapentin as prescribed. Attending physical therapy sessions regularly. No new symptoms reported. No issues with blood pressure or other chronic conditions noted.",
+  "objective": "Vital signs stable. Left lower extremity shows no swelling or erythema. Mild decreased strength noted in left foot dorsiflexion. Sensation diminished over left foot dorsum. Reflexes symmetrical. Gait steady. No acute distress observed.",
+  "assessment": "Chronic conditions stable. Left leg radicular symptoms consistent with recent lifting injury. Mild left foot weakness and numbness persist. Conservative management ongoing.",
+  "plan": "Continue current medications including NSAIDs and gabapentin. Maintain physical therapy regimen. Monitor symptoms closely. Follow up in 4 weeks or sooner if symptoms worsen. Labs and preventive care addressed separately."
+ },
+ "pcp-2025-05-31-Chronic Care Follow-up:4787b1eff8": {
+  "chief_complaint": "Follow-up for chronic conditions and left leg symptoms post lifting injury",
+  "subjective": "The patient reports persistent left leg pain radiating to the foot since the injury in January. Describes numbness and mild weakness in the left foot. No new symptoms reported. Continues NSAIDs and gabapentin as prescribed. Completed several physical therapy sessions with some improvement noted. No worsening of symptoms.",
+  "objective": "Vital signs stable. Left lower extremity shows no swelling or erythema. Mild decreased strength noted in left foot dorsiflexion. Sensation diminished over left lateral foot. Reflexes symmetrical. Gait steady but cautious. No new neurological deficits observed.",
+  "assessment": "Chronic left leg radiculopathy with sensory changes and mild motor weakness following lifting injury. Symptoms stable with current conservative management. Hypertension and hyperlipidemia remain controlled under current regimen.",
+  "plan": "Continue current medications including NSAIDs and gabapentin. Encourage adherence to physical therapy program. Monitor symptoms closely; refer back to neurology or orthopedics if worsening or no further improvement. Routine labs and blood pressure monitoring to continue as scheduled. Preventive care up to date."
+ },
+ "pcp-2025-09-06-Office Visit:8a9514beeb": {
+  "chief_complaint": "Follow-up for chronic conditions and medication management",
+  "subjective": "The patient reports ongoing left L5 radiculopathy with persistent weakness and occasional falls. Continues to experience chronic pain limiting standing and walking. No new symptoms reported. No changes in blood pressure symptoms. No other complaints at this time.",
+  "objective": "Vital signs stable. Blood pressure within target range. Neurologic exam shows persistent left lower extremity weakness consistent with known radiculopathy. Gait not assessed due to use of front-wheeled walker. No new focal deficits noted. Cardiopulmonary exam unremarkable.",
+  "assessment": "1. Persistent left L5 radiculopathy with weakness and falls, stable but ongoing. 2. Hypertension, well controlled. 3. Chronic pain related to radiculopathy, limiting mobility.",
+  "plan": "Continue current antihypertensive regimen. Monitor blood pressure and labs as scheduled. Refill medications as needed. Encourage use of front-wheeled walker for safety. Await neurosurgical consultation for further management of radiculopathy. Defer musculoskeletal management to specialist. Continue pain management strategies. Schedule routine follow-up in primary care."
+ },
+ "pcp-2025-11-26-Medication Follow-up:4e9717ab02": {
+  "chief_complaint": "Medication follow-up for chronic conditions and management of persistent left L5 radiculopathy.",
+  "subjective": "The patient reports ongoing left leg weakness and occasional falls despite using a front-wheeled walker. Chronic pain continues to limit standing and walking tolerance. No new symptoms reported. No changes in blood pressure symptoms. No complaints of dizziness or chest pain.",
+  "objective": "Vital signs stable. Blood pressure within target range. Neurologic exam shows persistent left L5 radiculopathy with weakness noted in left lower extremity. Gait not assessed due to walker use. No new focal deficits. No signs of infection or acute distress.",
+  "assessment": "Persistent left L5 radiculopathy with associated weakness and falls. Chronic pain limiting mobility. Hypertension well controlled. No new issues identified at this time.",
+  "plan": "Continue current antihypertensive regimen. Refill medications as needed. Encourage use of front-wheeled walker for safety. Monitor for any worsening neurological symptoms. Await neurosurgical consultation for further management of radiculopathy. Routine labs and preventive care to be maintained as scheduled."
+ },
+ "pcp-2026-03-02-Office Visit:f24a202401": {
+  "chief_complaint": "Follow-up for chronic conditions and medication management",
+  "subjective": "The patient reports ongoing left L5 radiculopathy with persistent weakness and occasional falls. Continues to experience chronic pain limiting standing and walking. No new symptoms reported. No changes in medication side effects. Denies dizziness or chest pain.",
+  "objective": "Vital signs stable. Blood pressure 138/82 mmHg. Cardiovascular and respiratory exams unremarkable. Neurologic exam shows decreased strength in left lower extremity consistent with prior findings. Gait not assessed due to use of front-wheeled walker. No new focal deficits noted.",
+  "assessment": "Chronic left L5 radiculopathy with persistent weakness and falls. Chronic pain impacting mobility. Hypertension well controlled. No acute issues identified.",
+  "plan": "Continue current antihypertensive regimen. Monitor blood pressure and labs as scheduled. Pain management ongoing; defer musculoskeletal management to neurosurgery. Patient continues to use front-wheeled walker for ambulation. Await neurosurgical consultation. Reinforce fall precautions and safety measures. Schedule routine follow-up in 3 months or sooner if symptoms worsen."
+ },
+ "pcp-2026-05-27-Chronic Care Follow-up:4ba11eed5e": {
+  "chief_complaint": "Chronic left L5 radiculopathy with weakness and falls",
+  "subjective": "The patient reports ongoing left leg weakness and occasional falls despite using a front-wheeled walker. Chronic pain persists, limiting standing and walking tolerance. No new symptoms reported. No changes in bowel or bladder function.",
+  "objective": "Vital signs stable. Neurologic exam reveals decreased strength in left lower extremity consistent with L5 radiculopathy. Sensory deficits persist. Gait not assessed due to walker use. No new focal deficits noted. No signs of infection or systemic illness.",
+  "assessment": "Persistent left L5 radiculopathy with associated weakness and falls. Chronic pain continues to limit mobility. Patient remains dependent on front-wheeled walker. Awaiting neurosurgical evaluation for further management.",
+  "plan": "Continue current pain management regimen. Reinforce safety measures to prevent falls. Monitor blood pressure and labs as per chronic care protocol. No changes to assistive devices at this time. Follow up as scheduled and update after neurosurgery consultation."
+ },
+ "pcp-2026-08-16-Office Visit:0c93ddb5ac": {
+  "chief_complaint": "Follow-up for chronic conditions and medication management",
+  "subjective": "The patient reports ongoing left L5 radiculopathy with persistent weakness and occasional falls. Continues to experience chronic pain that limits standing and walking. No new symptoms reported. No changes in medication side effects. No recent infections or other complaints.",
+  "objective": "Vital signs stable. Blood pressure within target range. Neurologic exam shows persistent left lower extremity weakness consistent with prior findings. Gait not assessed due to use of front-wheeled walker. No new focal deficits noted. Cardiopulmonary exam unremarkable. No signs of acute distress.",
+  "assessment": "Chronic left L5 radiculopathy with weakness and falls, stable but persistent. Chronic pain limiting mobility. Hypertension well controlled. No new issues identified at this time.",
+  "plan": "Continue current antihypertensive regimen. Monitor blood pressure and labs as scheduled. Continue use of front-wheeled walker for safety. Await neurosurgical consultation for further management of radiculopathy. Encourage pain management strategies as previously discussed. Follow up in primary care as needed for chronic condition monitoring."
+ },
+ "ortho-2025-01-25-Spine Follow-up:a2cde68ce8": {
+  "chief_complaint": "Left leg radiating pain with numbness and mild weakness following lifting injury.",
+  "subjective": "The patient reports persistent left leg pain radiating down to the foot since the injury five days ago. Numbness in the left foot is noted, along with mild weakness affecting foot dorsiflexion. No bowel or bladder symptoms. The patient has been taking NSAIDs and gabapentin as prescribed and attending physical therapy sessions. Pain is described as sharp and intermittent, with some improvement noted since starting conservative treatment.",
+  "objective": "On examination, tenderness noted over the left lumbar paraspinal muscles. Straight leg raise test positive on the left at 40 degrees. Sensory exam reveals decreased sensation to light touch over the left dorsal foot. Motor testing shows mild weakness (4/5) in left ankle dorsiflexion. Reflexes are symmetrical and normal. Gait is slightly antalgic but stable. No signs of acute distress or new neurological deficits.",
+  "assessment": "Left lumbar radiculopathy secondary to recent lifting injury with associated left foot numbness and mild weakness. Symptoms consistent with nerve root irritation. Patient is tolerating conservative management with NSAIDs, gabapentin, and physical therapy.",
+  "plan": "Continue current conservative treatment regimen. Monitor symptoms closely. Reinforce physical therapy adherence focusing on lumbar stabilization and nerve mobilization. Advise patient to report any worsening weakness, bowel or bladder changes immediately. Follow-up in 2 weeks for reassessment."
+ },
+ "ortho-2025-04-04-Spine Follow-up:1f6550c993": {
+  "chief_complaint": "Left leg radicular pain with numbness and mild weakness in the foot.",
+  "subjective": "The patient reports persistent left leg pain radiating to the foot since the lifting injury on 01/20/2025. Numbness and mild weakness in the left foot remain unchanged. No new symptoms reported. The patient has been compliant with NSAIDs, gabapentin, and physical therapy as prescribed.",
+  "objective": "On exam, tenderness noted over the left lumbar paraspinal muscles. Straight leg raise test positive on the left at 40 degrees. Decreased sensation to light touch over the left dorsal foot. Mild weakness (4/5) in left foot dorsiflexion. Reflexes symmetrical and normal. Gait steady without assistive devices.",
+  "assessment": "Left lumbar radiculopathy secondary to recent lifting injury with persistent radicular pain, sensory changes, and mild motor weakness. No signs of neurological deterioration at this time.",
+  "plan": "Continue current conservative management with NSAIDs, gabapentin, and physical therapy. Monitor symptoms closely. Educate patient on activity modification and symptom tracking. Follow-up in 4 weeks or sooner if worsening symptoms occur."
+ },
+ "ortho-2025-06-17-Spine Follow-up:2f6970a964": {
+  "chief_complaint": "Left leg radiating pain with numbness and mild weakness in the left foot.",
+  "subjective": "The patient reports persistent left leg pain radiating down to the foot since the lifting injury on 01/20/2025. Numbness and mild weakness in the left foot remain unchanged. The patient has been compliant with NSAIDs, gabapentin, and physical therapy but notes only minimal improvement.",
+  "objective": "On exam, decreased sensation to light touch over the left lateral foot. Mild weakness noted in left foot dorsiflexion and toe extension. Reflexes symmetrical and normal. No new motor deficits. Gait steady but cautious. No signs of acute distress.",
+  "assessment": "Left lower extremity radiculopathy with sensory and mild motor involvement consistent with prior lifting injury. Symptoms persist despite conservative management.",
+  "plan": "Continue current regimen of NSAIDs and gabapentin. Encourage ongoing physical therapy focusing on strengthening and nerve mobilization. Monitor neurological status closely. Follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "ortho-2025-09-03-Spine Follow-up:a3a1cb4a48": {
+  "chief_complaint": "Persistent left L5 radiculopathy with weakness and falls",
+  "subjective": "The patient reports ongoing left leg pain radiating along the L5 distribution, accompanied by weakness and occasional falls. Pain remains chronic and limits standing and walking duration. Continues to use a front-wheeled walker for ambulation. No new numbness or bowel/bladder symptoms reported.",
+  "objective": "On exam, decreased strength noted in left ankle dorsiflexion and great toe extension (4/5). Sensory deficit to light touch over the left lateral leg and dorsum of foot. Reflexes diminished at left ankle. Gait unsteady, requiring walker support. No new neurological deficits observed.",
+  "assessment": "Persistent left L5 radiculopathy with associated motor weakness and sensory changes. Chronic pain continues to limit mobility. Patient remains at risk for falls despite assistive device use. Awaiting neurosurgical evaluation for further management.",
+  "plan": "Continue current pain management regimen. Reinforce use of front-wheeled walker for safety. Monitor neurological status closely. Expedite neurosurgical consultation. Educate patient on fall precautions and activity modifications."
+ },
+ "ortho-2025-11-11-Spine Follow-up:d8b074a38d": {
+  "chief_complaint": "Persistent left L5 radiculopathy with weakness and falls",
+  "subjective": "The patient reports ongoing left leg pain radiating along the L5 distribution, accompanied by weakness and occasional falls. Chronic pain continues to limit standing and walking tolerance. The patient continues to use a front-wheeled walker for ambulation. No new numbness or bowel/bladder symptoms reported.",
+  "objective": "On exam, decreased strength noted in left ankle dorsiflexion and great toe extension (4/5). Sensory deficit to light touch along the left L5 dermatome. Reflexes diminished at left ankle. Gait unsteady, requiring walker support. No new neurological deficits observed.",
+  "assessment": "Persistent left L5 radiculopathy with associated motor weakness and sensory changes. Chronic pain impacting mobility and balance. Patient remains at risk for falls. Awaiting neurosurgical evaluation for further management.",
+  "plan": "Continue current pain management regimen. Reinforce use of front-wheeled walker for safety. Monitor neurological status closely. Neurosurgery consultation pending. Encourage activity as tolerated within pain limits. Follow-up in 4 weeks or sooner if symptoms worsen."
+ },
+ "ortho-2026-02-01-Spine Follow-up:564bb72078": {
+  "chief_complaint": "Persistent left L5 radiculopathy with weakness and falls",
+  "subjective": "The patient reports ongoing left leg pain radiating along the L5 distribution, accompanied by weakness and occasional falls. Chronic pain continues to limit standing and walking duration. The patient continues to use a front-wheeled walker for ambulation. No new numbness or bowel/bladder symptoms reported.",
+  "objective": "On exam, decreased strength noted in left ankle dorsiflexion and great toe extension (4/5). Sensory deficit to light touch over the left lateral leg and dorsum of the foot. Reflexes diminished at left ankle. Gait unsteady, requiring front-wheeled walker. No new motor deficits observed. Straight leg raise positive on left at 40 degrees. No signs of acute neurological deterioration.",
+  "assessment": "Persistent left L5 radiculopathy with associated motor weakness and sensory changes. Chronic pain impacting mobility and balance, contributing to falls. Patient remains stable awaiting neurosurgical intervention.",
+  "plan": "Continue current pain management regimen. Reinforce use of front-wheeled walker for safety. Monitor neurological status closely. Neurosurgery consultation pending; no changes to current treatment plan at this time. Educate patient on fall precautions and activity modifications."
+ },
+ "ortho-2026-04-10-Spine Follow-up:ac43ef6b34": {
+  "chief_complaint": "Persistent left L5 radiculopathy with weakness and falls",
+  "subjective": "The patient reports ongoing left leg pain radiating along the L5 distribution, accompanied by weakness and occasional falls. Chronic pain continues to limit standing and walking tolerance. The patient continues to use a front-wheeled walker for ambulation. No new numbness or bowel/bladder symptoms reported.",
+  "objective": "On exam, decreased strength noted in left ankle dorsiflexion and great toe extension (4/5). Sensory deficit to light touch along the left L5 dermatome. Reflexes diminished at left ankle. Gait unsteady, requiring front-wheeled walker. No new neurological deficits observed.",
+  "assessment": "Persistent left L5 radiculopathy with associated motor weakness and sensory changes. Chronic pain impacting mobility and balance, contributing to falls. Patient remains stable but symptomatic while awaiting neurosurgical intervention.",
+  "plan": "Continue current pain management regimen. Reinforce use of front-wheeled walker for safety. Monitor neurological status closely. Neurosurgery consultation pending; no changes to current treatment at this time. Educate patient on fall precautions and activity modifications."
+ },
+ "ortho-2026-07-02-Spine Follow-up:c027ab8668": {
+  "chief_complaint": "Persistent left L5 radiculopathy with weakness and falls",
+  "subjective": "The patient reports ongoing left leg pain radiating along the L5 distribution, accompanied by weakness and occasional falls. Pain remains chronic and limits standing and walking duration. Continues to use front-wheeled walker for ambulation. No new numbness or bowel/bladder symptoms reported.",
+  "objective": "Exam reveals decreased strength in left ankle dorsiflexion (3/5) and great toe extension (3/5). Sensory deficit noted over left lateral leg and dorsum of foot. Reflexes diminished at left ankle. Gait is unsteady; patient ambulates with front-wheeled walker. No new motor deficits observed.",
+  "assessment": "Persistent left L5 radiculopathy with associated motor weakness and sensory changes. Chronic pain continues to limit mobility. Patient remains at risk for falls. Awaiting neurosurgical evaluation for further management.",
+  "plan": "Continue current pain management regimen. Reinforce use of front-wheeled walker for safety. Monitor for any progression of neurological symptoms. Neurosurgery consultation pending. Encourage physical therapy focusing on balance and strengthening as tolerated."
+ },
+ "er-2026-03-13-Emergency Department Visit:2920d39ccd": {
+  "chief_complaint": "Left lower extremity weakness and recent fall",
+  "subjective": "The patient presents with ongoing left L5 radiculopathy characterized by persistent weakness and numbness in the left leg. Reports a recent fall at home without loss of consciousness. Denies new trauma or head injury. Continues to experience chronic pain limiting standing and ambulation. Uses a front-wheeled walker for mobility. No fever, chest pain, or shortness of breath noted.",
+  "objective": "Vital signs stable. Alert and oriented. Left lower extremity shows decreased strength (3/5) in dorsiflexion and plantarflexion. Sensory deficit noted along L5 dermatome on the left. No open wounds or bruising from fall. Gait unsteady but assisted by walker. No signs of acute distress or neurological deterioration.",
+  "assessment": "Persistent left L5 radiculopathy with associated weakness and recent fall. No acute traumatic injury identified. Chronic pain continues to limit mobility. Patient remains on front-wheeled walker. Awaiting neurosurgical evaluation.",
+  "plan": "Monitor neurological status closely. Provide supportive care and pain management as per current regimen. Educate patient on fall precautions and safe use of walker. Arrange follow-up with neurosurgery as scheduled. No new imaging or interventions indicated at this visit."
+ },
+ "er-2026-05-24-Emergency Department Visit:09d0a5998f": {
+  "chief_complaint": "Left lower extremity weakness and recent fall",
+  "subjective": "The patient presents to the ED after a fall at home. Reports persistent left L5 radiculopathy with ongoing weakness and numbness in the left leg. States chronic pain limits standing and walking. Denies new trauma or head injury. Continues to use front-wheeled walker for ambulation. No chest pain, shortness of breath, or other systemic symptoms.",
+  "objective": "Vital signs stable. Alert and oriented. Left lower extremity shows decreased strength (4/5) and diminished sensation in L5 distribution. No open wounds or deformities noted. Gait not assessed due to pain and weakness. No signs of acute distress. Neurovascular status intact. No signs of head trauma or other injuries.",
+  "assessment": "Persistent left L5 radiculopathy with weakness complicated by recent fall. No acute traumatic injuries identified on exam. Chronic pain and motor deficits continue to impair mobility.",
+  "plan": "Monitor for any neurological deterioration. Provide analgesia as needed. Reinforce use of front-wheeled walker for safety. Educate patient on fall precautions. Continue awaiting neurosurgical evaluation. Discharge with instructions to return if symptoms worsen or new deficits develop."
+ },
+ "pt-2025-03-01-Physical Therapy Initial Evaluation:1b984eafe8": {
+  "chief_complaint": "Left leg pain radiating to foot with numbness and mild weakness following lifting injury.",
+  "subjective": "The patient reports onset of left leg pain radiating down to the foot since injury on 01/20/2025. Describes numbness and mild weakness in left foot. Has been taking NSAIDs and gabapentin as prescribed. Reports some improvement but symptoms persist. Denies bowel or bladder changes.",
+  "objective": "Inspection reveals no swelling or deformity. Palpation elicits tenderness along left lumbar paraspinals and posterior thigh. Sensory testing shows decreased sensation to light touch over left foot dorsum. Motor testing reveals mild weakness (4/5) in left foot dorsiflexion. Reflexes are symmetrical. Gait is antalgic with slight left foot drop noted. Straight leg raise positive at 45 degrees on left.",
+  "assessment": "Left lumbar radiculopathy with left leg radiating pain, numbness, and mild foot weakness secondary to recent lifting injury. Symptoms consistent with nerve root irritation.",
+  "plan": "Initiate physical therapy focusing on pain control, neural mobilization, and strengthening exercises for left lower extremity. Continue current medications as prescribed. Educate patient on activity modification and proper body mechanics. Reassess progress in 2 weeks."
+ },
+ "pt-2025-04-14-Physical Therapy Discharge Summary:a4aecad24f": {
+  "chief_complaint": "Left leg pain radiating to foot with numbness and mild weakness.",
+  "subjective": "The patient reports persistent left leg pain extending to the foot since the lifting injury on 01/20/2025. Describes numbness and mild weakness in the left foot. Has been compliant with NSAIDs, gabapentin, and physical therapy sessions. No new symptoms reported.",
+  "objective": "Physical exam reveals decreased sensation in the left foot in a dermatomal pattern. Mild weakness noted in left foot dorsiflexion and plantarflexion. Straight leg raise test positive on the left at 45 degrees. Gait observed to be slightly antalgic. Range of motion in lumbar spine mildly limited due to discomfort. No signs of acute distress.",
+  "assessment": "Left lower extremity radiculopathy consistent with nerve root irritation following lifting injury. Symptoms include radiating pain, numbness, and mild motor weakness. Patient has been undergoing conservative management with some improvement noted.",
+  "plan": "Continue current conservative treatment including NSAIDs and gabapentin. Physical therapy to focus on strengthening and neural mobilization exercises. Monitor symptoms and functional status. Follow-up as needed or sooner if symptoms worsen."
+ }
+}

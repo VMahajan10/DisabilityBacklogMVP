@@ -1,0 +1,296 @@
+{
+ "pcp-2022-11-15-Chronic Care Follow-up:2fddc06092": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent bilateral knee aches, managed effectively with acetaminophen. No new complaints. Blood pressure and blood sugar levels have been stable. No episodes of dizziness or chest pain. Adherence to medications confirmed. No changes in diet or exercise routines.",
+  "objective": "Vital signs: BP 132/78 mmHg, HR 76 bpm, RR 16, Temp 98.4\u00b0F. Weight stable. Cardiovascular and respiratory exams unremarkable. Musculoskeletal exam reveals mild tenderness over bilateral knees without swelling or decreased range of motion. No signs of acute inflammation.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, controlled. Intermittent bilateral knee discomfort, stable and managed with acetaminophen. No signs of progression or acute exacerbation.",
+  "plan": "Continue current antihypertensive and diabetic medications. Monitor blood pressure and glucose levels regularly. Continue acetaminophen as needed for knee discomfort. Encourage adherence to lifestyle modifications including diet and exercise. Routine labs to be obtained prior to next visit. Refer to orthopedics if knee symptoms worsen or functional impairment develops."
+ },
+ "pcp-2023-01-30-Medication Follow-up:7ce6ff3ba2": {
+  "chief_complaint": "Medication follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent bilateral knee aches, managed effectively with acetaminophen. No new complaints. Blood pressure and blood sugar levels have been stable. No adverse medication effects noted.",
+  "objective": "Vital signs within normal limits. Blood pressure 130/78 mmHg. Physical exam unremarkable except for mild tenderness on palpation of bilateral knees without swelling or deformity. Full range of motion preserved. No signs of acute distress.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, stable on current regimen. Intermittent bilateral knee aches, mild, managed with acetaminophen; no functional impairment.",
+  "plan": "Continue current antihypertensive and diabetic medications. Reinforce adherence to diet and exercise. Continue acetaminophen as needed for knee discomfort. Monitor blood pressure and glucose levels regularly. Routine labs to be scheduled. Refer musculoskeletal concerns to specialist if symptoms worsen."
+ },
+ "pcp-2023-04-17-Office Visit:55df2e7446": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent bilateral knee aches, described as mild and manageable with acetaminophen. No new complaints. Blood pressure monitoring at home shows readings within target range. No symptoms of hypoglycemia or hyperglycemia noted. Adherence to medications confirmed. No other concerns raised.",
+  "objective": "Vital signs stable. Blood pressure 128/78 mmHg. Heart rate 72 bpm, regular. Lungs clear to auscultation. Cardiovascular exam unremarkable. Bilateral knees show no swelling or deformity; range of motion preserved without pain during exam. No signs of acute inflammation. Peripheral pulses intact.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, controlled. Intermittent bilateral knee aches, mild, currently managed with acetaminophen; no functional impairment noted.",
+  "plan": "Continue current antihypertensive and antidiabetic regimens. Reinforce lifestyle modifications including diet and exercise. Monitor blood pressure and blood glucose regularly. Continue acetaminophen as needed for knee discomfort. Refer to orthopedics if symptoms worsen or functional limitations develop. Schedule routine labs and follow-up in 3 months."
+ },
+ "pcp-2023-06-25-Medication Follow-up:07ead64940": {
+  "chief_complaint": "Routine follow-up for chronic conditions and medication management.",
+  "subjective": "The patient reports intermittent bilateral knee aches, described as mild and manageable with acetaminophen. No recent exacerbations or functional limitations noted. Denies new symptoms related to diabetes or hypertension. Adherence to medications confirmed. No hypoglycemic episodes or hypertensive symptoms reported.",
+  "objective": "Vital signs stable. Blood pressure within target range. Physical exam unremarkable except for mild tenderness on palpation of bilateral knees without swelling or deformity. No joint effusion or redness observed. Neurological exam intact. Cardiovascular and respiratory exams normal.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, controlled. Intermittent bilateral knee aches, mild, managed conservatively with acetaminophen. No signs of acute joint pathology.",
+  "plan": "Continue current antihypertensive and antidiabetic medications. Reinforce adherence and lifestyle modifications. Recommend acetaminophen as needed for knee discomfort. Monitor symptoms; refer to orthopedics if knee pain worsens or function declines. Schedule routine labs and follow-up in 3 months."
+ },
+ "pcp-2023-09-04-Chronic Care Follow-up:d205b90031": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent bilateral knee aches, managed effectively with acetaminophen. No new complaints. Blood pressure and blood sugar monitoring ongoing at home with no recent episodes of dizziness or hypoglycemia.",
+  "objective": "Vital signs stable. Blood pressure 132/78 mmHg. Weight stable. Cardiovascular and respiratory exams unremarkable. Musculoskeletal exam reveals mild tenderness over bilateral knees without swelling or decreased range of motion. No signs of acute inflammation.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, controlled. Intermittent bilateral knee discomfort, stable and managed conservatively.",
+  "plan": "Continue current antihypertensive and diabetic medications. Reinforce lifestyle modifications including diet and exercise. Continue acetaminophen as needed for knee discomfort. Routine labs ordered to monitor diabetes control. Refer to orthopedics deferred; musculoskeletal symptoms stable. Follow-up in 3 months or sooner if symptoms worsen."
+ },
+ "pcp-2023-11-09-Office Visit:110ffd4c1a": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent bilateral knee aches, mild in intensity, managed effectively with acetaminophen. No new joint swelling or instability. Blood pressure and blood sugar monitoring ongoing at home with no recent episodes of hypo- or hyperglycemia. No other new complaints.",
+  "objective": "Vital signs stable. Blood pressure within target range. Cardiovascular and respiratory exams unremarkable. Musculoskeletal exam reveals mild tenderness over bilateral knees without swelling or deformity. Full range of motion preserved. No signs of acute inflammation.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, controlled. Intermittent bilateral knee aches, stable, managed conservatively.",
+  "plan": "Continue current antihypertensive and diabetic medications. Reinforce adherence to diet and exercise. Continue acetaminophen as needed for knee discomfort. No changes to musculoskeletal management; refer to specialist if symptoms worsen. Schedule routine labs and follow-up in 3 months."
+ },
+ "pcp-2024-01-15-Annual Wellness Visit:cf08897f37": {
+  "chief_complaint": "Annual wellness visit for chronic condition management",
+  "subjective": "The patient reports intermittent bilateral knee aches, described as mild and manageable with acetaminophen. No recent exacerbations or functional limitations noted. No new symptoms related to diabetes or hypertension. Adherence to medications confirmed. No hypoglycemic episodes or hypertensive crises reported.",
+  "objective": "Vital signs stable. Blood pressure within target range. Physical exam reveals no acute distress. Bilateral knees show no swelling or deformity; range of motion preserved. No signs of infection or inflammation. Cardiovascular and pulmonary exams unremarkable.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, controlled. Intermittent bilateral knee aches, mild, managed conservatively. No acute musculoskeletal findings.",
+  "plan": "Continue current antihypertensive and diabetic regimens. Reinforce adherence and lifestyle modifications. Recommend acetaminophen as needed for knee discomfort. No changes to musculoskeletal management; defer to specialist as appropriate. Schedule routine labs and follow-up in 6 months."
+ },
+ "pcp-2024-03-24-Medication Follow-up:bf899f1aef": {
+  "chief_complaint": "Routine medication follow-up for chronic conditions",
+  "subjective": "The patient reports stable blood pressure and blood sugar levels with current medications. Occasional bilateral knee aches persist but are mild and managed effectively with acetaminophen. No new symptoms or concerns noted.",
+  "objective": "Vital signs within normal limits. Blood pressure 130/78 mmHg. Cardiovascular and respiratory exams unremarkable. Musculoskeletal exam shows no swelling or deformity in knees; full range of motion preserved. No signs of acute distress.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, stable on current regimen. Intermittent bilateral knee discomfort, mild, managed conservatively.",
+  "plan": "Continue current antihypertensive and antidiabetic medications. Reinforce adherence to diet and exercise. Recommend acetaminophen as needed for knee discomfort. No changes to musculoskeletal management; refer to specialist if symptoms worsen. Schedule routine labs and follow-up in 3 months."
+ },
+ "pcp-2024-06-04-Medication Follow-up:bf45ce9032": {
+  "chief_complaint": "Routine follow-up for chronic conditions and medication management.",
+  "subjective": "The patient reports intermittent bilateral knee aches, described as mild and manageable with acetaminophen. No recent exacerbations or functional limitations noted. Blood pressure and blood sugar monitoring ongoing at home with generally stable readings. No new symptoms reported.",
+  "objective": "Vital signs: BP 132/78 mmHg, HR 76 bpm, afebrile. Physical exam reveals no acute distress. Bilateral knees show no swelling or deformity; range of motion preserved without pain on examination. Cardiovascular and respiratory exams unremarkable. No signs of infection or other systemic issues.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, stable on current regimen. Intermittent bilateral knee discomfort, mild, managed conservatively with acetaminophen; no functional impairment.",
+  "plan": "Continue current antihypertensive and diabetic medications. Reinforce adherence to diet and exercise. Monitor blood pressure and glucose levels regularly. Continue acetaminophen as needed for knee aches. Refer to orthopedics if symptoms worsen or functional limitations develop. Routine labs to be obtained prior to next visit. Schedule follow-up in 3 months or sooner if concerns arise."
+ },
+ "pcp-2024-08-24-Medication Follow-up:b705fb570a": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports stable blood pressure and blood sugar levels. Denies any new symptoms such as chest pain, shortness of breath, or dizziness. Notes intermittent bilateral knee aches, mild in intensity, managed effectively with acetaminophen. No limitation in daily activities reported.",
+  "objective": "Vital signs: BP 132/78 mmHg, HR 76 bpm, afebrile. Physical exam reveals no acute distress. Cardiovascular and respiratory exams unremarkable. Musculoskeletal exam shows mild tenderness over bilateral knees without swelling or deformity. Gait normal. No joint effusion or redness noted.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, controlled on current regimen. Intermittent bilateral knee aches, mild, managed conservatively with acetaminophen. No signs of active inflammation or functional impairment.",
+  "plan": "Continue current antihypertensive and diabetic medications. Monitor blood pressure and glucose levels regularly. Reinforce lifestyle modifications including diet and exercise. Continue acetaminophen as needed for knee discomfort. Refer to orthopedics if symptoms worsen or functional limitations develop. Routine labs and preventive care to be scheduled as per guidelines."
+ },
+ "pcp-2024-11-03-Office Visit:eb8f335556": {
+  "chief_complaint": "Routine follow-up for chronic conditions",
+  "subjective": "The patient reports intermittent bilateral knee aches, mild in intensity, managed effectively with acetaminophen. No new joint swelling or instability. Blood pressure and blood sugar levels have been stable with current regimen. No other new complaints.",
+  "objective": "Vital signs within normal limits. Blood pressure 130/78 mmHg. Cardiovascular and respiratory exams unremarkable. Musculoskeletal exam shows no joint swelling or deformity; full range of motion in both knees without tenderness. No signs of acute inflammation.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, stable on current therapy. Intermittent bilateral knee discomfort, mild, managed conservatively. No acute musculoskeletal issues noted today.",
+  "plan": "Continue current antihypertensive and diabetic medications. Maintain acetaminophen as needed for knee discomfort. Encourage regular exercise and weight management. Routine labs to be drawn prior to next visit. Refer to orthopedics if knee symptoms worsen or become limiting. Continue preventive care measures as per guidelines."
+ },
+ "pcp-2025-01-19-Annual Wellness Visit:3a7f71c66a": {
+  "chief_complaint": "Annual wellness visit for chronic condition management",
+  "subjective": "The patient reports intermittent bilateral knee aches, described as mild and manageable with acetaminophen. No recent exacerbations or functional limitations noted. Blood pressure and blood sugar levels have been stable with current regimen. No new symptoms reported.",
+  "objective": "Vital signs within normal limits. Blood pressure 130/78 mmHg. Weight stable. Cardiovascular and respiratory exams unremarkable. Musculoskeletal exam reveals mild tenderness over bilateral knees without swelling or decreased range of motion. No joint deformities observed.",
+  "assessment": "Type 2 diabetes mellitus, well controlled. Hypertension, controlled. Intermittent bilateral knee discomfort, mild, managed conservatively with acetaminophen. No signs of acute joint pathology.",
+  "plan": "Continue current antihypertensive and diabetic medications. Reinforce lifestyle modifications including diet and exercise. Advise acetaminophen as needed for knee discomfort. Monitor blood pressure and glucose levels regularly. Refer to orthopedics if knee symptoms worsen or functional impairment develops. Schedule routine labs and follow-up in 6 months."
+ },
+ "pcp-2025-04-14-Office Visit:2bfc068c5a": {
+  "chief_complaint": "Bilateral knee pain with swelling and stiffness, right worse",
+  "subjective": "The patient reports ongoing bilateral knee discomfort, more pronounced on the right side, accompanied by swelling and stiffness. Symptoms have persisted despite prior injections and physical therapy. No new complaints regarding other systems. Blood pressure well controlled. No adverse effects from current medications.",
+  "objective": "Vital signs stable. Blood pressure within target range. Bilateral knee examination reveals mild effusion on the right, decreased range of motion due to stiffness, tenderness on palpation. No erythema or warmth noted. Cardiopulmonary exam unremarkable. No new findings on general physical exam.",
+  "assessment": "Chronic bilateral knee pain with right-sided predominance, consistent with ongoing musculoskeletal pathology. Hypertension well controlled. No acute issues identified.",
+  "plan": "Continue current antihypertensive regimen. Monitor blood pressure and labs as scheduled. Defer further knee management to orthopedics/rheumatology specialist. Reinforce adherence to physical therapy and prior injection treatments. Recommend follow-up with specialist for ongoing knee symptoms. Routine preventive care maintained."
+ },
+ "pcp-2025-06-18-Office Visit:7b91233231": {
+  "chief_complaint": "Bilateral knee pain with swelling and stiffness, right worse",
+  "subjective": "The patient reports ongoing bilateral knee discomfort, more pronounced on the right side, accompanied by swelling and stiffness. Symptoms persist despite prior injections and physical therapy. No new complaints regarding other systems. Blood pressure monitoring continues at home with readings within target range. No adverse effects from current medications.",
+  "objective": "Vital signs stable. Blood pressure 128/78 mmHg. Bilateral knee examination reveals mild effusion and decreased range of motion on the right compared to the left. No erythema or warmth noted. Cardiopulmonary exam unremarkable. No new abnormalities detected.",
+  "assessment": "Chronic bilateral knee osteoarthritis with progressive symptoms, right side predominant. Hypertension well controlled. No acute issues identified today.",
+  "plan": "Continue current antihypertensive regimen. Monitor blood pressure regularly. Refer ongoing knee management to orthopedics for further evaluation and treatment. Encourage adherence to physical therapy as previously prescribed. Order routine labs to monitor chronic conditions at next visit. Discuss preventive care measures and update vaccinations as appropriate."
+ },
+ "pcp-2025-09-05-Medication Follow-up:ad35bba80c": {
+  "chief_complaint": "Medication follow-up and chronic condition management",
+  "subjective": "The patient reports ongoing right knee pain with episodes of instability and recent falls. Walking distance remains limited. Continues to use canes for ambulation. Engaged in weight-loss program in preparation for planned right knee arthroplasty. No new complaints regarding blood pressure or other chronic conditions.",
+  "objective": "Vital signs stable. Blood pressure within target range. Weight noted to have decreased since last visit. Cardiopulmonary exam unremarkable. Musculoskeletal exam limited due to knee pain; right knee shows tenderness and decreased range of motion. No new swelling or redness observed.",
+  "assessment": "Chronic hypertension well controlled. Right knee osteoarthritis with worsening symptoms, currently managed conservatively pending surgical intervention. Weight loss progressing as planned.",
+  "plan": "Continue current antihypertensive regimen. Monitor blood pressure and labs as scheduled. Support ongoing weight-loss efforts. Refer to orthopedics for surgical planning and management of knee symptoms. Reinforce fall precautions and cane use. Schedule follow-up in 3 months or sooner if symptoms worsen."
+ },
+ "pcp-2025-11-24-Medication Follow-up:db7b2b1b69": {
+  "chief_complaint": "Follow-up for chronic conditions and medication management",
+  "subjective": "The patient reports worsening right knee pain with episodes of instability leading to falls. Walking distance has decreased significantly. Continues to use canes for ambulation. Engaged in a weight-loss program in preparation for planned right knee arthroplasty. No new complaints regarding blood pressure or other chronic issues.",
+  "objective": "Vital signs stable. Blood pressure within target range. Right knee shows decreased range of motion and tenderness on palpation. No signs of acute inflammation. Gait unsteady, assisted by canes. Cardiopulmonary exam unremarkable. Labs reviewed and stable.",
+  "assessment": "Chronic hypertension well controlled. Right knee osteoarthritis with worsening symptoms and instability. Patient actively participating in weight management prior to scheduled arthroplasty. No new issues identified.",
+  "plan": "Continue current antihypertensive regimen. Monitor blood pressure and labs at next visit. Encourage adherence to weight-loss program. Refer musculoskeletal concerns to orthopedics for ongoing management. Reinforce fall precautions and cane use. Schedule follow-up in 3 months or sooner if symptoms worsen."
+ },
+ "pcp-2026-02-11-Office Visit:6c5ae3e278": {
+  "chief_complaint": "Follow-up for chronic conditions and worsening right knee pain",
+  "subjective": "The patient reports increased right knee pain with episodes of instability leading to falls. Walking distance has decreased significantly. Continues to use canes for ambulation. Engaged in a weight-loss program in preparation for planned right knee arthroplasty. No new complaints regarding blood pressure or other chronic issues.",
+  "objective": "Vital signs stable. Blood pressure within target range. Right knee shows mild swelling and tenderness on palpation. Range of motion limited due to pain. No signs of acute inflammation. Cardiopulmonary exam unremarkable. Labs reviewed and stable.",
+  "assessment": "1. Osteoarthritis of right knee with worsening pain and instability. 2. Hypertension, well controlled. 3. Overweight, currently in weight-loss program prior to surgical intervention.",
+  "plan": "Continue current antihypertensive regimen. Monitor blood pressure and labs as scheduled. Support ongoing weight-loss efforts. Refer musculoskeletal concerns and surgical planning to orthopedics. Reinforce fall precautions and cane use. Follow-up in primary care as needed."
+ },
+ "pcp-2026-04-29-Office Visit:dda44ec4a7": {
+  "chief_complaint": "Follow-up for chronic conditions and worsening right knee pain",
+  "subjective": "The patient reports increased right knee pain with episodes of instability leading to falls. Walking distance has decreased significantly. Continues to use canes for ambulation. Engaged in a weight-loss program in preparation for planned right knee arthroplasty. No new complaints regarding blood pressure or other chronic issues.",
+  "objective": "Vital signs stable. Blood pressure within target range. Right knee shows tenderness and decreased range of motion. No signs of acute inflammation. Gait unsteady, assisted by canes. Cardiopulmonary exam unremarkable. Labs reviewed, no significant changes.",
+  "assessment": "Chronic hypertension well controlled. Right knee osteoarthritis with worsening symptoms including instability and falls. Patient actively participating in weight management prior to scheduled arthroplasty.",
+  "plan": "Continue current antihypertensive regimen. Monitor blood pressure and labs as scheduled. Encourage adherence to weight-loss program. Refer to orthopedics for ongoing management of knee condition. Reinforce fall precautions and cane use. Follow-up in primary care as needed."
+ },
+ "pcp-2026-07-18-Annual Wellness Visit:6e08ac72c4": {
+  "chief_complaint": "Annual wellness visit for chronic condition management and musculoskeletal follow-up",
+  "subjective": "The patient reports worsening right knee pain with episodes of instability leading to falls. Walking distance has decreased significantly. Continues to use canes for ambulation. Engaged in a weight-loss program in preparation for planned right knee arthroplasty. No new complaints regarding blood pressure or other chronic conditions.",
+  "objective": "Vital signs stable. Blood pressure within target range. Right knee shows decreased range of motion and tenderness on palpation. No acute swelling or erythema noted. Gait is cautious with use of canes. Cardiopulmonary exam unremarkable. Laboratory results reviewed and stable.",
+  "assessment": "1. Osteoarthritis of right knee with worsening pain and instability. 2. Hypertension, well controlled. 3. Overweight, currently in weight-loss program prior to surgical intervention.",
+  "plan": "Continue current antihypertensive regimen. Encourage adherence to weight-loss program. Monitor knee symptoms closely; defer further musculoskeletal management to orthopedic specialist. Reinforce fall precautions and cane use. Schedule follow-up labs and routine chronic disease monitoring as per protocol."
+ },
+ "ortho-2025-01-09-Orthopedic Follow-up:c15e047a8c": {
+  "chief_complaint": "Intermittent bilateral knee aches",
+  "subjective": "The patient reports occasional aching in both knees, described as mild and intermittent. No recent injuries or swelling noted. Pain is managed effectively with acetaminophen as needed. No limitations in daily activities or ambulation reported.",
+  "objective": "Physical examination reveals no joint swelling, erythema, or warmth. Range of motion in both knees is full and painless. No crepitus or instability detected. Gait is normal without assistive devices. Vital signs stable; blood pressure and glucose levels reviewed and consistent with known hypertension and type 2 diabetes.",
+  "assessment": "Intermittent bilateral knee discomfort likely related to mild degenerative changes. No signs of acute inflammation or mechanical instability. Comorbid conditions of type 2 diabetes and hypertension remain stable.",
+  "plan": "Continue current management with acetaminophen for knee aches as needed. Encourage regular low-impact exercise and weight management to support joint health. Monitor blood pressure and glycemic control with primary care. Return for follow-up if symptoms worsen or new concerns arise."
+ },
+ "ortho-2025-03-02-Orthopedic Follow-up:bcc4cca7ef": {
+  "chief_complaint": "Bilateral knee pain with swelling and stiffness, right worse",
+  "subjective": "The patient reports ongoing bilateral knee discomfort, more pronounced on the right side. Pain is described as aching with intermittent stiffness, especially in the mornings and after prolonged activity. Swelling noted around both knees, right greater than left. The patient has been receiving intra-articular injections and participating in physical therapy sessions as previously recommended. No new trauma reported.",
+  "objective": "Inspection reveals mild effusion in the right knee with slight warmth. Range of motion is decreased on the right compared to the left, with some crepitus noted during flexion and extension. Ligamentous testing stable bilaterally. No erythema or open lesions. Gait is antalgic favoring the right side. Strength testing shows mild quadriceps weakness on the right.",
+  "assessment": "Progressive bilateral knee osteoarthritis with right knee predominance. Symptoms persist despite current management including injections and physical therapy. No signs of acute inflammatory or infectious process.",
+  "plan": "Continue current physical therapy regimen focusing on strengthening and range of motion. Maintain scheduled intra-articular injections as tolerated. Advise use of NSAIDs as needed for pain control. Monitor symptoms and reassess in 6 weeks or sooner if worsening. Educate patient on activity modification and joint protection strategies."
+ },
+ "ortho-2025-05-06-Orthopedic Follow-up:4ace630413": {
+  "chief_complaint": "Bilateral knee pain with swelling and stiffness, right knee worse.",
+  "subjective": "The patient reports ongoing bilateral knee discomfort, describing the right knee as more painful. Swelling and stiffness are noted, particularly after periods of inactivity. The patient has undergone physical therapy and received intra-articular injections with some transient relief. No new trauma reported.",
+  "objective": "Inspection reveals mild effusion in the right knee, with slight warmth but no erythema. Range of motion is decreased on the right side due to stiffness, with mild crepitus noted bilaterally. Palpation elicits tenderness along the joint lines, more pronounced on the right. Ligamentous testing stable. Gait is antalgic favoring the right leg.",
+  "assessment": "Progressive bilateral knee osteoarthritis with predominant symptoms in the right knee. Persistent swelling and stiffness despite prior injections and physical therapy.",
+  "plan": "Continue current physical therapy regimen focusing on strengthening and range of motion. Monitor response to prior injections; consider repeat injection if symptoms worsen. Advise activity modification to reduce joint stress. Follow-up in 6 weeks or sooner if symptoms escalate."
+ },
+ "ortho-2025-07-15-Orthopedic Follow-up:32f650d223": {
+  "chief_complaint": "Bilateral knee pain with swelling and stiffness, right knee worse.",
+  "subjective": "The patient reports ongoing bilateral knee discomfort, describing the right knee as more painful. Swelling and stiffness are noted, particularly after periods of inactivity. The patient has been receiving intra-articular injections and participating in physical therapy sessions as previously recommended. No new trauma reported.",
+  "objective": "Inspection reveals mild effusion in the right knee with slight warmth. Range of motion is decreased on the right side due to stiffness and discomfort. Palpation elicits tenderness along the joint lines bilaterally, more pronounced on the right. No erythema or deformity observed. Gait is antalgic favoring the right leg.",
+  "assessment": "Progressive bilateral knee osteoarthritis with increased symptoms on the right side. Current treatment with injections and physical therapy continues to be appropriate. No signs of acute joint infection or other complications.",
+  "plan": "Continue current regimen of intra-articular injections and physical therapy. Monitor symptom progression and functional status. Advise patient on activity modifications to reduce joint stress. Follow-up scheduled to reassess response to treatment and adjust plan as needed."
+ },
+ "ortho-2025-09-19-Orthopedic Follow-up:68a4679251": {
+  "chief_complaint": "Right knee pain worsening with instability and falls",
+  "subjective": "The patient reports increased right knee pain over the past several weeks, describing episodes of instability leading to falls. Walking distance has decreased significantly. Continues to use canes for ambulation. Engaged in weight-loss program in preparation for planned right knee arthroplasty.",
+  "objective": "Inspection reveals mild effusion and varus deformity of the right knee. Tenderness along the medial joint line. Range of motion limited by pain, approximately 10 to 90 degrees. Ligamentous testing shows mild laxity medially. Gait is antalgic with use of bilateral canes. No signs of acute inflammation or infection.",
+  "assessment": "Progressive right knee osteoarthritis with increased pain, instability, and functional decline. Patient is preparing for right knee arthroplasty with ongoing weight management.",
+  "plan": "Continue weight-loss program prior to surgery. Maintain use of canes for ambulation to reduce fall risk. Recommend physical therapy focusing on strengthening and balance. Monitor symptoms and reassess prior to scheduled arthroplasty."
+ },
+ "ortho-2025-11-14-Orthopedic Follow-up:057670346b": {
+  "chief_complaint": "Right knee pain worsening with instability and falls.",
+  "subjective": "The patient reports increased right knee pain over the past several weeks, describing episodes of instability leading to falls. Walking distance has decreased significantly. Continues to use canes for ambulation. Engaged in a weight-loss program in preparation for planned right knee arthroplasty.",
+  "objective": "Right knee shows mild effusion and tenderness along the joint line. Range of motion limited by pain, approximately 10 to 90 degrees. Ligamentous testing reveals mild laxity. No signs of acute inflammation or infection. Gait is antalgic with use of bilateral canes.",
+  "assessment": "Progressive right knee osteoarthritis with worsening pain, instability, and functional decline. Patient is preparing for surgical intervention with weight management.",
+  "plan": "Continue current weight-loss program. Maintain use of canes for ambulation. Monitor symptoms closely. Surgical consultation for right knee arthroplasty remains planned. Encourage low-impact activities as tolerated. Follow-up in 6 weeks or sooner if symptoms worsen."
+ },
+ "ortho-2026-01-21-Orthopedic Follow-up:7958c5505f": {
+  "chief_complaint": "Right knee pain with instability and falls",
+  "subjective": "The patient reports increased right knee pain over the past several weeks, describing it as sharp and worsening with weight-bearing. Instability episodes have become more frequent, resulting in two recent falls. Walking distance is significantly reduced. The patient continues to use canes for ambulation. Engaged in a weight-loss program in preparation for planned right knee arthroplasty.",
+  "objective": "Inspection reveals mild effusion and varus alignment of the right knee. Palpation elicits tenderness along the medial joint line. Range of motion is limited, with flexion to approximately 90 degrees and extension deficit of 5 degrees. Ligamentous testing shows increased laxity medially. Gait is antalgic, requiring bilateral canes for support. No signs of acute injury or infection.",
+  "assessment": "Progressive right knee osteoarthritis with worsening pain, instability, and functional decline. Patient is preparing for right knee arthroplasty with ongoing weight management.",
+  "plan": "Continue weight-loss program prior to surgery. Maintain use of canes for ambulation to reduce fall risk. Recommend physical therapy focused on strengthening and balance. Monitor symptoms closely and schedule preoperative evaluation once weight goals are met."
+ },
+ "ortho-2026-03-16-Orthopedic Follow-up:3f1549f3c7": {
+  "chief_complaint": "Right knee pain and instability worsening",
+  "subjective": "The patient reports increased right knee pain over the past several weeks, describing episodes of instability leading to two recent falls. Walking distance has decreased significantly. Continues to use canes for ambulation. Engaged in weight-loss program in preparation for planned right knee arthroplasty.",
+  "objective": "Right knee shows mild effusion and tenderness along the joint line. Range of motion limited by pain, approximately 10 to 90 degrees. Ligamentous testing reveals mild laxity. Gait is antalgic with use of bilateral canes. No signs of acute inflammation or infection.",
+  "assessment": "Progressive right knee osteoarthritis with worsening pain, instability, and functional decline. Patient remains on conservative management pending surgical intervention.",
+  "plan": "Continue weight-loss program to optimize surgical outcomes. Maintain use of canes for ambulation. Monitor symptoms closely and proceed with planned right knee arthroplasty once weight goals are met. Reinforce fall prevention strategies."
+ },
+ "ortho-2026-05-24-Orthopedic Follow-up:b0c7849b98": {
+  "chief_complaint": "Right knee pain with instability and falls",
+  "subjective": "The patient reports worsening right knee pain over the past several weeks, describing increased episodes of instability leading to falls. Walking distance has decreased significantly. Continues to use canes for ambulation. The patient is engaged in a weight-loss program in preparation for planned right knee arthroplasty.",
+  "objective": "On exam, right knee shows mild effusion and tenderness along the joint line. Range of motion is limited by pain, with crepitus noted. Ligamentous testing reveals mild laxity. Gait is antalgic, assisted by canes. No new deformities observed.",
+  "assessment": "Progressive right knee osteoarthritis with increased pain, instability, and functional decline. Patient remains appropriate candidate for right knee arthroplasty pending weight loss.",
+  "plan": "Continue current weight-loss program. Maintain use of canes for ambulation to reduce fall risk. Recommend physical therapy focused on strengthening and balance. Monitor symptoms closely and schedule preoperative evaluation once weight goals are met."
+ },
+ "ortho-2026-07-15-Orthopedic Follow-up:c2d18d326e": {
+  "chief_complaint": "Right knee pain with instability and decreased mobility",
+  "subjective": "The patient reports worsening right knee pain over the past several weeks, describing increased episodes of instability leading to occasional falls. Walking distance has decreased significantly. The patient continues to use canes for ambulation. Engaged in a weight-loss program in preparation for planned right knee arthroplasty.",
+  "objective": "Inspection reveals mild effusion and varus alignment of the right knee. Palpation elicits tenderness along the medial joint line. Range of motion is limited, with flexion to approximately 90 degrees and extension deficit of 5 degrees. Ligamentous testing shows mild laxity medially. Gait is antalgic, assisted by bilateral canes. No signs of acute inflammation or infection.",
+  "assessment": "Progressive right knee osteoarthritis with increased pain, instability, and functional decline. Patient remains on track for surgical intervention pending weight loss goals.",
+  "plan": "Continue weight-loss program as planned. Maintain use of canes for ambulation to reduce fall risk. Recommend physical therapy focusing on strengthening and balance exercises. Monitor symptoms closely and schedule preoperative evaluation once weight-loss targets are met."
+ },
+ "er-2023-09-21-Emergency Department Visit:5c10eab598": {
+  "chief_complaint": "Bilateral knee pain flare",
+  "subjective": "The patient presents with increased bilateral knee discomfort noted over the past two days. Pain described as aching, intermittent, without swelling or redness. No recent trauma reported. Denies fever, chills, or systemic symptoms. Continues to manage symptoms with acetaminophen with partial relief.",
+  "objective": "Vital signs stable. No joint effusion or erythema observed. Mild tenderness on palpation of both knees. Range of motion preserved without crepitus. No signs of acute injury or infection.",
+  "assessment": "Intermittent bilateral knee aches consistent with prior history, currently experiencing a mild flare. No evidence of acute joint pathology or infection. Type 2 diabetes and hypertension remain stable.",
+  "plan": "Continue acetaminophen as needed for pain control. Advise rest and avoid aggravating activities temporarily. Educate on monitoring for worsening symptoms such as increased swelling, redness, or decreased mobility. Follow up with primary care for ongoing management of chronic conditions and knee symptoms."
+ },
+ "er-2026-03-16-Emergency Department Visit:697b339e43": {
+  "chief_complaint": "Right knee pain and instability with recent falls",
+  "subjective": "The patient reports worsening right knee pain over the past week, describing increased instability and difficulty bearing weight. Several recent falls occurred due to the knee giving way. Walking distance has decreased significantly. The patient continues to use canes for ambulation. No new trauma reported. No fever or systemic symptoms.",
+  "objective": "Vital signs stable. Right knee shows mild swelling without erythema or warmth. Tenderness over the medial joint line. Range of motion limited by pain. Ligamentous testing limited due to discomfort. Neurovascular exam intact. No open wounds or deformities noted.",
+  "assessment": "Worsening right knee pain with instability and falls in the context of known degenerative joint disease. No signs of acute infection or fracture.",
+  "plan": "Provide analgesia with acetaminophen and NSAIDs as tolerated. Reinforce use of canes for ambulation. Educate on fall precautions. Advise close follow-up with orthopedics for ongoing management and planned arthroplasty. Monitor for any signs of infection or worsening symptoms. No imaging or assistive devices changes at this time."
+ },
+ "er-2023-05-19-Emergency Department Visit:bb131eee29": {
+  "chief_complaint": "Bilateral knee pain",
+  "subjective": "The patient presents with intermittent aching in both knees, described as mild to moderate discomfort. No recent trauma or injury reported. Pain has been ongoing for several weeks but remains manageable with acetaminophen. No swelling, redness, or instability noted. No fever or systemic symptoms.",
+  "objective": "Vital signs stable. Bilateral knees show no erythema, swelling, or deformity. Range of motion preserved without crepitus. No tenderness to palpation over joint lines or surrounding soft tissues. Neurovascular status intact. No signs of acute distress.",
+  "assessment": "Intermittent bilateral knee aches consistent with previous history. No evidence of acute flare or injury. Type 2 diabetes and hypertension remain stable.",
+  "plan": "Continue current management with acetaminophen as needed for knee discomfort. Advise monitoring for any worsening symptoms such as increased pain, swelling, or functional limitation. Encourage glycemic and blood pressure control. No further imaging or interventions indicated at this time."
+ },
+ "er-2025-10-25-Emergency Department Visit:409fa077b9": {
+  "chief_complaint": "Right knee pain with instability and recent falls",
+  "subjective": "The patient reports worsening right knee pain over the past week, describing increased instability leading to two recent falls. Walking distance has decreased significantly. The patient continues to use canes for ambulation. No new trauma reported. Denies fever or systemic symptoms.",
+  "objective": "Vital signs stable. Right knee shows mild swelling, tenderness along the joint line, and decreased range of motion due to pain. No open wounds or deformities noted. Neurovascular status intact. Ambulates with bilateral canes, cautious gait observed.",
+  "assessment": "Worsening right knee osteoarthritis symptoms with increased instability and falls. No signs of acute fracture or infection.",
+  "plan": "Provide analgesia as needed. Reinforce safety measures to prevent falls. Continue current weight-loss program in preparation for planned right knee arthroplasty. Advise close follow-up with orthopedic surgery. Educate patient on activity modification and cane use."
+ },
+ "uc-2024-08-04-Urgent Care Visit:f86fee2469": {
+  "chief_complaint": "Bilateral knee aches",
+  "subjective": "The patient reports intermittent aching in both knees over the past several weeks. Pain is mild to moderate, occurs mostly after prolonged standing or walking, and improves with acetaminophen. No recent trauma or swelling noted. No redness or warmth. No fevers or systemic symptoms.",
+  "objective": "Vital signs stable. No acute distress. Bilateral knees show no swelling, erythema, or deformity. Range of motion intact and painless. No joint effusion or tenderness on palpation. Gait normal. Cardiovascular and respiratory exams unremarkable.",
+  "assessment": "Intermittent bilateral knee aches likely related to mild osteoarthritic changes or overuse. No signs of acute injury or infection. Type 2 diabetes and hypertension remain stable.",
+  "plan": "Continue acetaminophen as needed for knee discomfort. Advise weight management and low-impact exercises to support joint health. Monitor symptoms and return if pain worsens, swelling develops, or new symptoms arise. Continue routine management of diabetes and hypertension."
+ },
+ "uc-2024-11-01-Urgent Care Visit:c4bc9caf94": {
+  "chief_complaint": "Bilateral knee discomfort",
+  "subjective": "The patient reports intermittent aching in both knees over the past several weeks. Pain is mild to moderate, described as a dull ache, worse after prolonged standing or walking. No recent trauma or swelling noted. No redness or warmth. Continues to manage symptoms with acetaminophen with some relief. No new medications or changes in activity level.",
+  "objective": "Vital signs stable. Blood pressure 138/84 mmHg. Both knees show no swelling, erythema, or deformity. Range of motion full and painless. No joint instability or crepitus detected. Gait steady without assistive devices. No signs of acute injury.",
+  "assessment": "Intermittent bilateral knee aches likely related to chronic joint discomfort. No evidence of acute injury or infection. Type 2 diabetes and hypertension remain stable.",
+  "plan": "Continue current management with acetaminophen as needed for knee discomfort. Advise patient to monitor symptoms and avoid activities that exacerbate pain. Encourage regular follow-up with primary care for chronic conditions. No urgent interventions required at this time."
+ },
+ "uc-2026-06-11-Urgent Care Visit:5827c34911": {
+  "chief_complaint": "Increased right knee pain and instability with recent falls",
+  "subjective": "The patient reports worsening pain in the right knee over the past week, describing it as sharp and intermittent. There have been multiple episodes of instability leading to two falls at home. The patient notes decreased walking tolerance and increased difficulty with weight-bearing. Continues to use bilateral canes for ambulation. No new trauma reported. No fever or systemic symptoms.",
+  "objective": "Vital signs stable. Right knee shows mild swelling without erythema. Tenderness over the medial joint line. Range of motion limited by pain, especially on flexion. No gross deformity. Ligamentous testing limited due to discomfort. Neurovascular status intact distally. Gait unsteady, reliant on canes.",
+  "assessment": "Worsening right knee osteoarthritis with increased pain and instability, resulting in falls and reduced mobility. Patient remains on weight-loss program in preparation for planned right knee arthroplasty.",
+  "plan": "Advise strict fall precautions and continued use of canes. Recommend ice and NSAIDs as tolerated for pain control. Reinforce adherence to weight-loss regimen. Schedule follow-up with orthopedic surgery as planned. Educate patient on signs of infection or worsening symptoms requiring urgent evaluation."
+ },
+ "pt-2024-05-01-Physical Therapy Initial Evaluation:4010413fe5": {
+  "chief_complaint": "Intermittent bilateral knee aches.",
+  "subjective": "The patient reports occasional aching in both knees, described as mild and intermittent. No recent injury or trauma. Pain is managed effectively with acetaminophen as needed. No limitations in daily activities or ambulation reported. No swelling or instability noted.",
+  "objective": "Gait observed as steady and symmetrical without assistive devices. Knee range of motion within normal limits bilaterally. Mild tenderness to palpation over medial joint lines. No effusion or redness. Strength testing reveals 5/5 quadriceps and hamstrings bilaterally. Vital signs stable; blood pressure within controlled range. No signs of acute distress.",
+  "assessment": "Type 2 diabetes and hypertension well controlled. Intermittent bilateral knee discomfort likely related to mild osteoarthritic changes or overuse. No functional impairment at this time. Pain adequately managed with acetaminophen. No contraindications to physical therapy interventions.",
+  "plan": "Initiate physical therapy focusing on strengthening and flexibility exercises for lower extremities to support knee joint health. Educate patient on activity modification and joint protection strategies. Monitor symptoms and functional status at follow-up visits. Encourage continued adherence to medical management for diabetes and hypertension."
+ },
+ "pt-2024-06-02-Physical Therapy Discharge Summary:9221eab419": {
+  "chief_complaint": "Intermittent bilateral knee aches",
+  "subjective": "The patient reports occasional bilateral knee discomfort, described as mild and intermittent. No recent exacerbations noted. Pain is managed effectively with acetaminophen as needed. No limitations in daily activities reported.",
+  "objective": "Gait steady and symmetrical without assistive devices. Full active range of motion in both knees without pain. Strength testing reveals 5/5 bilateral lower extremities. No swelling or joint effusion observed. Functional mobility intact.",
+  "assessment": "Type 2 diabetes and hypertension remain stable. Intermittent bilateral knee aches persist but are well controlled with conservative measures. No functional deficits identified at this time.",
+  "plan": "Discharge from physical therapy with education on joint protection and activity modification as needed. Continue acetaminophen for knee discomfort as previously directed. Encourage regular physical activity and monitoring of diabetes and hypertension. Follow-up with primary care provider as scheduled."
+ },
+ "pt-2025-05-10-Physical Therapy Initial Evaluation:9198f7c5d2": {
+  "chief_complaint": "Bilateral knee pain, right worse, with swelling and stiffness.",
+  "subjective": "The patient reports progressive bilateral knee discomfort over recent weeks, describing stiffness and swelling more pronounced on the right side. Pain increases with prolonged standing and stair climbing. Previous corticosteroid injections provided temporary relief. The patient has been attending physical therapy sessions with some improvement noted.",
+  "objective": "Inspection reveals mild effusion in the right knee, slight swelling in the left. Range of motion limited on the right with 10 degrees loss of extension and flexion to 110 degrees. Left knee shows near full range. Palpation elicits tenderness along the medial joint lines bilaterally, more so on the right. Quadriceps strength 4/5 bilaterally. Gait is antalgic favoring the right side. No instability noted.",
+  "assessment": "Bilateral knee osteoarthritis with right knee more symptomatic, evidenced by swelling, stiffness, and decreased range of motion. Patient is currently undergoing physical therapy and has received injections with partial symptom relief.",
+  "plan": "Continue physical therapy focusing on range of motion exercises, strengthening of quadriceps and hamstrings, and modalities to reduce swelling. Monitor pain and swelling levels. Educate patient on activity modification and joint protection strategies. Reassess progress in 4 weeks."
+ },
+ "pt-2025-07-05-Physical Therapy Discharge Summary:d22ace412d": {
+  "chief_complaint": "Bilateral knee pain with swelling and stiffness, right side worse.",
+  "subjective": "The patient reports ongoing bilateral knee discomfort, describing stiffness and swelling more pronounced on the right side. Pain intensity has fluctuated but remains a limiting factor in daily activities. The patient has undergone injections and participated in physical therapy sessions.",
+  "objective": "On examination, bilateral knee swelling noted, right greater than left. Range of motion reduced due to stiffness, particularly in right knee. Palpation reveals tenderness along joint lines. Strength testing shows mild quadriceps weakness bilaterally. Gait observed with slight antalgic pattern favoring right leg.",
+  "assessment": "Progressive bilateral knee osteoarthritis symptoms with increased right knee involvement. Persistent swelling and stiffness despite prior interventions including injections and physical therapy. Functional limitations secondary to pain and decreased mobility.",
+  "plan": "Continue home exercise program focusing on range of motion and strengthening. Educate patient on activity modification to manage symptoms. Recommend follow-up with referring provider for ongoing management. No new interventions initiated at this time."
+ },
+ "pt-2026-04-01-Physical Therapy Initial Evaluation:52c0b829ec": {
+  "chief_complaint": "Right knee pain with instability and decreased ambulation.",
+  "subjective": "The patient reports worsening right knee pain over the past several weeks, describing episodes of instability leading to two recent falls. Walking tolerance has decreased significantly. The patient is currently using bilateral canes for ambulation. Engaged in a weight-loss program in preparation for planned right knee arthroplasty.",
+  "objective": "Inspection reveals mild effusion and tenderness over the medial joint line of the right knee. Range of motion limited by pain, approximately 0-90 degrees active flexion. Ligamentous testing shows mild laxity. Gait is antalgic with bilateral cane use. Timed Up and Go test completed in 18 seconds. Patient demonstrates decreased single-leg stance time on the right side. Strength testing reveals quadriceps weakness graded 3+/5 on the right.",
+  "assessment": "Right knee osteoarthritis with increased pain, instability, and decreased functional mobility. Patient is preoperative for right knee arthroplasty and currently uses bilateral canes. Falls risk elevated due to instability and weakness.",
+  "plan": "Initiate physical therapy focusing on pain management, strengthening of quadriceps and surrounding musculature, balance training to reduce fall risk, and gait training with current assistive devices. Monitor progress toward improved stability and walking endurance. Coordinate with weight-loss program and surgical team for ongoing care."
+ },
+ "pt-2026-05-09-Physical Therapy Discharge Summary:88d028d6ba": {
+  "chief_complaint": "Right knee pain with instability and decreased mobility.",
+  "subjective": "The patient reports increased right knee pain over the past several weeks, describing episodes of instability leading to two recent falls. Walking distance has diminished significantly. The patient continues to use bilateral canes for ambulation. Engaged in a weight-loss program in preparation for upcoming right knee arthroplasty.",
+  "objective": "Gait observed with bilateral canes; unsteady with frequent antalgic pattern. Right knee shows decreased range of motion, swelling, and tenderness on palpation. Strength testing reveals quadriceps weakness graded 3/5 on the right. Balance testing indicates impaired single-leg stance on the right side. Functional ambulation limited to approximately 100 feet with frequent rest breaks.",
+  "assessment": "Worsening right knee osteoarthritis symptoms with increased pain, instability, and decreased functional mobility. Patient demonstrates decreased strength and balance contributing to fall risk. Continues to use bilateral canes for ambulation. Weight-loss efforts ongoing prior to planned surgical intervention.",
+  "plan": "Discharge from physical therapy at this time due to surgical planning phase. Continue weight-loss program and home exercise focusing on quadriceps strengthening and balance as tolerated. Monitor for any further decline or increased fall risk. Coordinate with orthopedic surgery team for preoperative optimization."
+ }
+}
